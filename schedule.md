@@ -133,7 +133,7 @@ _In Class_
 _In Class_
 - Class visit from Dan Bouk
 
-*Homework #5 Due Friday, 10/15 by 11:59PM*
+*[Homework #5]({{site.baseurl}}/homework/hw-05.zip) due Friday, 10/15 by 11:59PM*
 
 #### Mon., Oct. 18: Data Analysis / Pandas II
 - [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
