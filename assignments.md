@@ -28,7 +28,7 @@ You will be completing a series of coding homework assignments in order to help 
 - [Homework #1 (9/10)]({{site.baseurl}}/homework/hw-01.ipynb)
 - [Homework #2 (9/17)]({{site.baseurl}}/homework/hw-02.ipynb)
 - [Homework #3 (9/24)]({{site.baseurl}}/homework/hw-03.ipynb)
-- [Homework #4 (10/1)]({{site.baseurl}}/homework/hw-04.ipynb)
+- [Homework #4 (10/5)]({{site.baseurl}}/homework/hw-04.ipynb)
 - Homework #5 (10/15)
 - Homework #6 (10/22)
 - Homework #7 (11/5)

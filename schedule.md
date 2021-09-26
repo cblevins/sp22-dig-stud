@@ -95,8 +95,6 @@ _In Class_
 _In Class_
 - Max presentation
 
-*[Homework #4]({{site.baseurl}}/homework/hw-04.ipynb) Due Friday, 10/1 by 11:59PM*
-
 *[First Self Assessment](https://ucdenver.instructure.com/courses/474404/assignments/1144859) Due Sunday, 10/3 by 11:59PM*
 
 ## Government Data
@@ -111,6 +109,8 @@ _In Class_
 - Keira presentation
 - Transcribing data 
 - Structuring data
+
+*[Homework #4]({{site.baseurl}}/homework/hw-04.ipynb) Due Tuesday, 10/5 by 11:59PM*
 
 #### Wed., Oct. 6: Government Data I: Origins of the U.S. Census
 - “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, *The American Census: A Social History* (pp. 86-114) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP)
