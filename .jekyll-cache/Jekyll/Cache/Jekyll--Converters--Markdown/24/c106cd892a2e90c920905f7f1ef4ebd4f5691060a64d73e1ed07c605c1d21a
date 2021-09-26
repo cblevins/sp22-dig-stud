@@ -1,4 +1,4 @@
-I"X<p>Launch Jupyter Labs and create a new directory within your class folder <code class="language-plaintext highlighter-rouge">data-a-user-manual</code> called <code class="language-plaintext highlighter-rouge">working-with-text</code>. Navigate to that folder and create a new Jupyter Notebook, renaming the filename: <code class="language-plaintext highlighter-rouge">working-with-text.ipynb</code>.</p>
+I"c<p>Launch Jupyter Labs and create a new directory within your class folder <code class="language-plaintext highlighter-rouge">data-a-user-manual</code> called <code class="language-plaintext highlighter-rouge">working-with-text</code>. Navigate to that folder and create a new Jupyter Notebook, renaming the filename: <code class="language-plaintext highlighter-rouge">working-with-text.ipynb</code>.</p>
 
 <p>Today we’ll be working with a single text: a narrative dictated by <a href="https://en.wikipedia.org/wiki/Venture_Smith">Venture Smith</a>, a successful businessman and formerly enslaved man in colonial-era New England. The narrative, <em>A Narrative of the Life and Adventures of Venture, a Native of Africa: But Resident above Sixty Years in the United States of America, Related by Himself</em>, is available in several formats online but for the purposes of today I’ve put it into the primary kind of file you will want to use when working with textual data in Python: a text file (ending in <code class="language-plaintext highlighter-rouge">.txt</code>).</p>
 
@@ -20,7 +20,7 @@
   <li>Use <code class="language-plaintext highlighter-rouge">string.split()</code>, <code class="language-plaintext highlighter-rouge">index()</code>, and <code class="language-plaintext highlighter-rouge">len()</code> to:
     <ul>
       <li>Print <strong>the 200th word</strong> in Smith’s narrative</li>
-      <li>Print <strong>the length of the 200th word</strong> in Smith’s narrative measured by number of characters/letters.</li>
+      <li><del>Print <strong>the length of the 200th word</strong> in Smith’s narrative measured by number of characters/letters.</del></li>
       <li>Print the length of Smith’s narrative measured by <strong>number of words</strong></li>
     </ul>
   </li>

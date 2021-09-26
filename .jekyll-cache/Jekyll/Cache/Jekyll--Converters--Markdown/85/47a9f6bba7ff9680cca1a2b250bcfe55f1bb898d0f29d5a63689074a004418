@@ -1,4 +1,4 @@
-I"åI<h2 id="i-the-basics">I. The Basics</h2>
+I"ÏJ<h2 id="i-the-basics">I. The Basics</h2>
 
 <h4 id="mon-aug-23-introduction-to-the-course">Mon., Aug. 23: Introduction to the Course</h4>
 
@@ -113,6 +113,7 @@
 <p><em>In Class</em></p>
 <ul>
   <li>Teddy presentation</li>
+  <li><a href="/f21-data/in-class/dictionaries-functions.ipynb">Dictionaries and Functions Practice</a></li>
 </ul>
 
 <h4 id="wed-sep-29-bodies-archives-and-data">Wed., Sep. 29: Bodies, Archives, and Data</h4>
@@ -127,7 +128,7 @@
 
 <p><em><a href="/f21-data/homework/hw-04.ipynb">Homework #4</a> Due Friday, 10/1 by 11:59PM</em></p>
 
-<p><em>First Self Assessment Due Sunday, 10/3 by 11:59PM</em></p>
+<p><em><a href="https://ucdenver.instructure.com/courses/474404/assignments/1144859">First Self Assessment</a> Due Sunday, 10/3 by 11:59PM</em></p>
 
 <h2 id="government-data">Government Data</h2>
 
@@ -184,7 +185,7 @@
   <li>Class visit from Dan Bouk</li>
 </ul>
 
-<p><em>Homework #5 Due Friday, 10/15 by 11:59PM</em></p>
+<p><em><a href="/f21-data/homework/hw-05.zip">Homework #5</a> due Friday, 10/15 by 11:59PM</em></p>
 
 <h4 id="mon-oct-18-data-analysis--pandas-ii">Mon., Oct. 18: Data Analysis / Pandas II</h4>
 <ul>

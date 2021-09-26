@@ -87,6 +87,7 @@ _In Class_
 
 _In Class_
 - Teddy presentation
+- [Dictionaries and Functions Practice]({{site.baseurl}}/in-class/dictionaries-functions.ipynb) (Jupyter Notebook file)
 
 #### Wed., Sep. 29: Bodies, Archives, and Data
 - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) *Social Text*, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/ixkyAYTvx6JH95KKg)

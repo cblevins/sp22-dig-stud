@@ -1,0 +1,516 @@
+first_name,last_name,date,age,native_country,destination_city,destination_state,occupation,ship
+Jno,McNab,09 Apr 1884,21,Scotland,Suelpla,Canada,Farmer,Steamship Grecian
+Thos,Campbell,09 Apr 1884,24,Scotland,Suelpla,Canada,Farmer,Steamship Grecian
+Jas,Mitchell,09 Apr 1884,23,Scotland,Detroit,MI,Farmer,Steamship Grecian
+Don,Cumming,09 Apr 1884,24,Scotland,Detroit,MI,Blacksmith,Steamship Grecian
+Jno,McKinlay,09 Apr 1884,24,Scotland,Winnipeg,Canada,Farmer,Steamship Grecian
+John,Wilson,09 Apr 1884,28,Scotland,Boston,MA,Farmer,Steamship Grecian
+Philip,McCall,09 Apr 1884,48,Scotland,Minnisota,MN,Laborer,Steamship Grecian
+Rob,Watson,09 Apr 1884,20,Scotland,Boston,MA,Miller,Steamship Grecian
+Wm.M,Thomson,09 Apr 1884,25,Scotland,Brandon,VT,Farmer,Steamship Grecian
+J.T,Holmes,09 Apr 1884,23,Scotland,Brandon,VT,Farmer,Steamship Grecian
+John,Murray,09 Apr 1884,55,Scotland,Dayton,OH,Laborer,Steamship Grecian
+Thos.B,Watson,09 Apr 1884,23,Scotland,Boston,MA,Clerk,Steamship Grecian
+,Roberts,09 Apr 1884,40,Scotland,Boston,MA,Wife,Steamship Grecian
+Cath,McGHepburn,09 Apr 1884,27,Scotland,Portland,ME,Domestic,Steamship Grecian
+David,Connor,09 Apr 1884,22,Scotland,St. Paul,MN,Laborer,Steamship Grecian
+Adam,Spalding,09 Apr 1884,18,Scotland,Providence,RI,Laborer,Steamship Grecian
+John,Little,09 Apr 1884,26,Scotland,Woodstock,VT,Laborer,Steamship Grecian
+Hugh,McKay,09 Apr 1884,25,Scotland,Goderich,Canada,Laborer,Steamship Grecian
+Robt,Chalmers,09 Apr 1884,23,Scotland,Boston,MA,Laborer,Steamship Grecian
+Jno,Chalmers,09 Apr 1884,25,Scotland,Boston,MA,Laborer,Steamship Grecian
+Chas,Mann,09 Apr 1884,23,Scotland,Toronto,Canada,Laborer,Steamship Grecian
+Thos,Robb,09 Apr 1884,24,Scotland,Madison,WI,Laborer,Steamship Grecian
+Alex,Livingston,09 Apr 1884,24,Scotland,Lamoine,ME,Laborer,Steamship Grecian
+Robt,McBride,09 Apr 1884,38,Scotland,Chicago,IL,Laborer,Steamship Grecian
+,McBride,09 Apr 1884,36,Scotland,Chicago,IL,Wife,Steamship Grecian
+Alex,McBride,09 Apr 1884,12,Scotland,Chicago,IL,Child,Steamship Grecian
+Cath,McBride,09 Apr 1884,11,Scotland,Chicago,IL,Child,Steamship Grecian
+Wm,McBride,09 Apr 1884,9,Scotland,Chicago,IL,Child,Steamship Grecian
+Agnes,McBride,09 Apr 1884,7,Scotland,Chicago,IL,Child,Steamship Grecian
+Maggie,McBride,09 Apr 1884,4,Scotland,Chicago,IL,Child,Steamship Grecian
+Robt,McBride,09 Apr 1884,6,Scotland,Chicago,IL,Child,Steamship Grecian
+John,Murphy,09 Apr 1884,34,Scotland,Canandaigua,NY,Laborer,Steamship Grecian
+Peter,Kelly,09 Apr 1884,30,Scotland,Houtzdale,Canada,Laborer,Steamship Grecian
+Jno,Blair,09 Apr 1884,32,Scotland,Portland,ME,Laborer,Steamship Grecian
+Geo,Pollock,09 Apr 1884,30,Scotland,New York,NY,Laborer,Steamship Grecian
+Ellenor,Pollock,09 Apr 1884,26,Scotland,New York,NY,Wife,Steamship Grecian
+Geo,Pollock,09 Apr 1884,4,Scotland,New York,NY,Child,Steamship Grecian
+Jno,Laurie,09 Apr 1884,37,Scotland,Boston,MA,Laborer,Steamship Grecian
+Jno,Williamson,09 Apr 1884,28,Scotland,Boston,MA,Laborer,Steamship Grecian
+Wm,Rush,09 Apr 1884,42,Scotland,Boston,MA,Farmer,Steamship Grecian
+Wm,Martin,09 Apr 1884,26,Scotland,Brookville,OH,Laborer,Steamship Grecian
+Jas.L,Hepburn,09 Apr 1884,16,Scotland,Portland,ME,Laborer,Steamship Grecian
+Jas,Martin,09 Apr 1884,40,Scotland,Brookville,OH,Laborer,Steamship Grecian
+Hannah,Campbell,09 Apr 1884,40,Scotland,Mancester,NH,Domestic,Steamship Grecian
+Ellen,Cairns,09 Apr 1884,37,Scotland,Portland,ME,Domestic,Steamship Grecian
+Ellen,McKenna,09 Apr 1884,19,Scotland,Portland,ME,Domestic,Steamship Grecian
+R,Collie,09 Apr 1884,19,Scotland,Clifton,Canada,Domestic,Steamship Grecian
+,Watson,09 Apr 1884,40,Scotland,Auburn,NY,Wife,Steamship Grecian
+Mary,Watson,09 Apr 1884,11,Scotland,Auburn,NY,Child,Steamship Grecian
+Sarah,Watson,09 Apr 1884,4,Scotland,Auburn,NY,Child,Steamship Grecian
+Annie,Morrison,09 Apr 1884,27,Scotland,Boston,MA,Domestic,Steamship Grecian
+Hugh,McCarron,09 Apr 1884,30,Ireland,Boston,MA,Laborer,Steamship Grecian
+Wm,Martin,09 Apr 1884,22,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jus,Muloney,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Patk,Moore,09 Apr 1884,22,Ireland,Boston,MA,Laborer,Steamship Grecian
+Peter,Flanigan,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Peter,Short,09 Apr 1884,25,Ireland,Boston,MA,Laborer,Steamship Grecian
+Thos,Lynch,09 Apr 1884,37,Ireland,Boston,MA,Laborer,Steamship Grecian
+David,Bretton,09 Apr 1884,24,Ireland,Boston,MA,Laborer,Steamship Grecian
+Hannah,Bretton,09 Apr 1884,2,Ireland,Boston,MA,Child,Steamship Grecian
+Bgt,Bretton,09 Apr 1884,19,Ireland,Boston,MA,Domestic,Steamship Grecian
+Edw,Carey,09 Apr 1884,38,Ireland,Boston,MA,Laborer,Steamship Grecian
+Edw,Breslin,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jas,McLean,09 Apr 1884,23,Ireland,Boston,MA,Laborer,Steamship Grecian
+Pat,Noone,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Geo,O'Donnell,09 Apr 1884,39,Ireland,Boston,MA,Laborer,Steamship Grecian
+Eliz,Caldwell,09 Apr 1884,40,Ireland,Boston,MA,Domestic,Steamship Grecian
+Pat,Daly,09 Apr 1884,18,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jas,Gallagher,09 Apr 1884,46,Ireland,Boston,MA,Laborer,Steamship Grecian
+Francis,Grimes,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Susan,O'Donnell,09 Apr 1884,35,Ireland,Boston,MA,Wife,Steamship Grecian
+Jas,O'Donnell,09 Apr 1884,19,Ireland,Boston,MA,Laborer,Steamship Grecian
+Neal,Doherty,09 Apr 1884,37,Ireland,Boston,MA,Laborer,Steamship Grecian
+Sarah,Doherty,09 Apr 1884,32,Ireland,Boston,MA,Wife,Steamship Grecian
+Pat,Doherty,09 Apr 1884,7,Ireland,Boston,MA,Child,Steamship Grecian
+Cath,Doherty,09 Apr 1884,6,Ireland,Boston,MA,Child,Steamship Grecian
+Mary,Doherty,09 Apr 1884,4,Ireland,Boston,MA,Child,Steamship Grecian
+Neal,Doherty,09 Apr 1884,2,Ireland,Boston,MA,Child,Steamship Grecian
+James,Doherty,09 Apr 1884,11,Ireland,Boston,MA,Child,Steamship Grecian
+Mary,Graham,09 Apr 1884,28,Ireland,Boston,MA,Domestic,Steamship Grecian
+Rebecca,Graham,09 Apr 1884,18,Ireland,Boston,MA,Domestic,Steamship Grecian
+Jane,McCool,09 Apr 1884,19,Ireland,Boston,MA,Domestic,Steamship Grecian
+Rose,Doherty,09 Apr 1884,20,Ireland,Boston,MA,Domestic,Steamship Grecian
+Jno,Daly,09 Apr 1884,18,Ireland,Boston,MA,Laborer,Steamship Grecian
+Marg,McRubey,09 Apr 1884,27,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mary,Starrs,09 Apr 1884,20,Ireland,New York,NY,Domestic,Steamship Grecian
+Owen,Starrs,09 Apr 1884,18,Ireland,New York,NY,Laborer,Steamship Grecian
+Jas,Dolan,09 Apr 1884,22,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jas,Doherty,09 Apr 1884,18,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jno,Canny,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mary,Canny,09 Apr 1884,20,Ireland,Boston,MA,Domestic,Steamship Grecian
+Margt,Canny,09 Apr 1884,18,Ireland,Boston,MA,Domestic,Steamship Grecian
+Chas,Doherty,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mary,Doherty,09 Apr 1884,18,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mary,Hanna,09 Apr 1884,36,Ireland,Boston,MA,Domestic,Steamship Grecian
+John,Cone,09 Apr 1884,30,Ireland,Boston,MA,Laborer,Steamship Grecian
+Hugh,McDonald,09 Apr 1884,25,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+Rodger,McLaughlin,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Danl,Duffy,09 Apr 1884,27,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jno,Carlin,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Hugh,Ruane,09 Apr 1884,20,Ireland,Parkersburg,WV,Laborer,Steamship Grecian
+Marg,McCaul,09 Apr 1884,21,Ireland,Pawtucket,RI,Domestic,Steamship Grecian
+Ann,McCaul,09 Apr 1884,19,Ireland,Pawtucket,RI,Domestic,Steamship Grecian
+Francis,McCaul,09 Apr 1884,15,Ireland,Pawtucket,RI,Laborer,Steamship Grecian
+Pat,McCaul,09 Apr 1884,12,Ireland,Pawtucket,RI,Laborer,Steamship Grecian
+Neal,Harkin,09 Apr 1884,32,Ireland,Boston,MA,Laborer,Steamship Grecian
+Pat,McKernan,09 Apr 1884,32,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jno,McGuire,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jno,Boggs,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Robt,Gilmore,09 Apr 1884,55,Ireland,Boston,MA,Laborer,Steamship Grecian
+Ellen,Gilmore,09 Apr 1884,26,Ireland,Boston,MA,Wife,Steamship Grecian
+Robt,Gilmore,09 Apr 1884,25,Ireland,Boston,MA,Laborer,Steamship Grecian
+Hy,Gilmore,09 Apr 1884,24,Ireland,Boston,MA,Laborer,Steamship Grecian
+Eliza,Gilmore,09 Apr 1884,22,Ireland,Boston,MA,Domestic,Steamship Grecian
+Geo,Gilmore,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Sarah,McLaughlin,09 Apr 1884,28,Ireland,Boston,MA,Domestic,Steamship Grecian
+Jas,Blakeley,09 Apr 1884,25,Ireland,Boston,MA,Laborer,Steamship Grecian
+Bgt,Odonnell,09 Apr 1884,30,Ireland,Michanieville,CT,Wife,Steamship Grecian
+Jas,Odonnell,09 Apr 1884,4,Ireland,Michanieville,CT,Child,Steamship Grecian
+Jas,Foy,09 Apr 1884,45,Ireland,New London,PA,Laborer,Steamship Grecian
+Bgt,Foy,09 Apr 1884,19,Ireland,New London,PA,Domestic,Steamship Grecian
+Math,Foy,09 Apr 1884,16,Ireland,New London,PA,Laborer,Steamship Grecian
+Mary,Foy,09 Apr 1884,13,Ireland,New London,PA,Domestic,Steamship Grecian
+Thos,Routledge,09 Apr 1884,48,Ireland,Elmira,NY,Laborer,Steamship Grecian
+Mary,Routledge,09 Apr 1884,19,Ireland,Elmira,NY,Domestic,Steamship Grecian
+Fanny,Routledge,09 Apr 1884,13,Ireland,Elmira,NY,Domestic,Steamship Grecian
+Barb,Routledge,09 Apr 1884,15,Ireland,Elmira,NY,Domestic,Steamship Grecian
+Rachel,Routledge,09 Apr 1884,11,Ireland,Elmira,NY,Child,Steamship Grecian
+Wm,Routledge,09 Apr 1884,8,Ireland,Elmira,NY,Child,Steamship Grecian
+Letitia,Routledge,09 Apr 1884,5,Ireland,Elmira,NY,Child,Steamship Grecian
+James,Routledge,09 Apr 1884,3,Ireland,Elmira,NY,Child,Steamship Grecian
+Pat,Odonnell,09 Apr 1884,36,Ireland,Scranton,PA,Laborer,Steamship Grecian
+Marg,Odonnell,09 Apr 1884,30,Ireland,Scranton,PA,Wife,Steamship Grecian
+Ellen,Odonnell,09 Apr 1884,11,Ireland,Scranton,PA,Child,Steamship Grecian
+Edw,Odonnell,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Pat,Odonnell,09 Apr 1884,7,Ireland,Scranton,PA,Child,Steamship Grecian
+Thos,Odonnell,09 Apr 1884,5,Ireland,Scranton,PA,Child,Steamship Grecian
+Marg,Odonnell,09 Apr 1884,3,Ireland,Scranton,PA,Child,Steamship Grecian
+Jas,McGough,09 Apr 1884,49,Ireland,Scranton,PA,Laborer,Steamship Grecian
+Margt,McGough,09 Apr 1884,45,Ireland,Scranton,PA,Wife,Steamship Grecian
+Bgt,McGough,09 Apr 1884,15,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Mary,McGough,09 Apr 1884,13,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Honor,McGough,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Ellen,McGough,09 Apr 1884,6,Ireland,Scranton,PA,Child,Steamship Grecian
+Bgt,Gallagher,09 Apr 1884,27,Ireland,Jersey City,NJ,Wife,Steamship Grecian
+John,Gallagher,09 Apr 1884,6,Ireland,Jersey City,NJ,Child,Steamship Grecian
+James,Gallagher,09 Apr 1884,5,Ireland,Jersey City,NJ,Child,Steamship Grecian
+Bgt,Gorman,09 Apr 1884,40,Ireland,New York,NY,Wife,Steamship Grecian
+Ellen,Gorman,09 Apr 1884,18,Ireland,New York,NY,Domestic,Steamship Grecian
+Auth,Gorman,09 Apr 1884,17,Ireland,New York,NY,Laborer,Steamship Grecian
+Mich,Gorman,09 Apr 1884,16,Ireland,New York,NY,Laborer,Steamship Grecian
+Honor,Gorman,09 Apr 1884,13,Ireland,New York,NY,Domestic,Steamship Grecian
+Thos,Gorman,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+Bgt,Gorman,09 Apr 1884,9,Ireland,New York,NY,Child,Steamship Grecian
+Celia,Heally,09 Apr 1884,45,Ireland,Philadelphia,PA,Wife,Steamship Grecian
+Mich,Heally,09 Apr 1884,20,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+Celia,Heally,09 Apr 1884,14,Ireland,Philadelphia,PA,Domestic,Steamship Grecian
+Jane,Heally,09 Apr 1884,12,Ireland,Philadelphia,PA,Domestic,Steamship Grecian
+Thos,Heally,09 Apr 1884,9,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Harry,Heally,09 Apr 1884,4,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Pat,Lofus,09 Apr 1884,35,Ireland,Oneida,NY,Laborer,Steamship Grecian
+Bgt,Lofus,09 Apr 1884,30,Ireland,Oneida,NY,Wife,Steamship Grecian
+Mary,Lofus,09 Apr 1884,11,Ireland,Oneida,NY,Child,Steamship Grecian
+Pat,Lofus,09 Apr 1884,7,Ireland,Oneida,NY,Child,Steamship Grecian
+Thos,Halligan,09 Apr 1884,53,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Cath,Halligan,09 Apr 1884,40,Ireland,Brooklyn,NY,Wife,Steamship Grecian
+Jno,Halligan,09 Apr 1884,23,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Mary,Halligan,09 Apr 1884,21,Ireland,Brooklyn,NY,Domestic,Steamship Grecian
+Jas,Halligan,09 Apr 1884,19,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Bgt,Halligan,09 Apr 1884,17,Ireland,Brooklyn,NY,Domestic,Steamship Grecian
+Thos,Halligan,09 Apr 1884,13,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Pat,Halligan,09 Apr 1884,11,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Bridt,McDermott,09 Apr 1884,40,Ireland,Dobbs Ferry,NY,Wife,Steamship Grecian
+Jno,McDermott,09 Apr 1884,19,Ireland,Dobbs Ferry,NY,Laborer,Steamship Grecian
+Ellen,McDermott,09 Apr 1884,16,Ireland,Dobbs Ferry,NY,Domestic,Steamship Grecian
+Bgt,Mellett,09 Apr 1884,41,Ireland,Taunton,MA,Wife,Steamship Grecian
+Geo,Mellett,09 Apr 1884,20,Ireland,Taunton,MA,Laborer,Steamship Grecian
+Kate,Mellett,09 Apr 1884,18,Ireland,Taunton,MA,Domestic,Steamship Grecian
+Pat,Mellett,09 Apr 1884,16,Ireland,Taunton,MA,Laborer,Steamship Grecian
+Mary,Mellett,09 Apr 1884,15,Ireland,Taunton,MA,Domestic,Steamship Grecian
+Margt,Cunningham,09 Apr 1884,45,Ireland,Ekleson,ND,Wife,Steamship Grecian
+Mich,Cunningham,09 Apr 1884,22,Ireland,Ekleson,ND,Laborer,Steamship Grecian
+Martin,Kearnes,09 Apr 1884,25,Ireland,San Fransisco,CA,Laborer,Steamship Grecian
+Bgt,Kearnes,09 Apr 1884,23,Ireland,San Fransisco,CA,Wife,Steamship Grecian
+Ann,Kearnes,09 Apr 1884,52,Ireland,San Fransisco,CA,Wife,Steamship Grecian
+Jno,Kearnes,09 Apr 1884,21,Ireland,San Fransisco,CA,Laborer,Steamship Grecian
+Bgt,Kearnes,09 Apr 1884,1,Ireland,San Fransisco,CA,Child,Steamship Grecian
+Math,McGiven,09 Apr 1884,51,Ireland,Mottville,NY,Laborer,Steamship Grecian
+Mary,McGiven,09 Apr 1884,45,Ireland,Mottville,NY,Wife,Steamship Grecian
+Pat,McGiven,09 Apr 1884,23,Ireland,Mottville,NY,Laborer,Steamship Grecian
+Jas,McGiven,09 Apr 1884,20,Ireland,Mottville,NY,Laborer,Steamship Grecian
+Math,McGiven,09 Apr 1884,18,Ireland,Mottville,NY,Laborer,Steamship Grecian
+Bgt,McGiven,09 Apr 1884,14,Ireland,Mottville,NY,Domestic,Steamship Grecian
+Agnes,McGiven,09 Apr 1884,11,Ireland,Mottville,NY,Child,Steamship Grecian
+Margt,McGiven,09 Apr 1884,5,Ireland,Mottville,NY,Child,Steamship Grecian
+Jno,Marrin,09 Apr 1884,34,Ireland,Danbury,CT,Laborer,Steamship Grecian
+Bgt,Marrin,09 Apr 1884,28,Ireland,Danbury,CT,Wife,Steamship Grecian
+Mich,Marrin,09 Apr 1884,8,Ireland,Danbury,CT,Child,Steamship Grecian
+John,Marrin,09 Apr 1884,5,Ireland,Danbury,CT,Child,Steamship Grecian
+Pat,Marrin,09 Apr 1884,2,Ireland,Danbury,CT,Child,Steamship Grecian
+Ellen,Sheridan,09 Apr 1884,25,Ireland,Danbury,CT,Domestic,Steamship Grecian
+Jno,Flannery,09 Apr 1884,52,Ireland,Lowell,MA,Laborer,Steamship Grecian
+Jane,Flannery,09 Apr 1884,46,Ireland,Lowell,MA,Wife,Steamship Grecian
+Ann,Flannery,09 Apr 1884,22,Ireland,Lowell,MA,Domestic,Steamship Grecian
+Cath,Flannery,09 Apr 1884,20,Ireland,Lowell,MA,Domestic,Steamship Grecian
+Jno,Flannery,09 Apr 1884,18,Ireland,Lowell,MA,Laborer,Steamship Grecian
+Ellen,Flannery,09 Apr 1884,16,Ireland,Lowell,MA,Domestic,Steamship Grecian
+James,Flannery,09 Apr 1884,8,Ireland,Lowell,MA,Child,Steamship Grecian
+Jno,Giblin,09 Apr 1884,40,Ireland,Hartford,CT,Laborer,Steamship Grecian
+Cath,Giblin,09 Apr 1884,40,Ireland,Hartford,CT,Wife,Steamship Grecian
+Mary,Giblin,09 Apr 1884,22,Ireland,Hartford,CT,Domestic,Steamship Grecian
+Cath,Giblin,09 Apr 1884,19,Ireland,Hartford,CT,Domestic,Steamship Grecian
+Thos,Giblin,09 Apr 1884,17,Ireland,Hartford,CT,Laborer,Steamship Grecian
+Denis,Giblin,09 Apr 1884,14,Ireland,Hartford,CT,Laborer,Steamship Grecian
+Bgt,Giblin,09 Apr 1884,9,Ireland,Hartford,CT,Child,Steamship Grecian
+Mary,Monaghan,09 Apr 1884,40,Ireland,Jersey City,NJ,Laborer,Steamship Grecian
+Bgt,Monaghan,09 Apr 1884,28,Ireland,Jersey City,NJ,Wife,Steamship Grecian
+Pat,Monaghan,09 Apr 1884,20,Ireland,Jersey City,NJ,Laborer,Steamship Grecian
+Wm,Monaghan,09 Apr 1884,18,Ireland,Jersey City,NJ,Laborer,Steamship Grecian
+Martin,Monaghan,09 Apr 1884,16,Ireland,Jersey City,NJ,Laborer,Steamship Grecian
+Rodger,Coyne,09 Apr 1884,44,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Bgt,Coyne,09 Apr 1884,24,Ireland,Brooklyn,NY,Wife,Steamship Grecian
+Marg,Coyne,09 Apr 1884,64,Ireland,Brooklyn,NY,Wife,Steamship Grecian
+John,Coyne,09 Apr 1884,12,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Mary,Coyne,09 Apr 1884,10,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Mich,Coyne,09 Apr 1884,6,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Cath,Coyne,09 Apr 1884,5,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Margt,Coyne,09 Apr 1884,2,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Honor,Gibbons,09 Apr 1884,50,Ireland,Philadelphia,PA,Wife,Steamship Grecian
+Dominic,Gibbons,09 Apr 1884,20,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+Honor,Gibbons,09 Apr 1884,19,Ireland,Philadelphia,PA,Domestic,Steamship Grecian
+Pat,Gibbons,09 Apr 1884,17,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+Rich,Gethins,09 Apr 1884,30,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+and,Cafferty,09 Apr 1884,50,Ireland,Chicago,IL,Laborer,Steamship Grecian
+Bgt,Cafferty,09 Apr 1884,48,Ireland,Chicago,IL,Wife,Steamship Grecian
+Jno,Cafferty,09 Apr 1884,21,Ireland,Chicago,IL,Laborer,Steamship Grecian
+Bgt,Cafferty,09 Apr 1884,19,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Cath,Cafferty,09 Apr 1884,14,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Marg,Cafferty,09 Apr 1884,15,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Julia,Cafferty,09 Apr 1884,13,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Homina,Cafferty,09 Apr 1884,11,Ireland,Chicago,IL,Child,Steamship Grecian
+Ellen,Cafferty,09 Apr 1884,9,Ireland,Chicago,IL,Child,Steamship Grecian
+Ann,Cafferty,09 Apr 1884,6,Ireland,Chicago,IL,Child,Steamship Grecian
+Bgt,Conlon,09 Apr 1884,35,Ireland,Ekleson,ND,Wife,Steamship Grecian
+Bgt,Conlon,09 Apr 1884,16,Ireland,Ekleson,ND,Domestic,Steamship Grecian
+Mary,Conlon,09 Apr 1884,13,Ireland,Ekleson,ND,Domestic,Steamship Grecian
+Marj,Conlon,09 Apr 1884,12,Ireland,Ekleson,ND,Domestic,Steamship Grecian
+John,Conlon,09 Apr 1884,9,Ireland,Ekleson,ND,Child,Steamship Grecian
+Martin,Conlon,09 Apr 1884,7,Ireland,Ekleson,ND,Child,Steamship Grecian
+Pat,Conlon,09 Apr 1884,4,Ireland,Ekleson,ND,Child,Steamship Grecian
+Mary,Duncan,09 Apr 1884,20,Ireland,Ekleson,ND,Domestic,Steamship Grecian
+Jas,Nolan,09 Apr 1884,40,Ireland,Painesville,OH,Laborer,Steamship Grecian
+Mary,Nolan,09 Apr 1884,36,Ireland,Painesville,OH,Wife,Steamship Grecian
+Aud,Nolan,09 Apr 1884,9,Ireland,Painesville,OH,Child,Steamship Grecian
+Mary,Nolan,09 Apr 1884,7,Ireland,Painesville,OH,Child,Steamship Grecian
+Bgt,Nolan,09 Apr 1884,5,Ireland,Painesville,OH,Child,Steamship Grecian
+Mich,Nolan,09 Apr 1884,2,Ireland,Painesville,OH,Child,Steamship Grecian
+Jas,Maloney,09 Apr 1884,50,Ireland,St. Clair,PA,Laborer,Steamship Grecian
+Missy,Maloney,09 Apr 1884,52,Ireland,St. Clair,PA,Wife,Steamship Grecian
+Martin,Reilly,09 Apr 1884,35,Ireland,Chicago,IL,Laborer,Steamship Grecian
+Mary,Reilly,09 Apr 1884,30,Ireland,Chicago,IL,Wife,Steamship Grecian
+Bgt,Reilly,09 Apr 1884,14,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Mary,Reilly,09 Apr 1884,12,Ireland,Chicago,IL,Domestic,Steamship Grecian
+Jas,Reilly,09 Apr 1884,10,Ireland,Chicago,IL,Child,Steamship Grecian
+Sarah,Reilly,09 Apr 1884,8,Ireland,Chicago,IL,Child,Steamship Grecian
+Margt,Reilly,09 Apr 1884,4,Ireland,Chicago,IL,Child,Steamship Grecian
+Martin,Reilly,09 Apr 1884,2,Ireland,Chicago,IL,Child,Steamship Grecian
+Ellen,O'Mally,09 Apr 1884,44,Ireland,Philadelphia,PA,Wife,Steamship Grecian
+Ellen,O'Mally,09 Apr 1884,20,Ireland,Philadelphia,PA,Domestic,Steamship Grecian
+Honor,O'Mally,09 Apr 1884,18,Ireland,Philadelphia,PA,Domestic,Steamship Grecian
+Cath,O'Mally,09 Apr 1884,10,Ireland,Philadelphia,PA,Child,Steamship Grecian
+Pat,O'Mally,09 Apr 1884,14,Ireland,Philadelphia,PA,Laborer,Steamship Grecian
+Jno,Doyle,09 Apr 1884,55,Ireland,Port Lewis,NY,Laborer,Steamship Grecian
+Mary,Doyle,09 Apr 1884,45,Ireland,Port Lewis,NY,Wife,Steamship Grecian
+Mary,Doyle,09 Apr 1884,14,Ireland,Port Lewis,NY,Domestic,Steamship Grecian
+Ann,Doyle,09 Apr 1884,15,Ireland,Port Lewis,NY,Domestic,Steamship Grecian
+Edw,Doyle,09 Apr 1884,13,Ireland,Port Lewis,NY,Laborer,Steamship Grecian
+Gause,Doyle,09 Apr 1884,10,Ireland,Port Lewis,NY,Child,Steamship Grecian
+Ellen,Doyle,09 Apr 1884,4,Ireland,Port Lewis,NY,Child,Steamship Grecian
+Thos,Egan,09 Apr 1884,38,Ireland,St. Louis,MO,Laborer,Steamship Grecian
+Mary,Egan,09 Apr 1884,40,Ireland,St. Louis,MO,Wife,Steamship Grecian
+Martin,Egan,09 Apr 1884,18,Ireland,St. Louis,MO,Laborer,Steamship Grecian
+Mary,Egan,09 Apr 1884,16,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Cath,Egan,09 Apr 1884,14,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Bgt,Egan,09 Apr 1884,12,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Mary,Thompson,09 Apr 1884,20,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Mich,Parsons,09 Apr 1884,34,Ireland,Clinton,IA,Laborer,Steamship Grecian
+Mary,Parsons,09 Apr 1884,25,Ireland,Clinton,IA,Wife,Steamship Grecian
+Bgt,Parsons,09 Apr 1884,6,Ireland,Clinton,IA,Child,Steamship Grecian
+James,Parsons,09 Apr 1884,3,Ireland,Clinton,IA,Child,Steamship Grecian
+Mary,Byrne,09 Apr 1884,47,Ireland,Chicago,IL,Wife,Steamship Grecian
+Pat,Byrne,09 Apr 1884,14,Ireland,Chicago,IL,Laborer,Steamship Grecian
+Cath,Byrne,09 Apr 1884,9,Ireland,Chicago,IL,Child,Steamship Grecian
+Mary,Byrne,09 Apr 1884,7,Ireland,Chicago,IL,Child,Steamship Grecian
+Ellen,Byrne,09 Apr 1884,5,Ireland,Chicago,IL,Child,Steamship Grecian
+Thos,Durstan,09 Apr 1884,60,Ireland,Providence,RI,Laborer,Steamship Grecian
+Bgt,Durstan,09 Apr 1884,50,Ireland,Providence,RI,Wife,Steamship Grecian
+Pat,Durstan,09 Apr 1884,17,Ireland,Providence,RI,Laborer,Steamship Grecian
+Kg,Durstan,09 Apr 1884,14,Ireland,Providence,RI,Domestic,Steamship Grecian
+Ann,Durkan,09 Apr 1884,12,Ireland,Providence,RI,Domestic,Steamship Grecian
+John,Durkan,09 Apr 1884,9,Ireland,Providence,RI,Child,Steamship Grecian
+James,Durkan,09 Apr 1884,4,Ireland,Providence,RI,Child,Steamship Grecian
+John,Parsons,09 Apr 1884,30,Ireland,Chicago,IL,Laborer,Steamship Grecian
+Bgt,Parsons,09 Apr 1884,25,Ireland,Chicago,IL,Wife,Steamship Grecian
+Mary,Parsons,09 Apr 1884,5,Ireland,Chicago,IL,Child,Steamship Grecian
+Jas,Parsons,09 Apr 1884,3,Ireland,Chicago,IL,Child,Steamship Grecian
+Bgt,Parsons,09 Apr 1884,0,Ireland,Chicago,IL,Child,Steamship Grecian
+Bryan,Divine,09 Apr 1884,45,Ireland,Fonda,NY,Laborer,Steamship Grecian
+Mary,Divine,09 Apr 1884,40,Ireland,Fonda,NY,Wife,Steamship Grecian
+Cath,Divine,09 Apr 1884,18,Ireland,Fonda,NY,Domestic,Steamship Grecian
+Thos,Divine,09 Apr 1884,16,Ireland,Fonda,NY,Laborer,Steamship Grecian
+John,Divine,09 Apr 1884,13,Ireland,Fonda,NY,Laborer,Steamship Grecian
+Mary,Divine,09 Apr 1884,11,Ireland,Fonda,NY,Child,Steamship Grecian
+Bern,Divine,09 Apr 1884,9,Ireland,Fonda,NY,Child,Steamship Grecian
+Pat,Divine,09 Apr 1884,8,Ireland,Fonda,NY,Child,Steamship Grecian
+Jas,Divine,09 Apr 1884,6,Ireland,Fonda,NY,Child,Steamship Grecian
+Mary,Divine,09 Apr 1884,23,Ireland,Fonda,NY,Domestic,Steamship Grecian
+Ellen,Divine,09 Apr 1884,19,Ireland,Fonda,NY,Domestic,Steamship Grecian
+Mary,Gallagher,09 Apr 1884,40,Ireland,Scranton,PA,Wife,Steamship Grecian
+Mary,Gallagher,09 Apr 1884,17,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Pat,Gallagher,09 Apr 1884,15,Ireland,Scranton,PA,Laborer,Steamship Grecian
+Mich,Gallagher,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Dennis,Gallagher,09 Apr 1884,5,Ireland,Scranton,PA,Child,Steamship Grecian
+Bgt,Gallagher,09 Apr 1884,3,Ireland,Scranton,PA,Child,Steamship Grecian
+Pat,Higgins,09 Apr 1884,44,Ireland,Lock Haven,PA,Laborer,Steamship Grecian
+Cath,Higgins,09 Apr 1884,40,Ireland,Lock Haven,PA,Wife,Steamship Grecian
+Bgt,Higgins,09 Apr 1884,18,Ireland,Lock Haven,PA,Domestic,Steamship Grecian
+Tom,Higgins,09 Apr 1884,10,Ireland,Lock Haven,PA,Child,Steamship Grecian
+Cath,Higgins,09 Apr 1884,8,Ireland,Lock Haven,PA,Child,Steamship Grecian
+Ann,May,09 Apr 1884,48,Ireland,Scranton,PA,Wife,Steamship Grecian
+Ellen,May,09 Apr 1884,19,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Maggie,May,09 Apr 1884,15,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Pat,Shearin,09 Apr 1884,45,Ireland,St. Louis,MO,Laborer,Steamship Grecian
+Ann,Shearin,09 Apr 1884,45,Ireland,St. Louis,MO,Wife,Steamship Grecian
+Jas,Shearin,09 Apr 1884,24,Ireland,St. Louis,MO,Laborer,Steamship Grecian
+Mary,Shearin,09 Apr 1884,22,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Bgt,Shearin,09 Apr 1884,20,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Thos,Shearin,09 Apr 1884,17,Ireland,St. Louis,MO,Laborer,Steamship Grecian
+Rose,Shearin,09 Apr 1884,14,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+Ann,Shearin,09 Apr 1884,12,Ireland,St. Louis,MO,Domestic,Steamship Grecian
+John,Marrin,09 Apr 1884,30,Ireland,Clinton,IA,Laborer,Steamship Grecian
+Cath,Marrin,09 Apr 1884,25,Ireland,Clinton,IA,Wife,Steamship Grecian
+Mich,McDonough,09 Apr 1884,48,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Bgt,McDonough,09 Apr 1884,44,Ireland,Brooklyn,NY,Wife,Steamship Grecian
+Margt,McDonough,09 Apr 1884,19,Ireland,Brooklyn,NY,Domestic,Steamship Grecian
+Maria,McDonough,09 Apr 1884,17,Ireland,Brooklyn,NY,Domestic,Steamship Grecian
+John,McDonough,09 Apr 1884,13,Ireland,Brooklyn,NY,Laborer,Steamship Grecian
+Cath,McDonough,09 Apr 1884,8,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Bgt,McDonough,09 Apr 1884,5,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Ann,McDonough,09 Apr 1884,2,Ireland,Brooklyn,NY,Child,Steamship Grecian
+Mich,Brennan,09 Apr 1884,40,Ireland,New York,NY,Laborer,Steamship Grecian
+Bgt,Brennan,09 Apr 1884,16,Ireland,New York,NY,Domestic,Steamship Grecian
+Pat,Brennan,09 Apr 1884,14,Ireland,New York,NY,Laborer,Steamship Grecian
+Ann,Brennan,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+Maggie,Brennan,09 Apr 1884,9,Ireland,New York,NY,Child,Steamship Grecian
+Kate,Brennan,09 Apr 1884,3,Ireland,New York,NY,Child,Steamship Grecian
+Mary,Morley,09 Apr 1884,58,Ireland,Brooklyn,NY,Wife,Steamship Grecian
+Mary,Morley,09 Apr 1884,17,Ireland,Brooklyn,NY,Domestic,Steamship Grecian
+Pat,Reanny,09 Apr 1884,46,Ireland,Scranton,PA,Laborer,Steamship Grecian
+Bgt,Reanny,09 Apr 1884,40,Ireland,Scranton,PA,Wife,Steamship Grecian
+Jno,Reanny,09 Apr 1884,17,Ireland,Scranton,PA,Laborer,Steamship Grecian
+Ann,Reanny,09 Apr 1884,15,Ireland,Scranton,PA,Domestic,Steamship Grecian
+Mich,Reanny,09 Apr 1884,11,Ireland,Scranton,PA,Child,Steamship Grecian
+Wm,Reanny,09 Apr 1884,9,Ireland,Scranton,PA,Child,Steamship Grecian
+Walter,Reanny,09 Apr 1884,7,Ireland,Scranton,PA,Child,Steamship Grecian
+Henry,Reanny,09 Apr 1884,2,Ireland,Scranton,PA,Child,Steamship Grecian
+Ellen,Reilly,09 Apr 1884,50,Ireland,Rutland,VT,Wife,Steamship Grecian
+Bgt,Reilly,09 Apr 1884,22,Ireland,Rutland,VT,Domestic,Steamship Grecian
+John,Reilly,09 Apr 1884,20,Ireland,Rutland,VT,Laborer,Steamship Grecian
+Margt,Seffington,09 Apr 1884,24,Ireland,Rutland,VT,Wife,Steamship Grecian
+Maria,Seffington,09 Apr 1884,2,Ireland,Rutland,VT,Child,Steamship Grecian
+Barb,Clougherty,09 Apr 1884,29,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Kate,Flynn,09 Apr 1884,28,Ireland,New York,NY,Domestic,Steamship Grecian
+Rose,McGirl,09 Apr 1884,18,Ireland,Nashua,NH,Domestic,Steamship Grecian
+Bgt,Woods,09 Apr 1884,20,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Bgt,Norton,09 Apr 1884,22,Ireland,New York,NY,Domestic,Steamship Grecian
+Bgt,Connolly,09 Apr 1884,24,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Mary,Mulkern,09 Apr 1884,7,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Pat,Mulkern,09 Apr 1884,0,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Pat,Nolan,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Eliza,Saul,09 Apr 1884,38,Ireland,Indianapolis,IN,Wife,Steamship Grecian
+Tob,Saul,09 Apr 1884,13,Ireland,Indianapolis,IN,Laborer,Steamship Grecian
+Mary,Saul,09 Apr 1884,11,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Jas,Saul,09 Apr 1884,8,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Peter,Saul,09 Apr 1884,7,Ireland,Indianapolis,IN,Child,Steamship Grecian
+John,Saul,09 Apr 1884,5,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Edw,Saul,09 Apr 1884,3,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Norah,Saul,09 Apr 1884,0,Ireland,Indianapolis,IN,Child,Steamship Grecian
+Bgt,Byrne,09 Apr 1884,20,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Mich,Meechan,09 Apr 1884,17,Ireland,New York,NY,Laborer,Steamship Grecian
+Bgt,Howley,09 Apr 1884,23,Ireland,Boston,MA,Domestic,Steamship Grecian
+Bartly,Murphy,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+Terence,Marren,09 Apr 1884,42,Ireland,Boston,MA,Laborer,Steamship Grecian
+Denis,Dohelan,09 Apr 1884,20,Ireland,Cleveland,OH,Laborer,Steamship Grecian
+Pat,Folan,09 Apr 1884,36,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mary,Mulkeen,09 Apr 1884,22,Ireland,Boston,MA,Wife,Steamship Grecian
+Austin,Mulkeen,09 Apr 1884,0,Ireland,Boston,MA,Child,Steamship Grecian
+Pat,Mulligan,09 Apr 1884,24,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mary,Morley,09 Apr 1884,22,Ireland,Boston,MA,Domestic,Steamship Grecian
+Sarah,Slogan,09 Apr 1884,20,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mary,Caulfield,09 Apr 1884,22,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mich,Conway,09 Apr 1884,23,Ireland,Boston,MA,Laborer,Steamship Grecian
+John,Busty,09 Apr 1884,22,Ireland,Boston,MA,Laborer,Steamship Grecian
+John,Crawford,09 Apr 1884,21,Ireland,Boston,MA,Laborer,Steamship Grecian
+John,Leaky,09 Apr 1884,25,Ireland,Boston,MA,Laborer,Steamship Grecian
+Austin,McGovern,09 Apr 1884,20,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mich,Mylett,09 Apr 1884,39,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mary,Quinn,09 Apr 1884,35,Ireland,Boston,MA,Wife,Steamship Grecian
+Pat,Quinn,09 Apr 1884,11,Ireland,Boston,MA,Child,Steamship Grecian
+John,Connors,09 Apr 1884,20,Ireland,New York,NY,Laborer,Steamship Grecian
+Wm,Donelan,09 Apr 1884,19,Ireland,Lowell,MA,Laborer,Steamship Grecian
+Jas,Keating,09 Apr 1884,34,Ireland,Boston,MA,Laborer,Steamship Grecian
+Martin,Walsh,09 Apr 1884,25,Ireland,Boston,MA,Laborer,Steamship Grecian
+Mich,Butter,09 Apr 1884,28,Ireland,Boston,MA,Laborer,Steamship Grecian
+Thos,Collins,09 Apr 1884,24,Ireland,Boston,MA,Laborer,Steamship Grecian
+Jas,Malkern,09 Apr 1884,23,Ireland,New York,NY,Laborer,Steamship Grecian
+Mich,Conolly,09 Apr 1884,22,Ireland,Chester,CT,Laborer,Steamship Grecian
+Jas,Madden,09 Apr 1884,42,Ireland,San Fransisco,CA,Laborer,Steamship Grecian
+Thos,Mitchell,09 Apr 1884,34,Ireland,Boston,MA,Laborer,Steamship Grecian
+Judy,Hession,09 Apr 1884,48,Ireland,Boston,MA,Domestic,Steamship Grecian
+Martin,Conway,09 Apr 1884,47,Ireland,New York,NY,Laborer,Steamship Grecian
+Jas,Conway,09 Apr 1884,11,Ireland,New York,NY,Child,Steamship Grecian
+John,Conway,09 Apr 1884,10,Ireland,New York,NY,Child,Steamship Grecian
+Mich,Connon,09 Apr 1884,23,Ireland,Boston,MA,Laborer,Steamship Grecian
+Pat,Bolestrin,09 Apr 1884,26,Ireland,Boston,MA,Laborer,Steamship Grecian
+Ann,Horrigan,09 Apr 1884,24,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mich,Conway,09 Apr 1884,7,Ireland,Boston,MA,Child,Steamship Grecian
+Johanna,McCarthy,09 Apr 1884,21,Ireland,Boston,MA,Domestic,Steamship Grecian
+Bgt,O'Rorke,09 Apr 1884,21,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mary,Mulloy,09 Apr 1884,18,Ireland,Boston,MA,Domestic,Steamship Grecian
+Malachi,Beatty,09 Apr 1884,50,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Barb,Beatty,09 Apr 1884,44,Ireland,Pittsburg,PA,Wife,Steamship Grecian
+Mich,Beatty,09 Apr 1884,24,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Thos,Beatty,09 Apr 1884,22,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Martin,Beatty,09 Apr 1884,8,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Bgt,Beatty,09 Apr 1884,18,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Honor,Beatty,09 Apr 1884,10,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Bartly,Folan,09 Apr 1884,25,Ireland,Mansfield,MA,Laborer,Steamship Grecian
+Ann,Folan,09 Apr 1884,25,Ireland,Mansfield,MA,Wife,Steamship Grecian
+Tom,Folan,09 Apr 1884,0,Ireland,Mansfield,MA,Child,Steamship Grecian
+Ann,Folan,09 Apr 1884,22,Ireland,Mansfield,MA,Domestic,Steamship Grecian
+John,Adley,09 Apr 1884,20,Ireland,Mansfield,MA,Laborer,Steamship Grecian
+Lawrence,Mulkern,09 Apr 1884,50,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Jos,Mulkern,09 Apr 1884,24,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Tom,Mulkern,09 Apr 1884,22,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Mich,Mulkern,09 Apr 1884,16,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Colman,Mulkern,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+John,Mulkern,09 Apr 1884,9,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mary,Mulkern,09 Apr 1884,20,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Mary,Griffin,09 Apr 1884,40,Ireland,Pittsburg,PA,Wife,Steamship Grecian
+Mary,Griffin,09 Apr 1884,28,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Bgt,Griffin,09 Apr 1884,20,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Margt,Griffin,09 Apr 1884,17,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Kate,Griffin,09 Apr 1884,16,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Monica,Griffin,09 Apr 1884,14,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Pat,Winkle,09 Apr 1884,40,Ireland,Portland,ME,Laborer,Steamship Grecian
+John,Winkle,09 Apr 1884,10,Ireland,Portland,ME,Child,Steamship Grecian
+Bgt,Winkle,09 Apr 1884,30,Ireland,Portland,ME,Wife,Steamship Grecian
+Mary,Winkle,09 Apr 1884,11,Ireland,Portland,ME,Child,Steamship Grecian
+Shady,Hynes,09 Apr 1884,20,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Tom,Kerrigan,09 Apr 1884,36,Ireland,Winchester,MA,Laborer,Steamship Grecian
+Martin,Kerrigan,09 Apr 1884,18,Ireland,Winchester,MA,Laborer,Steamship Grecian
+Tom,Kerrigan,09 Apr 1884,17,Ireland,Winchester,MA,Laborer,Steamship Grecian
+Mich,Kerrigan,09 Apr 1884,13,Ireland,Winchester,MA,Laborer,Steamship Grecian
+Simon,Kerrigan,09 Apr 1884,8,Ireland,Winchester,MA,Child,Steamship Grecian
+Pat,Kerrigan,09 Apr 1884,10,Ireland,Winchester,MA,Child,Steamship Grecian
+Bgt,Kerrigan,09 Apr 1884,36,Ireland,Winchester,MA,Wife,Steamship Grecian
+Mary,Kerrigan,09 Apr 1884,11,Ireland,Winchester,MA,Child,Steamship Grecian
+Ann,Kerrigan,09 Apr 1884,4,Ireland,Winchester,MA,Child,Steamship Grecian
+Myles,Adley,09 Apr 1884,50,Ireland,Portland,ME,Laborer,Steamship Grecian
+Pat,Adley,09 Apr 1884,16,Ireland,Portland,ME,Laborer,Steamship Grecian
+Winnifred,Adley,09 Apr 1884,40,Ireland,Portland,ME,Wife,Steamship Grecian
+Ellen,Adley,09 Apr 1884,24,Ireland,Portland,ME,Domestic,Steamship Grecian
+Margt,Adley,09 Apr 1884,22,Ireland,Portland,ME,Domestic,Steamship Grecian
+Kate,Adley,09 Apr 1884,18,Ireland,Portland,ME,Domestic,Steamship Grecian
+Barb,Adley,09 Apr 1884,11,Ireland,Portland,ME,Child,Steamship Grecian
+Bgt,Adley,09 Apr 1884,20,Ireland,Boston,MA,Domestic,Steamship Grecian
+Ned,Flaherty,09 Apr 1884,22,Ireland,Boston,MA,Laborer,Steamship Grecian
+Bartly,Malley,09 Apr 1884,40,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+John,Mullin,09 Apr 1884,24,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Mary,Mullin,09 Apr 1884,25,Ireland,Pittsburg,PA,Wife,Steamship Grecian
+Mary,Mullin,09 Apr 1884,3,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Barb,Mullin,09 Apr 1884,2,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Colman,Conolly,09 Apr 1884,24,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Pat,Flaherty,09 Apr 1884,36,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Loui,Flaherty,09 Apr 1884,18,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Pat,Flaherty,09 Apr 1884,15,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+John,Flaherty,09 Apr 1884,13,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Colman,Flaherty,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Edw,Flaherty,09 Apr 1884,10,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Ann,Flaherty,09 Apr 1884,36,Ireland,Pittsburg,PA,Wife,Steamship Grecian
+Marg,Flaherty,09 Apr 1884,6,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mary,Flaherty,09 Apr 1884,4,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Mich,Deran,09 Apr 1884,34,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Pat,Deran,09 Apr 1884,19,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Colman,Deran,09 Apr 1884,16,Ireland,Pittsburg,PA,Laborer,Steamship Grecian
+Mich,Deran,09 Apr 1884,4,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Ellen,Deran,09 Apr 1884,37,Ireland,Pittsburg,PA,Wife,Steamship Grecian
+Barb,Deran,09 Apr 1884,11,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Ellen,Deran,09 Apr 1884,8,Ireland,Pittsburg,PA,Child,Steamship Grecian
+Ann,Deran,09 Apr 1884,28,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Mary,Deran,09 Apr 1884,30,Ireland,Pittsburg,PA,Domestic,Steamship Grecian
+Mich,Kyne,09 Apr 1884,35,Ireland,Portland,ME,Laborer,Steamship Grecian
+Pat,Kyne,09 Apr 1884,9,Ireland,Portland,ME,Child,Steamship Grecian
+John,Kyne,09 Apr 1884,3,Ireland,Portland,ME,Child,Steamship Grecian
+Mich,Kyne,09 Apr 1884,0,Ireland,Portland,ME,Child,Steamship Grecian
+Mary,Kyne,09 Apr 1884,35,Ireland,Portland,ME,Wife,Steamship Grecian
+Mary,Kyne,09 Apr 1884,15,Ireland,Portland,ME,Domestic,Steamship Grecian
+Bgt,nee,09 Apr 1884,21,Ireland,Portland,ME,Domestic,Steamship Grecian
+Mary,Mulkern,09 Apr 1884,14,Ireland,Boston,MA,Domestic,Steamship Grecian
+Mich,Mulkern,09 Apr 1884,15,Ireland,Boston,MA,Laborer,Steamship Grecian
+Math,Griffins,09 Apr 1884,2,Ireland,Pittsburg,PA,Child,Steamship Grecian
+T,McDermott,09 Apr 1884,35,United States,Boston,MA,Boatman,Steamship Grecian
+Wm,Hewitt,09 Apr 1884,25,United States,Boston,MA,Boatman,Steamship Grecian
+F,Doherty,09 Apr 1884,27,United States,Boston,MA,Boatman,Steamship Grecian
