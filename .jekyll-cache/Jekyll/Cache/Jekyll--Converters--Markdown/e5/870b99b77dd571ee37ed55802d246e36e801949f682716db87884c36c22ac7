@@ -1,4 +1,4 @@
-I"œJ<h2 id="i-the-basics">I. The Basics</h2>
+I"çK<h2 id="i-the-basics">I. The Basics</h2>
 
 <h4 id="mon-aug-23-introduction-to-the-course">Mon., Aug. 23: Introduction to the Course</h4>
 
@@ -113,7 +113,7 @@
 <p><em>In Class</em></p>
 <ul>
   <li>Teddy presentation</li>
-  <li><a href="/f21-data/in-class/dictionaries-functions.ipynb">Dictionaries and Functions Practice</a></li>
+  <li><a href="/f21-data/in-class/dictionaries-functions.ipynb">Dictionaries and Functions Practice</a> (Jupyter Notebook file)</li>
 </ul>
 
 <h4 id="wed-sep-29-bodies-archives-and-data">Wed., Sep. 29: Bodies, Archives, and Data</h4>
@@ -124,9 +124,8 @@
 <p><em>In Class</em></p>
 <ul>
   <li>Max presentation</li>
+  <li><a href="/f21-data/in-class/transatlantic-slave-trade-database">Transatlantic Slave Trade Database</a></li>
 </ul>
-
-<p><em><a href="/f21-data/homework/hw-04.ipynb">Homework #4</a> Due Friday, 10/1 by 11:59PM</em></p>
 
 <p><em><a href="https://ucdenver.instructure.com/courses/474404/assignments/1144859">First Self Assessment</a> Due Sunday, 10/3 by 11:59PM</em></p>
 
@@ -150,6 +149,8 @@
   <li>Structuring data</li>
 </ul>
 
+<p><em><a href="/f21-data/homework/hw-04.ipynb">Homework #4</a> Due Tuesday, 10/5 by 11:59PM</em></p>
+
 <h4 id="wed-oct-6-government-data-i-origins-of-the-us-census">Wed., Oct. 6: Government Data I: Origins of the U.S. Census</h4>
 <ul>
   <li>‚ÄúChapter 4: The Census and Industrial America in the Gilded Age‚Äù in Margo Anderson, <em>The American Census: A Social History</em> (pp. 86-114) <a href="https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP">Perusall</a></li>
@@ -160,7 +161,7 @@
   <li>Jules presentation</li>
 </ul>
 
-<p><em>Data Biography Due Friday, 10/8 11:59PM</em></p>
+<p><em><a href="/f21-data/assignments/data-biography">Data Biography</a> Due Friday, 10/8 11:59PM</em></p>
 
 <h4 id="mon-oct-11-data-analysis--pandas-i">Mon., Oct. 11: Data Analysis / Pandas I</h4>
 <ul>

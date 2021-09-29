@@ -94,6 +94,7 @@ _In Class_
 
 _In Class_
 - Max presentation
+- [Transatlantic Slave Trade Database]({{site.baseurl}}/in-class/transatlantic-slave-trade-database)
 
 *[First Self Assessment](https://ucdenver.instructure.com/courses/474404/assignments/1144859) Due Sunday, 10/3 by 11:59PM*
 
@@ -118,7 +119,7 @@ _In Class_
 _In Class_
 - Jules presentation
 
-*Data Biography Due Friday, 10/8 11:59PM*
+*[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 11:59PM*
 
 #### Mon., Oct. 11: Data Analysis / Pandas I
 - “Chapter 6: The Numbers Don’t Speak for Themselves” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rykw2Bfgw7NCxny3u)
