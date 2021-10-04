@@ -108,8 +108,7 @@ _In Class_
 
 _In Class_
 - Keira presentation
-- Transcribing data 
-- Structuring data
+- Creating and Structuring Data
 
 *[Homework #4]({{site.baseurl}}/homework/hw-04.ipynb) Due Tuesday, 10/5 by 11:59PM*
 
@@ -117,7 +116,6 @@ _In Class_
 - “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, *The American Census: A Social History* (pp. 86-114) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP)
 
 _In Class_
-- Jules presentation
 
 *[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 11:59PM*
 
