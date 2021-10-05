@@ -116,7 +116,8 @@ _In Class_
 - “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, *The American Census: A Social History* (pp. 86-114) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP)
 
 _In Class_
-
+- Creating and Structuring Data
+ 
 *[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 11:59PM*
 
 #### Mon., Oct. 11: Data Analysis / Pandas I
@@ -143,7 +144,7 @@ _In Class_
 - Class visit from Melanie Walsh
 
 #### Wed., Oct. 20: Government Data III: Privacy & Surveillance
-- Sarah Elizabeth *Igo, The Known Citizen: A History of Privacy in Modern America*, p. 57-71, 83-98, 221-223, 232-247. [Perusall]
+- Sarah Elizabeth *Igo, The Known Citizen: A History of Privacy in Modern America*, p. 57-71, 83-98, 221-223, 232-247. [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wY4X4x7nhHuz7qJM7)]
 
 _In Class_
 - TJ Presentation
