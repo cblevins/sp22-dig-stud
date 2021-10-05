@@ -29,7 +29,7 @@ You will be completing a series of coding homework assignments in order to help 
 - [Homework #2 (9/17)]({{site.baseurl}}/homework/hw-02.ipynb)
 - [Homework #3 (9/24)]({{site.baseurl}}/homework/hw-03.ipynb)
 - [Homework #4 (10/5)]({{site.baseurl}}/homework/hw-04.ipynb)
-- Homework #5 (10/15)
+- [Homework #5 (10/15)]({{site.baseurl}}/homework/hw-05.zip)
 - Homework #6 (10/22)
 - Homework #7 (11/5)
 
