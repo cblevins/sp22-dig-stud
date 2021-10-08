@@ -124,6 +124,9 @@ _In Class_
 - “Chapter 6: The Numbers Don’t Speak for Themselves” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rykw2Bfgw7NCxny3u)
 - [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html) (Walsh)
 
+_In Class_
+- [Pandas I Practice]({{site.baseurl}}/in-class/pandas-1)
+
 #### Wed., Oct. 13: Government Data II: Census Stories 
 - Historian Dan Bouk will be joining us in class for a Q&A.  Annotate the following collection of posts that are part of his *Census Stories* project [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/4C9wMqf4FZjBtRDxt):
   - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
