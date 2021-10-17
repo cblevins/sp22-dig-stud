@@ -141,7 +141,6 @@ _In Class_
 
 #### Mon., Oct. 18: Data Analysis / Pandas II
 - [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
-- [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html) (Walsh)
 
 _In Class_
 - Class visit from Melanie Walsh
@@ -156,9 +155,9 @@ _In Class_
 
 ## Corporate Data
 
-#### Mon., Oct. 25: Text Analysis and Data Visualization I
+#### Mon., Oct. 25: Text Analysis 
+- [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html) (Walsh)
 - [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) (Walsh)
-- Plotting in Pyton (TBD)
 
 #### Wed. Oct. 27: Corporate Data I
 - Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" *Big Data & Society* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rQpeH7n3ZAYc9kqZR)
@@ -166,7 +165,7 @@ _In Class_
 
 *HIST 5261: Design a Coding Homework due Friday, 10/29 by 11:59PM*
  
-#### Mon., Nov. 1: Data Visualization II
+#### Mon., Nov. 1: Data Visualization I
 - "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, *The Visual Display of Quantitative Information* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
 - “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
 
@@ -182,7 +181,8 @@ _In Class_
 
 *Second Self Assessment Due Sunday 11/7*
 
-#### Mon., Nov. 8: Data Visualization III and Spatial Data
+#### Mon., Nov. 8: Data Visualization II and Spatial Data
+- Plotting in Python (TBD)
 - [Mapping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html) (Walsh)
 
 *In class*:
