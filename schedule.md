@@ -162,8 +162,6 @@ _In Class_
 #### Wed. Oct. 27: Corporate Data I
 - Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" *Big Data & Society* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rQpeH7n3ZAYc9kqZR)
 - Margaret O'Mara, *The Code: Silicon Valley and the Remaking of America* (2019), Chapter 5: The Money Men, p. 67-82. [Perusall]
-
-*HIST 5261: Design a Coding Homework due Friday, 10/29 by 11:59PM*
  
 #### Mon., Nov. 1: Data Visualization I
 - "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, *The Visual Display of Quantitative Information* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
