@@ -167,8 +167,10 @@ _In Class_
 - "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, *The Visual Display of Quantitative Information* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
 
 #### Wed., Nov. 3: Corporate Data II
-- “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
-- Readings on Xerox PARC and Internet of Things during the 1990s (TBD) [Perusall]
+- “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in *Data Feminism* [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
+- Primary sources on 1990s smart rooms and ubiquitous computing: [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/pentland-smart-rooms-1996?assignmentId=ozpuaPonZc2SoNCWa&part=1)
+  - Alex Pentland, "Smart Rooms" (1996)
+  - Mark Weiser, "The Future of Ubiquitous Computing on Campus" (1998)
 
 _In Class_
 - Class visit from [John Tinnell](http://johntinnell.com/), Director of Digital Studies Certificate
