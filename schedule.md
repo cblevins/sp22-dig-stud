@@ -159,6 +159,9 @@ _In Class_
 - [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html) (Walsh)
 - [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) (Walsh)
 
+_In Class_
+- [Pandas III Practice]({{site.baseurl}}/in-class/pandas-3)
+
 #### Wed. Oct. 27: Corporate Data I
 - Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" *Big Data & Society* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rQpeH7n3ZAYc9kqZR)
 - Margaret O'Mara, *The Code: Silicon Valley and the Remaking of America* (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/omara-the-code-ch-5?assignmentId=aH4KsSvPffLHTvMPG&part=1)
