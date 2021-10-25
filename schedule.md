@@ -190,7 +190,7 @@ _In Class_
 *In class*:
 - Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
 
-*Project Proposal due by Tuesday, 11/11 by 11:59PM*
+*Project Proposal due by Tuesday, 11/9 by 11:59PM*
 
 #### Wed., Nov. 10: Corporate Data III | Project Proposals
 - Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
