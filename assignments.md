@@ -31,7 +31,7 @@ You will be completing a series of coding homework assignments in order to help 
 - [Homework #4 (10/5)]({{site.baseurl}}/homework/hw-04.ipynb)
 - [Homework #5 (10/15)]({{site.baseurl}}/homework/hw-05.zip)
 - [Homework #6 (10/24)]({{site.baseurl}}/homework/hw-06.ipynb)
-- Homework #7 (11/5)
+- ~~Homework #7 (11/5)~~
 
 #### Project Review
 You will be reviewing a data-driven historical project during the semester. This review will include a written submission and a verbal presentation to your classmates. The project can be an academic paper, long-form journalism, or any other substantive work that focuses on some historical topic and uses data in its analysis or presentation. You will then write a 600-800 word review of this project that explains the project’s argument, underlying dataset(s), methodology, and how effective it is (what works, what could be further developed, what is missing). Do not just describe a project; draw on other readings or concepts we've discussed to contextualize your review and evaluate its strengths and weaknesses. In addition to the written review submitted on Canvas, you will sign up for a class period to verbally present the project to your classmates in 5-7 minutes, offering an overview of the work and your evaluation of it. 
@@ -67,5 +67,5 @@ The major assignment for this course is a research project in which you find or 
 You will be writing three self assessments in this class spread over the course of the semester. The first two self assessments are short, 2-3 paragraphs submitted on Canvas that should convey to me the areas of the class in which you've been doing well (with concrete examples), the areas of the class in which you could be doing better, and what steps you plan to take to address your weaknesses or achieve your learning goals for the remainder of the semester. The final self assessment is a longer, 2-3 page reflection on the semester as a whole that expands on what you accomplished (with concrete examples), any areas in which you struggled or wish you had done better, how you want to apply what you've learned in this class to your studies or career moving forward, and the overall grade that you feel you deserve for the class. 
 
 - [Self-Assessment #1 due by 10/3](https://ucdenver.instructure.com/courses/474404/assignments/1144859)
-- Self-Assessment #2 due by 11/7
-- Self-Assessment #3 due by 12/14
+- [Self-Assessment #2 due by 11/7](https://ucdenver.instructure.com/courses/474404/assignments/1144860)
+- [Self-Assessment #3 due by 12/14](https://ucdenver.instructure.com/courses/474404/assignments/1144861)

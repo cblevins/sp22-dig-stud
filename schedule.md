@@ -169,6 +169,11 @@ _In Class_
 #### Mon., Nov. 1: Data Visualization I
 - "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, *The Visual Display of Quantitative Information* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
 
+_In Class_
+- Charlie Harper, ["Visualizing Data with Bokeh and Pandas"](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) *The Programming Historian* (2018) 
+  - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
+  - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
+
 #### Wed., Nov. 3: Corporate Data II
 - “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in *Data Feminism* [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
 - Primary sources on 1990s smart rooms and ubiquitous computing: [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/pentland-smart-rooms-1996?assignmentId=ozpuaPonZc2SoNCWa&part=1)
@@ -179,12 +184,11 @@ _In Class_
 - Class visit from [John Tinnell](http://johntinnell.com/), Director of Digital Studies Certificate
 - Teddy presentation 
 
-*Homework #7 Due Friday, 11/5 by 11:59PM*
+~~*Homework #7 Due Friday, 11/5 by 11:59PM*~~
 
 *Second Self Assessment Due Sunday 11/7*
 
 #### Mon., Nov. 8: Data Visualization II and Spatial Data
-- Plotting in Python (TBD)
 - [Mapping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html) (Walsh)
 
 *In class*:
