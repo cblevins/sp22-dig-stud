@@ -189,7 +189,10 @@ _In Class_
 *Second Self Assessment Due Sunday 11/7*
 
 #### Mon., Nov. 8: Data Visualization II and Spatial Data
-- [Mapping](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html) (Walsh)
+- Walsh chapters on Mapping in Python:
+  - [Mapping Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html)
+  - [Mapping and Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
+  - [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
 
 *In class*:
 - Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
