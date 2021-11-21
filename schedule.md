@@ -227,6 +227,7 @@ _In Class_
 ## Research Projects
 
 #### Mon., Nov. 29: Project Workshop
+- ["Sort and Filter Data"](https://handsondataviz.org/sort.html) and ["Calculate with Formulas"](https://handsondataviz.org/calculate.html) from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization*. (Optional lesson: ["Match Columns with VLOOKUP"](https://handsondataviz.org/vlookup.html#vlookup))
 - Lesson: ["Indexing, Slicing and Subsetting DataFrames in Python"](https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html) *Python for Humanities* 
 - Before you start this lesson:
   - Create a new working directory in `data-a-user-manual` called `python-humanities-lessons` and create a new Jupyter Notebook in this folder called `02-index-slice-subset.ipynb`. Use this notebook to go through this lesson.
@@ -234,7 +235,6 @@ _In Class_
   - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
 
 #### Wed., Dec. 1: Project Workshop
-
 - Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) *Python for Humanities* (stop at "Building reusable and modular code with functions").
   - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson. 
 
