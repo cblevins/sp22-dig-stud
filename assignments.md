@@ -59,7 +59,7 @@ The major assignment for this course is a research project in which you find or 
 - Research Project Data Biography (11/19)
 - Research Project: Draft (12/5)
 - Research Project Presentation (12/6)
-- HIST 5261: Feedback on classmates' projects (12/7)
+- ~~HIST 5261: Feedback on classmates' projects (12/7)~~
 - Research Project: Final (12/14)
 
 #### Self Assessments

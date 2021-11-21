@@ -227,17 +227,21 @@ _In Class_
 ## Research Projects
 
 #### Mon., Nov. 29: Project Workshop
-- Reading/tutorial on topic chosen by students
+- Lesson: ["Indexing, Slicing and Subsetting DataFrames in Python"](https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html) *Python for Humanities* 
+- Before you start this lesson:
+  - Create a new working directory in `data-a-user-manual` called `python-humanities-lessons` and create a new Jupyter Notebook in this folder called `02-index-slice-subset.ipynb`. Use this notebook to go through this lesson.
+  - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
+  - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
 
 #### Wed., Dec. 1: Project Workshop
-- Reading/tutorial on topic chosen by students
+
+- Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) *Python for Humanities* (stop at "Building reusable and modular code with functions").
+  - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson. 
 
 *Rough Draft of Research Project due Sunday, December 5th by 11:59PM*
 
 #### Mon., Dec. 6: Final Project Presentations
 - Prepare 7-10 minute presentation on the draft of your research project
-
-*HIST 5261: Send feedback to your assigned classmate by Tuesday, 12/7 by 11:59PM*
 
 #### Wed., Dec. 8: Wrapping Up 
 
