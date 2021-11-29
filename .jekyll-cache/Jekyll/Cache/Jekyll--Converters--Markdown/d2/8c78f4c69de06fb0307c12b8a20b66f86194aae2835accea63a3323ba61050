@@ -1,4 +1,4 @@
-I"�X<h2 id="i-the-basics">I. The Basics</h2>
+I"�Z<h2 id="i-the-basics">I. The Basics</h2>
 
 <h4 id="mon-aug-23-introduction-to-the-course">Mon., Aug. 23: Introduction to the Course</h4>
 
@@ -328,6 +328,7 @@
 
 <h4 id="mon-nov-29-project-workshop">Mon., Nov. 29: Project Workshop</h4>
 <ul>
+  <li><a href="https://handsondataviz.org/sort.html">“Sort and Filter Data”</a> and <a href="https://handsondataviz.org/calculate.html">“Calculate with Formulas”</a> from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, <em>Hands-On Data Visualization</em>. (Optional lesson: <a href="https://handsondataviz.org/vlookup.html#vlookup">“Match Columns with VLOOKUP”</a>)</li>
   <li>Lesson: <a href="https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html">“Indexing, Slicing and Subsetting DataFrames in Python”</a> <em>Python for Humanities</em></li>
   <li>Before you start this lesson:
     <ul>
@@ -338,8 +339,12 @@
   </li>
 </ul>
 
-<h4 id="wed-dec-1-project-workshop">Wed., Dec. 1: Project Workshop</h4>
+<p><em>In-class</em></p>
+<ul>
+  <li><a href="/f21-data/in-class/markdown-practice">Markdown Practice</a></li>
+</ul>
 
+<h4 id="wed-dec-1-project-workshop">Wed., Dec. 1: Project Workshop</h4>
 <ul>
   <li>Complete the first three parts “For loops”, “Automating data processing using For Loops”, and “Writing Unique Filenames” from the lesson: <a href="https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html">“Data workflows and automation”</a> <em>Python for Humanities</em> (stop at “Building reusable and modular code with functions”).
     <ul>

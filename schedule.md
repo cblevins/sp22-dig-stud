@@ -234,6 +234,9 @@ _In Class_
   - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
   - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
 
+_In-class_
+- [Markdown Practice]({{site.baseurl}}/in-class/markdown-practice)
+
 #### Wed., Dec. 1: Project Workshop
 - Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) *Python for Humanities* (stop at "Building reusable and modular code with functions").
   - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson. 
