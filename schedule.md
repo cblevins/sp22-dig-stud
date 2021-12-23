@@ -5,249 +5,250 @@ title: Schedule
 
 ## I. The Basics
 
-#### Mon., Aug. 23: Introduction to the Course
+#### Wed., Jan. 20: Introductions
 
-#### Wed., Aug. 25: Introduction to the Course II
-- Annotate Course Syllabus [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/7ce4E5KpA7um226Lw)]
-- Annotate Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) *The New Yorker* (June 21, 2021) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qsqpBr9FdKqiSMR8T)]
-- Complete the student survey if you have not done so already (check Canvas announcements for link)
-- Sign up for a 10-minute one-on-one meeting with Professor Blevins through [Canvas Calendars](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)
+#### Mon., Jan. 25: Higher Education During the Covid-19 Pandemic
 - Join the class Slack workspace (see Canvas announcement for instructions), customize your profile picture, and write a post introducing yourself in the #general channel - feel free to include a GIF, picture of your pet, etc.
- 
+- Sign up for Hypothes.is and join the class group (see Canvas announcement for instructions). See [Hypothes.is Quick Start Guide for Students](https://hypothes.is/quick-start-guide-for-students/).
+- Annotate the following with Hypothes.is (be sure to make your annotations in our class group `sp21-dig-stud` rather than private or fully public):
+	- This course website (write questions or clarifications about policies, assignments, etc., reactions to different topics, things you're dreading, things you're excited about, etc.)
+	- Becky Supiano, ["Grades Can Hinder Learning. What Should Professors Use Instead?"](https://www-chronicle-com.aurarialibrary.idm.oclc.org/article/grades-can-hinder-learning-what-should-professors-use-instead) *The Chronicle of Higher Education* (July 19, 2019)
+	- Shea Swauger, ["Our Bodies Encoded: Algorithmic Test Proctoring in Higher Education"](https://hybridpedagogy.org/our-bodies-encoded-algorithmic-test-proctoring-in-higher-education/) *Hybrid Pedagogy* (April 20, 2020).
+
 _In Class_ 
-- [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
+- Online privacy, what you want to get out of the course, Zoom best practices, troubleshooting Slack and Hypothes.is
 
-*Complete [student survey](https://forms.gle/fNcn59YU2VYgtEjx6) by Sunday, August 29th by 11:59PM*
+#### Wed., Jan. 27: Computers and Files and Servers, Oh My! 
+- Annotate in Hypothes.is: 
+  - Scott Weingart, ["The Route of a Text Message, a Love Story"](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story) *Vice* (February 22, 2019).
+  - Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015)
+- Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $30 - this will be the only thing I will ask you to pay for during the semester (I hope))
+- Make sure you have a Google Account that you are willing to use for this class.
 
-#### Mon., Aug. 30: Getting Up and Running
-- ["Choosing Python or R for Data Analysis? An Infographic"](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) *DataCamp Team* (January 9, 2020) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/python-vs-r-infographic)]
-- Install Anaconda on your computer (instructions for [Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x), [Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows), or [Linux](https://docs.anaconda.com/anaconda/install/linux/))
-- Complete [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html) tutorial in Melanie Walsh, *Introduction to Cultural Analytics & Python* textbook.
-- Finish Part 2 of [Learning how to use the Command Line]({{site.baseurl}}/in-class/command-line)
+_In Class_
+- File types, folder structures, servers, and navigating Reclaim Hosting. 
+- [Creating a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/in-class/reclaim-hosting-sandbox)
+
+## II. Websites and Archives
+
+#### Mon., Feb. 1: Website Design 
+- Annotate in Hypothes.is:
+  - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
+- Follow [these instructions]({{site.baseurl}}/in-class/install-wordpress) to install a Wordpress site in a "sandbox" directory on Reclaim Hosting.
+- Select a topic for your Zoom presentation and describe it in 1-2 sentences on the Slack #presentations channel
+- Either: make a LinkedIn Page and connect with Professor Blevins OR write an email to him explaining why you don't wish to do so
+
+_In Class_
+- [Using Wordpress]({{site.baseurl}}/in-class/wordpress)
+
+#### Wed., Feb. 3: Zoom Presentations
+- Prepare to present your [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
+
+_In Class_
+- Student Zoom Presentations and peer feedback
+
+*Digital Hygiene assignment due 2/8-2/21*
+
+#### Mon., Feb. 8: Digital History
+- Annotate in Hypothes.is:
+  - Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019)
+  - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://read-dukeupress-edu.aurarialibrary.idm.oclc.org/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death) *Social Text*, Vol. 36, No. 4 (2018).
+- Finalize a Wordpress theme and its layout for your sandbox site. Add some kind of landing or About page with a short bio and interests. Post the URL of your site to the `#assignments` channel in Slack.
+
+_In Class_
+- Q&A with [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
  
-In-class:
-- Command line review
-- Why Python? 
-- Getting Started with Jupyter Notebooks [[link to download in-class notebook]({{site.baseurl}}/in-class/jupyter-notebooks-intro.ipynb)]
-
-#### ~~Wed., Sep. 1: Data and Power~~ (class cancelled)
-- "Chapter 1: The Power Chapter" in Catherine D'Ignzaio and Lauren Klein, *Data Feminism* [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/qwqJy8cASTjWRxyez)]
-- Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name"](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/WjbjMQnEuKLToSQM4)]
-
-#### ~~Mon., Sep. 6: No Class (Labor Day)~~
-
-#### Wed., Sep. 8: Navigating Python (Zoom class)
-- [Anatomy of a Python Script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) (Walsh)
-- [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html) (Walsh)
-- [Data Types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html) (Walsh)
-
-_In-class_
-- [Navigating Python]({{site.baseurl}}/in-class/navigating-python)
-
-*[Homework #1]({{site.baseurl}}/homework/hw-01.ipynb) Due Friday, 9/10 by 11:59PM*
-
-## Slavery and Data
-
-#### Mon., Sep. 13: Working with Text in Python
-- [String Methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/06-String-Methods.html) (Walsh)
-- [Files and Character Encoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/07-Files-Character-Encoding.html) (Walsh)
-- [Comparisons and Conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/08-Comparisons-Conditionals.html) (Walsh)
-
-_In-class_
-- [Working with Text in Python]({{site.baseurl}}/in-class/working-with-text)
- 
-#### Wed., Sep. 15: Slavery and Capitalism
-- Excerpt from Eugene Genovese and Elizabeth Fox Genovese, *The Fruits of Merchant Capital: Slavery and Bourgeois Property in the Rise and Expansion of Capitalism* (1983) [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/P7tj6fxirrjdqeWmr)]
-- Caitlin Rosenthal, "Slavery’s Scientific Management: Masters and Managers" in Sven Beckert and Seth Rockman, eds. *Slavery's Capitalism* (2015). [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/P7tj6fxirrjdqeWmr)]
-
-*[Homework #2]({{site.baseurl}}/homework/hw-02.ipynb) Due Friday, 9/17 by 11:59PM*
-
-#### Mon., Sep. 20: Lists and Loops
-- Anelise Hanson Shrout, [“(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse”](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/) *Current Research in Digital History 2018* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/zNzDxAKqimoxEkJm6)
-- [Lists and Loops Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/09-Lists-Loops-Part1.html) (Walsh)
-- [Lists and Loops Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/10-Lists-Loops-Part2.html) (Walsh)
-
-_In-class_
-- [Lists and Loops Practice]({{site.baseurl}}/in-class/lists-and-loops)
-
-#### Wed., Sep. 22: Numbers, Narratives, and Historical Evidence
-- John E. Murray's Introduction and Alan L. Olmstead's review of Edward Baptist, *The Half Has Never Been Told: Slavery and the Making of American Capitalism* in: *The Journal of Economic History*, Vol. 74, Issue 3, September 2015, pp. 919-923. [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/8oTrsutMgagqrxn8q)
-- Selections from Daina Ramey Berry, *The Price for Their Pound of Flesh: The Value of the Enslaved, from Womb to Grave* (2016), pp. 1-9, 33-57. [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/fpShisTf2uYgG7Ev5)
-- Look at Professor Anelise Shrout's [website](http://www.anelisehshrout.com/)
+#### Wed., Feb. 10: Digital Archives
+- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/in-class/install-omeka) through your Reclaim Hosting account.
+- Post 1-2 questions, comments, or reactions to the following reading on the `#readings` Slack channel: Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
-- Class visit from Professor [Anelise Shrout](http://www.anelisehshrout.com/)
+- Understanding metadata and creating items in Omeka.
 
-*[Homework #3]({{site.baseurl}}/homework/hw-03.ipynb) Due Friday, 9/24 by 11:59PM*
-
-#### Mon., Sep. 27: Dictionaries and Functions
-- [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/11-Dictionaries.html) (Walsh)
-- [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/12-Functions.html) (Walsh)
-- [Common Python Errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html) (Walsh)
+#### Mon., Feb. 15: Digital Collections
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
+  - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
 
 _In Class_
-- Teddy presentation
-- [Dictionaries and Functions Practice]({{site.baseurl}}/in-class/dictionaries-functions.ipynb) (Jupyter Notebook file)
+- [Working with Omeka]({{site.baseurl}}/in-class/omeka)
 
-#### Wed., Sep. 29: Bodies, Archives, and Data
-- Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://doi.org/10.1215/01642472-7145658) *Social Text*, Vol. 36, No. 4 (2018). [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/ixkyAYTvx6JH95KKg)
-
-_In Class_
-- Max presentation
-- [Transatlantic Slave Trade Database]({{site.baseurl}}/in-class/transatlantic-slave-trade-database)
-
-*[First Self Assessment](https://ucdenver.instructure.com/courses/474404/assignments/1144859) Due Sunday, 10/3 by 11:59PM*
-
-## Government Data
-
-#### Mon., Oct. 4: Creating Data
-- "Chapter 4: What Gets Counted Counts" in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/nwivG6ntakC7N6aY7)
-- Spreadsheet readings [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/kSt6ZuHhHWyGK6unK)
-  - Robert Kosara, [“Spreadsheet Thinking Versus Database Thinking”](https://eagereyes.org/basics/spreadsheet-thinking-vs-database-thinking)
-  - Sandhya Kambhampati, [“Cleaner, Smarter Spreadsheets Start with Structure”](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/)
+#### Wed., Feb. 17: Digitization *Class Postponed*
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
+  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
 
 _In Class_
-- Keira presentation
-- Creating and Structuring Data
+- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 
-*[Homework #4]({{site.baseurl}}/homework/hw-04.ipynb) Due Tuesday, 10/5 by 11:59PM*
+*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by February 21st*
 
-#### Wed., Oct. 6: Government Data I: Origins of the U.S. Census
-- “Chapter 4: The Census and Industrial America in the Gilded Age” in Margo Anderson, *The American Census: A Social History* (pp. 86-114) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/RpPCDg63tMoeeDMWP)
+## III. Data
 
-_In Class_
-- Creating and Structuring Data
- 
-*[Data Biography]({{site.baseurl}}/assignments/data-biography) Due Friday, 10/8 11:59PM*
+*COVID-19 Digital Archive due 2/22-3/7*
 
-#### Mon., Oct. 11: Data Analysis / Pandas I
-- “Chapter 6: The Numbers Don’t Speak for Themselves” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rykw2Bfgw7NCxny3u)
-- [Pandas Basics Part 1](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html) (Walsh)
+#### Mon., Feb. 22: Making Data
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd) in *Data Feminism* (MIT Press, 2020).
+  - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
+- Please also read the following, which provides background for a historical source that we are going to be working with over the next several classes: 
+  - Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).
 
 _In Class_
-- [Pandas I Practice]({{site.baseurl}}/in-class/pandas-1)
+- [Data structures and recording information in spreadsheets]({{site.baseurl}}/in-class/making-data) 
 
-#### Wed., Oct. 13: Government Data II: Census Stories 
-- Historian Dan Bouk will be joining us in class for a Q&A.  Annotate the following collection of posts that are part of his *Census Stories* project [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/4C9wMqf4FZjBtRDxt):
-  - ["Standing on the Crater of a Volcano"](https://censusstories.us/2020/07/27/disfranchisement.html)
-  - ["Political Solutions to Imperfect Data"](https://censusstories.us/2020/09/20/rankin.html)
-  - ["The Partners of Greenwich Village"](https://censusstories.us/2018/07/03/partners.html)
-  - ["8 Miles through Alaska, as Mrs. Parrott Rows; Or, Into the Archives!"](https://censusstories.us/2018/10/29/Alaska-paths.html)
+#### Wed., Feb. 24: Processing Data
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - Katie Rawson and Trevor Muñoz, [“Against Cleaning”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) in *Debates in Digital Humanities 2019*
+  - ~~Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).~~
+
+_In Class_
+- Jaclyn project review
+- Transcribing data from Alcatraz Logbook
+
+#### Mon., Mar. 1: Analyzing Data
+- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
+  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+- Transcribe the remainder of your assigned page from the Alcatraz Logbook (see my post in `#general` Slack channel for more information). 
+
+_In Class_
+- Processing data and spreadsheet functions
+
+#### Wed., Mar. 3: Data Science
+- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
+  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019)
+  - Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019)
+  - Video: ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020)
+
+_In Class_
+- Q&A with Alexis Baird, Director of Product Management at Thumbtack
+
+#### Mon., Mar. 8: Data Visualization: Charts
+- [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
+- Post discussion comments or questions to `readings` channel on Slack: 
+  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
+  - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
+  - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
+
+_In Class_
+- Scott project review
+- Making charts in Tableau Public
+
+#### Wed., Mar. 10: Data Visualization: Maps 
+- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
+  - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
+  - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
+
+[comment]: # (- Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).)
  
 _In Class_
-- Class visit from Dan Bouk
+- Teresa project review
+- Discussion of spatial history and cartography, understanding spatial data, making maps in Tableau Public
 
-*[Homework #5]({{site.baseurl}}/homework/hw-05.zip) due Friday, 10/15 by 11:59PM*
+## IV. Media
 
-#### Mon., Oct. 18: Data Analysis / Pandas II
-- [Pandas Part 2](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) (Walsh)
+*Data Exploration due 3/15-3/28*
 
-_In Class_
-- Class visit from Melanie Walsh
-
-#### Wed., Oct. 20: Government Data III: Privacy & Surveillance
-- Sarah Elizabeth *Igo, The Known Citizen: A History of Privacy in Modern America*, p. 57-71, 83-98, 221-223, 232-247. [[Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wY4X4x7nhHuz7qJM7)]
+#### ~~Mon., Mar. 15: Images~~ *University-wide class cancellation due to weather*
+- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
+  - *Reading moved to Weds. 3/17*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
-- TJ Presentation
+- Discussion of computer vision and machine learning, working with image files and basic image editing
 
-*[Homework #6]({{site.baseurl}}/homework/hw-06.ipynb) due Sunday, 10/24 by 11:59PM*
-
-## Corporate Data
-
-#### Mon., Oct. 25: Text Analysis 
-- [Pandas Part 3](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/03-Pandas-Basics-Part3.html) (Walsh)
-- [Text Analysis: TF-IDF with Scikit-Learn](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html) (Walsh)
+#### Wed., Mar. 17: Images / Graphic Design
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
+  - *Reading moved from Mon. 3/15*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+  - ~~"Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to `#readings` channel)~~ 
 
 _In Class_
-- [Pandas III Practice]({{site.baseurl}}/in-class/pandas-3)
+- Q&A with Guy McClellan, historian for the National Parks Service
+- TJ project review
 
-#### Wed. Oct. 27: Corporate Data I
-- Josh Lauer, "Plastic surveillance: Payment cards and the history of transactional data, 1888 to present" *Big Data & Society* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/rQpeH7n3ZAYc9kqZR)
-- Margaret O'Mara, *The Code: Silicon Valley and the Remaking of America* (2019), Chapter 5: The Money Men, p. 67-82. [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/omara-the-code-ch-5?assignmentId=aH4KsSvPffLHTvMPG&part=1)
+#### Mon., Mar. 22: Video
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
+  - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+- [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)
+
+_In Class_
+- Introduction to Shotcut
+
+[comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
+
+#### Wed., Mar. 24: Video
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
+  - Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
+  - Glance through MyHeritage's page for its ["Deep Nostalgia" tool](https://www.myheritage.com/deep-nostalgia) and then read Marisa Parhma's [Twitter thread](https://twitter.com/amplify285/status/1366039719499415554) on it.
+- Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #in-class Slack channel by 1PM.** We will be using these during class to learn how to edit videos in Shotcut. 
+
+_In Class_
+- Bianca project review
+- [Video files and editing with Shotcut]({{site.baseurl}}/in-class/video-editing)
+
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 28th*
  
-#### Mon., Nov. 1: Data Visualization I
-- "Chapter 4: Data-Ink and Graphical Redesign" in Edward Tufte, *The Visual Display of Quantitative Information* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/wMpkvkbzLqjPfmNwZ)
+#### Mon., Mar. 29: Audio
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following:
+  - Jennifer Miller, ["Have We Hit Peak Podcast?"](https://www.nytimes.com/2019/07/18/style/why-are-there-so-many-podcasts.html) *New York Times* (July 18, 2019)
+  - Listen to the second half (starting at 14:15 min) of Nick Quah's interview with Catherine Saint Louis: ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do), *Servant of Pod* (August 5, 2020).
+- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
 
 _In Class_
-- Charlie Harper, ["Visualizing Data with Bokeh and Pandas"](https://programminghistorian.org/en/lessons/visualizing-with-bokeh) *The Programming Historian* (2018) 
-  - Read Overview but skip the Getting Started section on installation and virtual environments and go directly to The Basics of Bokeh
-  - Ignore parts that say to save or run new .py files - just create a single Jupyter Notebook and insert code into code cells.
+- Whitney project review
+- [Recording and editing audio with Audacity]({{site.baseurl}}/in-class/audio-editing)
 
-#### Wed., Nov. 3: Corporate Data II
-- “Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints” in *Data Feminism* [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/J6P5QBfQeBb97xv3h)
-- Primary sources on 1990s smart rooms and ubiquitous computing: [[Perusall]](https://app.perusall.com/courses/data-a-user-manual-fall-2021/pentland-smart-rooms-1996?assignmentId=ozpuaPonZc2SoNCWa&part=1)
-  - Alex Pentland, "Smart Rooms" (1996)
-  - Mark Weiser, "The Future of Ubiquitous Computing on Campus" (1998)
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due Friday April 2nd*
+
+#### Wed., Mar. 31: Audio
+- Listen to [Episode 8: Eden to Ashes](https://consolationprize.rrchnm.org/2021/02/16/episode-8-eden-to-ashes/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
 
 _In Class_
-- Class visit from [John Tinnell](http://johntinnell.com/), Director of Digital Studies Certificate
-- Teddy presentation 
+- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
+ 
+## V. Class Choice
 
-~~*Homework #7 Due Friday, 11/5 by 11:59PM*~~
+YOU will be in the driver’s seat in April. The class will vote on a topic(s) or method(s) that they would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new one (ex. “we want to learn about machine learning”). I will then select readings and activities for these topics. 
 
-*Second Self Assessment Due Sunday 11/7*
-
-#### Mon., Nov. 8: Data Visualization II and Spatial Data
-- Walsh chapters on Mapping in Python:
-  - [Mapping Intro](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html)
-  - [Mapping and Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/01-Mapping.html)
-  - [Custom Map Backgrounds](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/02-Custom-Maps.html)
-
-*In class*:
-- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
-
-*Project Proposal due by Tuesday, 11/9 by 11:59PM*
-
-#### Wed., Nov. 10: Corporate Data III | Project Proposals
-- Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/Z5Ha8tXPiie3dgHfR)
-- Prepare a short presentation on your project proposal 
+#### Mon., Apr. 5: Digitization (Rescheduled)
+- Review readings from cancelled class in February:
+ - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
+  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
 
 _In Class_
-- Project proposal presentations
+- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 
-#### Mon., Nov. 15: The Data Economy Today
-- “Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars” in *Data Feminism* [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/a4khc2e3pQn7YzdCd)
+#### Wed., Apr. 7: Data Analysis and Visualization
+- Read the following related to the project "Land Grab Universities" and post 2-3 discussion questions on the `#readings` channel on Slack:
+  - [Twitter thread](https://twitter.com/highcountrynews/status/1376957603893411851) describing the project and its reception over the past year.
+  - [The README file](https://github.com/HCN-Digital-Projects/landgrabu-data) for the project's Github repository of data.
+  - Spend a few minutes poking around [the project's interactive site](https://www.landgrabu.org/).
 
-*In Class*
-- Class visit from Colin Schoppert, Product Manager at DoorDash
+_In Class_
+- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
 
-#### Wed., Nov. 17: Computer Vision
-- Lauren Tilton and Taylor Arnold, "Distant Viewing: Analyzing Large Visual Corpora" *Digital Scholarship in the Humanities* (2019) [Perusall](https://app.perusall.com/courses/data-a-user-manual-fall-2021/_/dashboard/assignments/SHMTmye9gAZiAwTYA)
 
-*In Class*
-- Class visit from [Lauren Tilton](https://laurentilton.com/)
+#### Mon., Apr. 12: Data Analysis and Visualization (cont'd)
+- Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
 
-*Research Project Data Biography due Friday, 11/19*
+_In Class_
+- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
 
-#### ~~Mon., Nov. 22: No Class (Fall Break)~~
+## VI. Final Projects
 
-#### ~~Wed., Nov. 24: No Class (Fall Break)~~
+#### Wed., Apr. 14: Project Consultations
 
-## Research Projects
+#### ~~Mon., Apr. 19~~ *No Class, Spring Break*
 
-#### Mon., Nov. 29: Project Workshop
-- ["Sort and Filter Data"](https://handsondataviz.org/sort.html) and ["Calculate with Formulas"](https://handsondataviz.org/calculate.html) from Chapter 2: Strengthen your Spreadsheet Skills in Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization*. (Optional lesson: ["Match Columns with VLOOKUP"](https://handsondataviz.org/vlookup.html#vlookup))
-- Lesson: ["Indexing, Slicing and Subsetting DataFrames in Python"](https://carpentries-incubator.github.io/python-humanities-lesson/02-index-slice-subset/index.html) *Python for Humanities* 
-- Before you start this lesson:
-  - Create a new working directory in `data-a-user-manual` called `python-humanities-lessons` and create a new Jupyter Notebook in this folder called `02-index-slice-subset.ipynb`. Use this notebook to go through this lesson.
-  - Download and extract/unzip the zipped folder `data` distributed on Slack that contains the data files for this lesson, making sure the unzipped folder is in your working directory `python-humanities` for this lesson.
-  - Read the two short sections ["Alex's Processing"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=our%20focus%20today.-,alex%E2%80%99s%20processing,-Alex%20is%20a) and ["Our Data"](https://carpentries-incubator.github.io/python-humanities-lesson/01-starting-with-data/index.html#:~:text=Our%20Data,For%20this%20lesson) to get an introduction to the data you'll be using.
+#### ~~Wed., Apr. 21~~ *No Class, Spring Break*
 
-_In-class_
-- [Markdown Practice]({{site.baseurl}}/in-class/markdown-practice)
+#### Mon., Apr. 26: Final Project workshop
 
-#### Wed., Dec. 1: Project Workshop
-- Complete the first three parts "For loops", "Automating data processing using For Loops", and "Writing Unique Filenames" from the lesson: ["Data workflows and automation"](https://carpentries-incubator.github.io/python-humanities-lesson/05-loops-and-functions/index.html) *Python for Humanities* (stop at "Building reusable and modular code with functions").
-  - Create a new Jupyter Notebook in your `python-humanities-lessons` folder called `05-loops-and-functions.ipynb` and use it to go through the lesson. 
+#### Wed., Apr. 28: Final project workshop
 
-*Rough Draft of Research Project due Sunday, December 5th by 11:59PM*
+#### Mon., May. 3: Final Project presentations
 
-#### Mon., Dec. 6: Final Project Presentations
-- Prepare 7-10 minute presentation on the draft of your research project
+#### Wed., May. 5: Final Project presentations
 
-#### Wed., Dec. 8: Wrapping Up 
+*Final Project due May 12th*
 
-*Final Research Project Due Tuesday, December 14  by 11:59PM*
-
-*Final Self Assessment Due Tuesday, December 14  by 11:59PM*
+*Final [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due by May 12th*

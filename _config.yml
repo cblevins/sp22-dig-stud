@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Data: A User Manual"
+name: "Intro to Digital Studies"
 
 # Short bio or description (displayed in the header)
-description: "University of Colorado Denver, Fall 2021"
+description: "CU Denver Denver, Spring 2022"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /f21-data/assets/image/cu-logo.png
+avatar: /sp22-dig-stud/assets/image/cu-logo.png
 
 #
 # Flags below are optional
@@ -23,19 +23,19 @@ url: "https://cblevins.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/f21-data"
+baseurl: "/sp22-dig-stud"
 
 # Navigation menu
 navigation_links:
 
   - title: Schedule
-    url: /f21-data/schedule
+    url: /sp22-dig-stud/schedule
 
   - title: Assignments
-    url: /f21-data/assignments
+    url: /sp22-dig-stud/assignments
 
   - title: Policies
-    url: /f21-data/policies
+    url: /sp22-dig-stud/policies
 
 # Footer icons
 #footer_links:
@@ -52,7 +52,7 @@ navigation_links:
 #    icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
-copyright: "[Cameron Blevins](https://cameronblevins.org), University of Colorado Denver (Fall 2021)<br>Jekyll theme [Forever Jekyll](https://github.com/forever-jekyll)"
+copyright: "[Cameron Blevins](https://cameronblevins.org), University of Colorado Denver (Spring 2022)<br>Jekyll theme [Forever Jekyll](https://github.com/forever-jekyll)"
 
 #
 # !! You don't need to change any of the configuration flags below !!
