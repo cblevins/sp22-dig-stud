@@ -1,0 +1,38 @@
+I"<h2 id="introduction">Introduction</h2>
+
+<p>The goal of today is continue to learn how to use the open-source video editing software Shotcut. You are going to use Shotcut to create a short (roughly 1-2 minute) video promo for this class.</p>
+
+<h2 id="your-building-blocks">Your building blocks</h2>
+
+<p>Download the .zip file posted to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel. Download the .zip file and then extract it to a sub-folder in your computer’s folder for this class. In this folder you will have the “building blocks” for making your video:</p>
+
+<ul>
+  <li>Short video pitches each of you recorded (.mp4 files)</li>
+  <li>Course poster in image format (.png file)</li>
+  <li>Totally bad-ass music track (.mp3 file)</li>
+</ul>
+
+<h2 id="things-to-include">Things to include</h2>
+
+<p>Your goal is to create a short video using the above building blocks that includes the following:</p>
+
+<ul>
+  <li>Choose three video segments recorded by your classmates to include in your own video</li>
+  <li>Create and save a new project in Shotcut</li>
+  <li>Open the three video files, image file, and audio file and add them to your project’s playlist. Hint: <a href="http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/getting-started-opening-a-file-and-adding-it-to-the-playlist-and-timeline/">http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/getting-started-opening-a-file-and-adding-it-to-the-playlist-and-timeline/</a></li>
+  <li>Add the image file to your timeline and have it play for the first 5 seconds of your video. Hint: <a href="https://youtu.be/JtsB2iZRb9c?t=283">https://youtu.be/JtsB2iZRb9c?t=283</a></li>
+  <li>Add the audio file so that it plays during those opening 5 seconds and then stops (you’ll want to “trim” it in the timeline). Hint: <a href="https://www.youtube.com/watch?v=JpuGsMC2BhQ">https://www.youtube.com/watch?v=JpuGsMC2BhQ</a></li>
+  <li>“Trim” a few seconds from the beginning and/or end of at least one of your classmates’ videos (ex. if there are several seconds of awkward silence at the beginning). Hint: <a href="https://www.youtube.com/watch?v=lxiJRpcnF3I">https://www.youtube.com/watch?v=lxiJRpcnF3I</a></li>
+  <li>End your video with 5 seconds of the course poster again.</li>
+  <li>Export your video as an .mp4 file named <code class="language-plaintext highlighter-rouge">yourfirstname-yourlastname-promo.mp4</code> and upload it to the #in-class Slack channel.</li>
+</ul>
+
+<p><strong>Bonus:</strong></p>
+
+<ul>
+  <li>Add transitions between the different sections of your video, such as and the opening image and in between your three videos</li>
+  <li>Overlay some text onto one of the videos</li>
+  <li>Add an audio fade-in and fade-out at the beginning</li>
+</ul>
+
+:ET

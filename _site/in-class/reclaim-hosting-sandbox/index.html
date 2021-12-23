@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+
+<meta name="description" content="CU Denver Denver, Spring 2022">
+<meta property="og:description" content="CU Denver Denver, Spring 2022" />
+
+<meta name="author" content="Intro to Digital Studies" />
+
+
+<meta property="og:title" content="Creating a "Sandbox" on Reclaim Hosting" />
+<meta property="twitter:title" content="Creating a "Sandbox" on Reclaim Hosting" />
+
+
+
+    <title>Creating a "Sandbox" on Reclaim Hosting – Intro to Digital Studies – CU Denver Denver, Spring 2022</title>
+
+    <link rel="stylesheet" type="text/css" href="/sp22-dig-stud/style.css"/>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/ress/dist/ress.min.css"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/image/favicon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/image/favicon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/image/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/image/favicon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/image/favicon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/image/favicon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/image/favicon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/image/favicon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/image/favicon-180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/image/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/image/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/image/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/image/favicon-192x192.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/image/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/f21-data/assets/image/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/image/favicon-144x144.png">
+    <meta name="msapplication-config" content="/assets/image/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="alternate" type="application/rss+xml" title="Intro to Digital Studies - CU Denver Denver, Spring 2022" href="/sp22-dig-stud/feed.xml"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.4/plyr.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css" integrity="sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc" crossorigin="anonymous">
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/sp22-dig-stud/" class="site-avatar"><img src="/sp22-dig-stud/assets/image/cu-logo.png"/></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/sp22-dig-stud/">Intro to Digital Studies</a></h1>
+            <p class="site-description">CU Denver Denver, Spring 2022</p>
+          </div>
+
+          <nav class="nav-menu">
+            
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/schedule">Schedule</a>
+
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/assignments">Assignments</a>
+
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/policies">Policies</a>
+
+
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="page">
+
+  <h1>Creating a "Sandbox" on Reclaim Hosting</h1>
+
+  <div class="entry">
+    <h2 id="explore-file-manager-and-public_html">Explore File Manager and <code class="language-plaintext highlighter-rouge">public_html</code></h2>
+
+<p>Log into your Reclaim Hosting account click on cPanel. This is the overview page where you can manage a bunch of different aspects of your server account with Reclaim Hosting (such as URL domain names, setting up an email account based on your domain, etc.). Find <code class="language-plaintext highlighter-rouge">File Manager</code>and open this in a new browser tab, which will bring you to an interface showing you some folders. Much like your physical computer, your server space at Reclaim Hosting is organized into a collection of folder containing data, scripts, etc. Don’t worry about what all of them mean. For now, navigate to <code class="language-plaintext highlighter-rouge">public_html</code>. This is the public-facing root folder of your server space. Basically you are going to add stuff in here (files, webpages, etc.) that you want to be accessible to other people through an internet browser.</p>
+
+<h2 id="make-a-sandbox-directory">Make a Sandbox Directory</h2>
+
+<p>Your goal is to make a “sandbox” folder in your <code class="language-plaintext highlighter-rouge">public_html</code> directory that is going to be your space to install and learn new tools. This is where you can mess around and try things out. The <code class="language-plaintext highlighter-rouge">sandbox</code> folder is going to set up a structure of material that can be accessed in the following way: <code class="language-plaintext highlighter-rouge">https://yourdomainnameurl/sandbox/</code>. When you start adding sub-folders or material within your <code class="language-plaintext highlighter-rouge">sandbox</code> folder they will be just be appended to that URL</p>
+
+<p>To create your sandbox:</p>
+<ul>
+  <li>Make sure you are in the <code class="language-plaintext highlighter-rouge">public_html</code> folder</li>
+  <li>Add a new folder within your <code class="language-plaintext highlighter-rouge">public_html</code> folder called <code class="language-plaintext highlighter-rouge">sandbox</code> (make sure it says <code class="language-plaintext highlighter-rouge">public_html</code> under “New folder will be created in:”)</li>
+  <li>Navigate to the folder. It should be empty!</li>
+</ul>
+
+<h2 id="add-a-file-to-your-sandbox">Add a file to your sandbox</h2>
+
+<p>Now let’s try adding a file into your <code class="language-plaintext highlighter-rouge">sandbox</code> folder. While still in File Manager, click +File, then name it <code class="language-plaintext highlighter-rouge">hello.html</code>. The <code class="language-plaintext highlighter-rouge">.html</code> ending tells File Manager what kind of file it is (in this case, an HTML webpage). Make sure it is being created inside your sandbox folder, then click Create New File. You should see a new file inside your directory. Select it by clicking once, then click on HTML Editor towards the top of File Manager. Click the Edit button that appears in a pop-up, and you should be seeing a blank screen with some buttons at the top. Try writing a short message here, then click the Save button.</p>
+
+<p>In a new browser tab, navigate to: <code class="language-plaintext highlighter-rouge">https://yourdomainnameurl/sandbox/hello.html</code> and you should see your message. Congratulations!</p>
+
+<p>If you get done with this step before your group members, go back to the HTML Editor and try to make the ugliest webpage you possibly can (you can change the appearance of text using various buttons) and send it to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel.</p>
+
+<h2 id="password-protect-your-sandbox-directory">Password Protect your Sandbox Directory</h2>
+
+<p>Go back to cPanel under Reclaim Hosting (I recommend using a separate browser tab or using the one you left open). We are now going to add a password protection to your sandbox so that it is only viewable to people in this class (we’re all going to be using the same username and password). Open Directory Privacy (under Files section), then navigate to your <code class="language-plaintext highlighter-rouge">sandbox</code> folder within <code class="language-plaintext highlighter-rouge">public_html</code>. Once in the <code class="language-plaintext highlighter-rouge">sandbox</code> folder, click Edit, then check the box for <code class="language-plaintext highlighter-rouge">Password protect this directory</code> and click Save. This will bring you to a new page, at which point you just go back one page and should see the option to type in a username and password. <strong>Fill in the username and password provided by Professor Blevins</strong>. This will be the same for all students so we can access each other’s work.</p>
+
+<p>Have one of the members of your group try to open <code class="language-plaintext highlighter-rouge">https://yourdomainnameurl/sandbox/hello.html</code> and see if they can access it by using the same username and password. It should now be protected.</p>
+
+  </div>
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer"><div class="copyright">
+            
+            <p><a href="https://cameronblevins.org">Cameron Blevins</a>, University of Colorado Denver (Spring 2022)<br />Jekyll theme <a href="https://github.com/forever-jekyll">Forever Jekyll</a></p>
+
+            
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    <script src="https://cdn.plyr.io/3.6.4/plyr.polyfilled.js"></script>
+    <script>
+      const player = new Plyr('#player');
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+    <script type="text/javascript">
+      const lightbox = GLightbox({
+          touchNavigation: true,
+          loop: true,
+          autoplayVideos: true
+      });
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js" integrity="sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/auto-render.min.js"
+            onload="renderMathInElement(document.body,{
+                    delimiters: [
+                    { left: '$$',  right: '$$',  display: true  },
+                    { left: '$',   right: '$',   display: false },
+                    { left: '\\[', right: '\\]', display: true  },
+                    { left: '\\(', right: '\\)', display: false }
+                    ]});">
+    </script>
+
+  </body>
+</html>

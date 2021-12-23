@@ -1,0 +1,58 @@
+I"�<p>You’re going to submit your second homework of the semester using a Jupyter Notebook. In this homework you’re going to reinforce some of the skills you learned in class: use Python to open a text file, read its contents, turn its text into a <code class="language-plaintext highlighter-rouge">list</code>, and use a <code class="language-plaintext highlighter-rouge">for</code> loop to do some basic analysis. Refer back to the <a href="/sp22-dig-stud/week-04/week-04-data-wrangling.ipynb">in-class portion of Week 4</a> to help you. Once again, please alternate Markdown cells with Code cells where you explain each step.</p>
+
+<h3 id="get-the-data">Get the Data</h3>
+
+<ol>
+  <li>Create a new folder inside the <code class="language-plaintext highlighter-rouge">homework</code> folder on your computer called <code class="language-plaintext highlighter-rouge">week-05-homework</code>. Launch Anaconda Navigator and then create a new Jupyter Notebook inside this folder using the filename convention: <code class="language-plaintext highlighter-rouge">yourlastname-week-05-homework.ipynb</code>.</li>
+  <li>Make a <code class="language-plaintext highlighter-rouge">data</code> folder inside your <code class="language-plaintext highlighter-rouge">week-05-homework</code> folder. This is where you’re going to put the text files.</li>
+  <li>You’re going to analyze two files. Rather than provide them for you, I want you to get some experience locating and downloading them “in the wild.” For today we’re going to use the Internet Archive, which is a large repository of material - including texts. I’ve chosen two history books printed by Northeastern University Press and that were uploaded to the Internet Archive by Northeastern University Library. Your first step is to locate them on the Internet Archive:
+    <ul>
+      <li>Jacqueline Barbara Carr, <em>After the Siege: A Social History of Boston, 1775-1800</em></li>
+      <li>Amalie M. Kass, <em>Midwifery and Medicine in Boston: Walter Channing, M.D., 1786-1876</em></li>
+    </ul>
+  </li>
+  <li>The goal is to download two text files (ending in <code class="language-plaintext highlighter-rouge">.txt</code>) of these two books and put them inside your <code class="language-plaintext highlighter-rouge">data</code> folder. Use this page to try and figure out how to download the raw <code class="language-plaintext highlighter-rouge">.txt</code> file: <a href="https://help.archive.org/hc/en-us/articles/360017781111-How-to-download-files">https://help.archive.org/hc/en-us/articles/360017781111-How-to-download-files</a></li>
+  <li>You should know have a <code class="language-plaintext highlighter-rouge">week-05-homework</code> folder consisting of:
+    <ul>
+      <li>Your Jupyter Notebook</li>
+      <li>A folder called <code class="language-plaintext highlighter-rouge">data</code></li>
+      <li>Two <code class="language-plaintext highlighter-rouge">.txt</code> files inside your <code class="language-plaintext highlighter-rouge">data</code> folder of the two above books</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="wrangle-the-data">Wrangle the Data</h3>
+
+<p>You’re now going to load each file into your Jupyter Notebook. I would recommend just working with one file for now until you manage to get it all working.</p>
+
+<p><strong>Before you begin</strong>, note that you’re going to be working with much larger files and data than you did in class. Keep this in mind if you use a print statement to, say, print out the entire contents of a file - this could bog down your machine. I would recommend a workaround. For strings and lists, you can specify just particular parts of them using brackets [ ] immediately after the name of the variable and then numbers inside the variable separated by a colon. So if your variable is a list, then <code class="language-plaintext highlighter-rouge">print(somelistvariable[0:10])</code> will only print the first ten items of the list. If your variable is a string (ie. text), then <code class="language-plaintext highlighter-rouge">print(somestringvariable[0:10])</code> will only print the first ten characters of your string.</p>
+
+<ol>
+  <li>Import the necessary Python libraries <code class="language-plaintext highlighter-rouge">os</code> and <code class="language-plaintext highlighter-rouge">string</code></li>
+  <li>Use <code class="language-plaintext highlighter-rouge">os</code> functions to tell Python where to look for the data (text files)</li>
+  <li><code class="language-plaintext highlighter-rouge">open()</code> and then <code class="language-plaintext highlighter-rouge">read()</code> the text file, assigning a variable to its contents</li>
+  <li>Create a <code class="language-plaintext highlighter-rouge">list</code> consisting of words contained in the text contents using the <code class="language-plaintext highlighter-rouge">split()</code> function and assign it to a new variable.
+    <ul>
+      <li>Note: this function takes any kind of text and breaks it up using whatever character you told it. In our in-class exercise, we used the hidden newline <code class="language-plaintext highlighter-rouge">\n</code> character in order to tell it to break up the string whenever it got to the end of a <em>line</em>. For this homework, I’d like you to create a list of <em>words</em> instead of <em>lines</em>. What equivalent “character” would you use instead of <code class="language-plaintext highlighter-rouge">\n</code>? If you’re having trouble figuring this out, Google might have some help. :)</li>
+    </ul>
+  </li>
+  <li>Now repeat the above steps for the second text (note: you’ll want to name your variables to distinguish between the two - something like <code class="language-plaintext highlighter-rouge">text1</code> vs. <code class="language-plaintext highlighter-rouge">text2</code>, or <code class="language-plaintext highlighter-rouge">kass</code> vs. <code class="language-plaintext highlighter-rouge">carr</code>.</li>
+</ol>
+
+<h3 id="analyze-the-data">Analyze the Data</h3>
+
+<p>Refer back to our in-person exercise to try and figure out answers to the following questions. I’ve included the names of relevant functions for each of them.</p>
+
+<ol>
+  <li>Which of the two books is longer in terms of their total number of words? <code class="language-plaintext highlighter-rouge">len()</code></li>
+  <li>Which book has the longest <em>individual</em> word? <code class="language-plaintext highlighter-rouge">max()</code>, <code class="language-plaintext highlighter-rouge">len()</code></li>
+  <li>How many <em>unique</em> words are used by each author? ie. Which author has a larger vocabulary? <code class="language-plaintext highlighter-rouge">lists</code>, <code class="language-plaintext highlighter-rouge">for loop</code>, <code class="language-plaintext highlighter-rouge">if...not in</code>, <code class="language-plaintext highlighter-rouge">append</code>
+    <ul>
+      <li>Note: looping through a large text might take your computer awhile. If there is an asterisk on the left side of a cell - ie. [*] - that means the cell is still working. Don’t use a print statement here or it will take even longer. If you think it’s frozen, try restarting the kernel.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Once you’ve completed the homework: <strong>create a zip file (<a href="https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files">Windows instructions</a>, <a href="https://support.apple.com/guide/mac-help/compress-uncompress-files-folders-mac-mchlp2528/mac">Mac instructions</a>) of your <code class="language-plaintext highlighter-rouge">week-05-homework</code> folder</strong> and then upload it to: <a href="https://www.dropbox.com/request/6DlmzXwe51JsbvFrlQ4c">https://www.dropbox.com/request/6DlmzXwe51JsbvFrlQ4c</a>.</p>
+
+:ET

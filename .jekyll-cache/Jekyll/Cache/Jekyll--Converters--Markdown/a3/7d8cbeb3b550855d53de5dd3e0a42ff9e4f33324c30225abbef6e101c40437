@@ -1,0 +1,57 @@
+I"G<p>In this homework you’re going to reinforce more of the Python skills you learned in class in Week 4: use Python to open and read a bunch of text files, process them in some way, and then do some basic analysis. Refer back to the <a href="/sp22-dig-stud/week-04/week-04-data-wrangling.ipynb">in-class portion of Week 4</a> to help you. Once again, please alternate Markdown cells with Code cells where you explain each step.</p>
+
+<h3 id="the-data">The Data</h3>
+
+<p>For this week we’re going to use diary entries from the diary of Martha Ballard, a midwife from Maine made famous by Laurel Ulrich’s <em>A Midwife’s Tale</em>. A project at George Mason University digitized her diary and put it online. I’ve done some work on the entries, and am supplying you with two years’ worth of Ballard’s entries (1804 and 1805). Each of her entries for these two years are contained in a separate text file that I’ve already preprocessed, cleaned up, and put into all lowercase.</p>
+
+<h3 id="set-up">Set Up</h3>
+<ol>
+  <li>Create a new folder inside the <code class="language-plaintext highlighter-rouge">homework</code> folder on your computer called <code class="language-plaintext highlighter-rouge">week-06-homework</code>. Launch Anaconda Navigator and then create a new Jupyter Notebook inside this folder using the filename convention: <code class="language-plaintext highlighter-rouge">yourlastname-week-06-homework.ipynb</code>.</li>
+  <li><a href="/sp22-dig-stud/homework/week-06-homework-data.zip">Download Martha Ballard’s diary entries for 1804 and 1805</a> and put the file in your <code class="language-plaintext highlighter-rouge">week-06-homework</code> folder. Unzip this and rename the folder <code class="language-plaintext highlighter-rouge">data</code>. This is your directory of text files.</li>
+  <li>In your Jupyter Notebook:
+    <ul>
+      <li>Import the <code class="language-plaintext highlighter-rouge">os</code> and <code class="language-plaintext highlighter-rouge">string</code> libraries</li>
+      <li>Use <code class="language-plaintext highlighter-rouge">os</code> to tell Python where to look for the data (text files)</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="wrangle-the-data">Wrangle the Data</h3>
+
+<p>The goal of this section is to take your hundreds of text files worth of diary entries and add them into two lists, one containing all of the diary entries for 1804 and one for 1805. You’re going to do this through the following steps:</p>
+
+<ol>
+  <li>Make two new variables, <code class="language-plaintext highlighter-rouge">year_1804</code> and <code class="language-plaintext highlighter-rouge">year_1805</code>, and make them empty lists. This is where you’re going to be adding individual entries for that year as items in your list.</li>
+  <li>Use <code class="language-plaintext highlighter-rouge">os.listdir()</code> to get a list of filenames contained in your data folder and assign it as a new variable</li>
+  <li>Write a <code class="language-plaintext highlighter-rouge">for</code> loop to go through your list of filenames and <code class="language-plaintext highlighter-rouge">open()</code> each diary entry read() its contents.</li>
+  <li><strong>Inside</strong> that same <code class="language-plaintext highlighter-rouge">for</code> loop, then use an <code class="language-plaintext highlighter-rouge">if</code> statement to figure out which year the diary entry was written. Based on that, <code class="language-plaintext highlighter-rouge">append()</code> the entry to either your <code class="language-plaintext highlighter-rouge">year_1804</code> or <code class="language-plaintext highlighter-rouge">year_1805</code> list.
+    <ul>
+      <li>Hint: this is going to require a new function, but one that is related to the <code class="language-plaintext highlighter-rouge">if f.endswith('.txt'):</code> in your Week 4 exercise. Try Googling to see if you can figure out what function to use.</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="analyze-the-data">Analyze the Data</h3>
+
+<p>Let’s do some basic analysis of Martha Ballard’s diary entries for these two years.</p>
+
+<ol>
+  <li>In which year did she write more entries?</li>
+  <li>What is Ballard’s longest entry that she wrote in 1804 or 1805?</li>
+  <li>What is the shortest entry that she wrote?</li>
+  <li>What is the average length of her entries in 1804 vs. 1805?
+    <ul>
+      <li>Note: this is a tricky one that requires some thinking outside of the box or importing a library you haven’t used yet - if you can’t figure it out, feel free to skip it</li>
+    </ul>
+  </li>
+  <li>What was the weather in Maine exactly 215 years ago from <em>today</em>? The goal is to generate a print statement that just prints out the sentence from that particular entry containing the weather.
+    <ul>
+      <li>Use a <code class="language-plaintext highlighter-rouge">for</code> loop to go back through your data files</li>
+      <li>Use an <code class="language-plaintext highlighter-rouge">if</code> statement to locate the correct text file based on its filename</li>
+      <li><code class="language-plaintext highlighter-rouge">open()</code>, <code class="language-plaintext highlighter-rouge">read()</code>, and assign the contents of just that file to a new variable</li>
+      <li>Use the <code class="language-plaintext highlighter-rouge">split()</code> function to create a new list, with each individual item being a different sentence from her diary entry. Think about what character you want to “split” on.</li>
+      <li><code class="language-plaintext highlighter-rouge">print()</code> just the sentence that talks about the weather. To do this, you’re going to tell Python which item inside your list of sentences you want to print using the brackets <code class="language-plaintext highlighter-rouge">[]</code> notation. <strong>Annoying Python feature</strong>: Python starts “counting” at 0 instead of 1. So to access the second item in your list, you’d use <code class="language-plaintext highlighter-rouge">print(somelist[3])</code> NOT <code class="language-plaintext highlighter-rouge">print(somelist[2])</code>. Fun right? :)</li>
+    </ul>
+  </li>
+</ol>
+:ET

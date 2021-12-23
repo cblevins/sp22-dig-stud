@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+
+<meta name="description" content="CU Denver Denver, Spring 2022">
+<meta property="og:description" content="CU Denver Denver, Spring 2022" />
+
+<meta name="author" content="Intro to Digital Studies" />
+
+
+<meta property="og:title" content="Making Data" />
+<meta property="twitter:title" content="Making Data" />
+
+
+
+    <title>Making Data – Intro to Digital Studies – CU Denver Denver, Spring 2022</title>
+
+    <link rel="stylesheet" type="text/css" href="/sp22-dig-stud/style.css"/>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/ress/dist/ress.min.css"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/image/favicon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/image/favicon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/image/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/image/favicon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/image/favicon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/image/favicon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/image/favicon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/image/favicon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/image/favicon-180x180.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/image/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/image/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/image/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/image/favicon-192x192.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/image/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/f21-data/assets/image/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/image/favicon-144x144.png">
+    <meta name="msapplication-config" content="/assets/image/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="alternate" type="application/rss+xml" title="Intro to Digital Studies - CU Denver Denver, Spring 2022" href="/sp22-dig-stud/feed.xml"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css" integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.4/plyr.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css" integrity="sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc" crossorigin="anonymous">
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/sp22-dig-stud/" class="site-avatar"><img src="/sp22-dig-stud/assets/image/cu-logo.png"/></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/sp22-dig-stud/">Intro to Digital Studies</a></h1>
+            <p class="site-description">CU Denver Denver, Spring 2022</p>
+          </div>
+
+          <nav class="nav-menu">
+            
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/schedule">Schedule</a>
+
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/assignments">Assignments</a>
+
+  <a class="nav-menu-item"<a href="/sp22-dig-stud/policies">Policies</a>
+
+
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="page">
+
+  <h1>Making Data</h1>
+
+  <div class="entry">
+    <h3 id="introduction">Introduction</h3>
+
+<p>Much of digital history revolves around data - finding it, understanding it, and processing it. In this example we are going to use material from Cameron’s undergraduate class <a href="http://cblevins.github.io/f19-west">History of the Western U.S.</a> Each of his students in that class brainstormed a list of words they associate with the western United States and wrote them down on a notecard.</p>
+
+<p><img src="/sp22-dig-stud/week-04/notecard-example.jpeg" alt="notecard" /></p>
+
+<p>This is a familiar kind of “source” for historians: hand-written words on a piece of physical paper. Our job is to turn these pieces of paper into machine-readable <em>data</em>. Once we have a dataset of all of the words that Cameron’s students wrote down, we could do some basic text analysis. What are the most common words that this group of undergraduates associate with the western United States? What kinds of words tend to appear together? Although it’s a very small dataset in terms of the number of students, these are interesting questions that touch on issues of historical memory and popular culture.</p>
+
+<h3 id="transcription">Transcription</h3>
+
+<p>Each person is going to “digitize” one notecard.</p>
+
+<p><strong>Group Discussion:</strong></p>
+
+<p>Read notecard and think about the different words and phrases. How should we go about digitizing this kind of source?</p>
+
+<p>Some things to consider:</p>
+
+<ul>
+  <li>What is the <em>purpose</em> of this data?</li>
+  <li>What is it going to be used for? Is this meant to archive these sources in a way that preserves their original form as much as possible? Or do we want to capture the information that’s recorded on them?</li>
+  <li>Do you see any issues or have any questions about the mechanics of transcribing your notecard? Ex. What are you going to do with misspelled words?</li>
+</ul>
+
+<h3 id="data-wrangling-and-analysis">Data Wrangling and Analysis</h3>
+
+<p>Now that everyone has transcribed a notecard, we’re shift over to Python to wrangle our freshly made data and see if we can do some basic analysis of it. To get started, download the Jupyter Notebook for <a href="/sp22-dig-stud/week-04/week-04-data-wrangling.ipynb">Data Wrangling</a>.</p>
+
+
+  </div>
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer"><div class="copyright">
+            
+            <p><a href="https://cameronblevins.org">Cameron Blevins</a>, University of Colorado Denver (Spring 2022)<br />Jekyll theme <a href="https://github.com/forever-jekyll">Forever Jekyll</a></p>
+
+            
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    <script src="https://cdn.plyr.io/3.6.4/plyr.polyfilled.js"></script>
+    <script>
+      const player = new Plyr('#player');
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+    <script type="text/javascript">
+      const lightbox = GLightbox({
+          touchNavigation: true,
+          loop: true,
+          autoplayVideos: true
+      });
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js" integrity="sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/auto-render.min.js"
+            onload="renderMathInElement(document.body,{
+                    delimiters: [
+                    { left: '$$',  right: '$$',  display: true  },
+                    { left: '$',   right: '$',   display: false },
+                    { left: '\\[', right: '\\]', display: true  },
+                    { left: '\\(', right: '\\)', display: false }
+                    ]});">
+    </script>
+
+  </body>
+</html>
