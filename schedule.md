@@ -3,252 +3,256 @@ layout: page
 title: Schedule
 ---
 
-## I. The Basics
+### Going Remote
 
-#### Wed., Jan. 20: Introductions
+*The first two weeks of the semester will be conducted remotely  -  part of a larger sea change in both higher education and some areas of the private sector. I thought we could use this as an opportunity to discuss some of the larger implications of learning and working remotely and some of the concrete skills in how to do so effectively.*
 
-#### Mon., Jan. 25: Higher Education During the Covid-19 Pandemic
-- Join the class Slack workspace (see Canvas announcement for instructions), customize your profile picture, and write a post introducing yourself in the #general channel - feel free to include a GIF, picture of your pet, etc.
-- Sign up for Hypothes.is and join the class group (see Canvas announcement for instructions). See [Hypothes.is Quick Start Guide for Students](https://hypothes.is/quick-start-guide-for-students/).
-- Annotate the following with Hypothes.is (be sure to make your annotations in our class group `sp21-dig-stud` rather than private or fully public):
-	- This course website (write questions or clarifications about policies, assignments, etc., reactions to different topics, things you're dreading, things you're excited about, etc.)
-	- Becky Supiano, ["Grades Can Hinder Learning. What Should Professors Use Instead?"](https://www-chronicle-com.aurarialibrary.idm.oclc.org/article/grades-can-hinder-learning-what-should-professors-use-instead) *The Chronicle of Higher Education* (July 19, 2019)
-	- Shea Swauger, ["Our Bodies Encoded: Algorithmic Test Proctoring in Higher Education"](https://hybridpedagogy.org/our-bodies-encoded-algorithmic-test-proctoring-in-higher-education/) *Hybrid Pedagogy* (April 20, 2020).
+#### Tue., Jan. 18: Introductions
 
-_In Class_ 
-- Online privacy, what you want to get out of the course, Zoom best practices, troubleshooting Slack and Hypothes.is
+#### Thu., Jan. 20: Remote Learning
+- Join the class Slack workspace (see university email for invitation), customize your profile picture, and write a message introducing yourself in the `#general` channel that includes one image (GIF, meme, picture of your pet - whatever you want!)
+- Watch instructional video on Hypothesis: ["Annotating in the LMS for Students"](https://www.youtube.com/watch?v=xlkUBM9MJZ4)
+- Annotate in Hypothesis (access readings via Canvas): 
+  - Course Syllabus: questions or clarifications about policies, assignments, etc., reactions to different topics, things you're dreading, things you're excited about, etc.
+  - Nora Caplan-Bricker, ["Is Online Test-Monitoring Here to Stay?"](https://www.newyorker.com/tech/annals-of-technology/is-online-test-monitoring-here-to-stay) *The New Yorker* (May 27, 2021).
 
-#### Wed., Jan. 27: Computers and Files and Servers, Oh My! 
-- Annotate in Hypothes.is: 
-  - Scott Weingart, ["The Route of a Text Message, a Love Story"](https://www.vice.com/en/article/kzdn8n/the-route-of-a-text-message-a-love-story) *Vice* (February 22, 2019).
-  - Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015)
-- Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/pricing/) (Cost: $30 - this will be the only thing I will ask you to pay for during the semester (I hope))
+_In Class_
+- Discussion of remote learning & online privacy, what you want to get out of the course, troubleshooting Slack and Hypothesis
+
+#### Tue., Jan. 25: Remote Work
+- Select a topic for your upcoming Zoom presentation and describe it in a few sentences on the Slack `#presentations` channel
 - Make sure you have a Google Account that you are willing to use for this class.
+- Watch video: Valerie Pennington, ["Making Slides that Don't Suck"](https://www.youtube.com/watch?v=0_WFRIdsoEc) (17 min.) and post on the `#readings` Slack channel some of the tips you found most useful.
+- Annotate in Hypothesis:
+  - Rani Molla, ["10 ways office work will never be the same"](https://www.vox.com/recode/22331447/10-ways-office-work-pandemic-future-remote-work) *Vox: Recode* (March 23, 2021). 
+  - HIST 5260 / COMM 6710 only: Rani Molla, ["Remote work is bringing the city to the suburbs"](https://www.vox.com/recode/22714777/remote-work-from-home-city-suburbs-housing-traffic) *Vox: Recode* (October 21, 2021). 
+
+_In Class_
+- Practicing Zoom presentations
+
+#### Thu., Jan. 27: Zoom Presentations
+- Record a practice version of your Zoom presentation and submit it to Canvas by Weds. 1/26 at 11:59PM
+- Zoom Presentation delivered in class on Thurs., January 27th
+
+*Revised Zoom presentation recording due Sun. 1/30*
+
+### The Basics
+
+#### Tue., Feb. 1: Computers and Files and Servers, Oh My!
+- Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/)
+  - Cost: $30. This will be the only thing I will ask you to pay for during the semester (I hope).
+  - This URL will be your own personal domain that you will use in this class for assignments, but you can also use it moving forward as a professional website or portfolio. Think carefully about the domain name you choose - I would highly recommend using your full name and .net, .name, .info, etc.
+- Annotate in Hypothesis:
+  - Ingrid Burrington, ["How Railroad History Shaped Internet History"](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414/) *The Atlantic* (November 24, 2015).
+  - Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name"](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
 
 _In Class_
 - File types, folder structures, servers, and navigating Reclaim Hosting. 
 - [Creating a "Sandbox" on Reclaim Hosting]({{site.baseurl}}/in-class/reclaim-hosting-sandbox)
 
-## II. Websites and Archives
-
-#### Mon., Feb. 1: Website Design 
-- Annotate in Hypothes.is:
-  - Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
+#### Thu., Feb. 3: A Domain of Your Own
 - Follow [these instructions]({{site.baseurl}}/in-class/install-wordpress) to install a Wordpress site in a "sandbox" directory on Reclaim Hosting.
-- Select a topic for your Zoom presentation and describe it in 1-2 sentences on the Slack #presentations channel
-- Either: make a LinkedIn Page and connect with Professor Blevins OR write an email to him explaining why you don't wish to do so
+- Annotate in Hypothesis:
+  - Audrey Watters, ["The Web We Need to Give Students"](https://brightthemag.com/the-web-we-need-to-give-students-311d97713713#.baxz2qqib) *BRIGHT Magazine* (July 15, 2015)
+  - HIST 5260 / COMM 6710 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
 
 _In Class_
 - [Using Wordpress]({{site.baseurl}}/in-class/wordpress)
 
-#### Wed., Feb. 3: Zoom Presentations
-- Prepare to present your [Zoom Presentation]({{site.baseurl}}/assignments/zoom-presentation)
-
-_In Class_
-- Student Zoom Presentations and peer feedback
-
-*Digital Hygiene assignment due 2/8-2/21*
-
-#### Mon., Feb. 8: Digital History
+#### Tue., Feb. 8: Digital History
+- Add a landing page / About page to your personal website with a short bio and interests (professional, academic, or otherwise).
 - Annotate in Hypothes.is:
   - Sheila Brennan, [“Digital History”](https://inclusivehistorian.com/digital-history/) *The Inclusive Historian’s Handbook* (June 4, 2019)
-  - Jessica Marie Johnson, ["Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"](https://read-dukeupress-edu.aurarialibrary.idm.oclc.org/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death) *Social Text*, Vol. 36, No. 4 (2018).
-- Finalize a Wordpress theme and its layout for your sandbox site. Add some kind of landing or About page with a short bio and interests. Post the URL of your site to the `#assignments` channel in Slack.
+  - Robert Lee and Tristan Ahtone, ["Land Grab Universities"](https://www.hcn.org/issues/52.4/indigenous-affairs-education-land-grab-universities) *High Country News* (March 30, 2020)
 
 _In Class_
-- Q&A with [Caroline Klibanoff](https://carolineklibanoff.com/), Program Manager for Made by Us at the Smithsonian National Museum of American History.
- 
-#### Wed., Feb. 10: Digital Archives
-- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/in-class/install-omeka) through your Reclaim Hosting account.
-- Post 1-2 questions, comments, or reactions to the following reading on the `#readings` Slack channel: Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
+- Discussion of how technology has shaped the discipline of history
+- Wordpress Themes
+
+#### Thu., Feb. 10: Digital Communications
+- Finalize a Wordpress theme the layout for your personal website.  Post the URL of your site to the `#assignments` channel in Slack.  
+- Journalism designer and developer [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/) helped design and build the layout of the following article and will be joining our class to discuss it . Read the article and then post 2-3 comments or questions about it in the `#readings` Slack channel, focusing on any questions you might have for Ms. Wu (this can be on the article itself or general questions about her work and career):
+  - ["How Politics Has Pulled the Country in Different Directions"](https://www.wsj.com/graphics/polarized-presidential-elections/), *Wall Street Journal* (November 10, 2020).
 
 _In Class_
-- Understanding metadata and creating items in Omeka.
+- Visit from [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/), graphics designer and developer for the *Washington Post*. 
+- Peer review of personal websites
 
-#### Mon., Feb. 15: Digital Collections
-- Post discussion comments or questions to `readings` channel on Slack: 
-  - Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
-  - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
+*[Digital Hygiene and Reflection]({{site.baseurl}}/assignments/digital-hygiene) due February 13th*
 
-_In Class_
-- [Working with Omeka]({{site.baseurl}}/in-class/omeka)
-
-#### Wed., Feb. 17: Digitization *Class Postponed*
-- Post discussion comments or questions to `readings` channel on Slack: 
-  - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
-  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
+#### Tue., Feb. 15: Silicon Valley 
+- Watch video: ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020) (10 min.)
+- Annotate in Hypothesis:
+  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019)
+  - Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019)
 
 _In Class_
-- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
+- Q&A with [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 
-*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due this week by February 21st*
+#### Thu., Feb. 17: The Changing Digital Economy
+- Annotate in Hypothesis:
+  - Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021)
+  - HIST 5260 / COMM 6710 only: Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020)
 
-## III. Data
+*First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due February 20th*
 
-*COVID-19 Digital Archive due 2/22-3/7*
+### Data
 
-#### Mon., Feb. 22: Making Data
-- Post discussion comments or questions to `readings` channel on Slack: 
-  - Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd) in *Data Feminism* (MIT Press, 2020).
+#### Tue., Feb. 22: Making Data
+- Annotate in Hypothesis: 
+  - ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
-- Please also read the following, which provides background for a historical source that we are going to be working with over the next several classes: 
-  - Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).
+
+[comment]: # (Please also read the following, which provides background for a historical source that we are going to be working with over the next several classes: Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).)
 
 _In Class_
 - [Data structures and recording information in spreadsheets]({{site.baseurl}}/in-class/making-data) 
 
-#### Wed., Feb. 24: Processing Data
-- Post discussion comments or questions to `readings` channel on Slack: 
-  - Katie Rawson and Trevor Muñoz, [“Against Cleaning”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51) in *Debates in Digital Humanities 2019*
-  - ~~Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).~~
+#### Thu., Feb. 24: Processing Data
+- Annotate in Hypothesis: 
+  - Christopher Groskopf, ["The Quartz Guide to Bad Data"](https://qz.com/572338/the-quartz-guide-to-bad-data/) *Quartz* (December 15, 2015).
 
 _In Class_
-- Jaclyn project review
-- Transcribing data from Alcatraz Logbook
+- Spreadsheet functions
 
-#### Mon., Mar. 1: Analyzing Data
-- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
-  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
-- Transcribe the remainder of your assigned page from the Alcatraz Logbook (see my post in `#general` Slack channel for more information). 
-
-_In Class_
-- Processing data and spreadsheet functions
-
-#### Wed., Mar. 3: Data Science
-- Either annotate in Hypothes.is OR post discussion comments/question to Slack for:
-  - Benjamin Pimentel, ["Dear Liberal Arts Major: STEM Companies Need Your Skills to Grow"](https://www.edsurge.com/news/2019-02-25-dear-liberal-arts-major-stem-companies-need-your-skills-to-grow) *EdSurge* (February 25, 2019)
-  - Paul Musgrave, ["Plato and Proust can’t save Silicon Valley"](https://www.washingtonpost.com/outlook/2019/08/15/plato-proust-cant-save-silicon-valley/) *Washington Post* (August 15, 2019)
-  - Video: ["Data Analyst vs Data Engineer vs Data Scientist"](https://www.youtube.com/watch?v=HmHWc8Zw1Dk) (April 12, 2020)
-
-_In Class_
-- Q&A with Alexis Baird, Director of Product Management at Thumbtack
-
-#### Mon., Mar. 8: Data Visualization: Charts
+#### Tue., Mar. 1: Analyzing Data
 - [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
-- Post discussion comments or questions to `readings` channel on Slack: 
-  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240. (see `#readings` channel for PDF)
-  - Matt Korostoff, ["Wealth Shown to Scale"](https://mkorostoff.github.io/1-pixel-wealth/)
-  - Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
+- Annotate in Hypothesis:
+  - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
 
 _In Class_
-- Scott project review
+- Visit from from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
+- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
+
+#### Thu., Mar. 3: Visualizing Data: Charts
+- Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
+- Annotate in Hypothesis:
+  - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240.
+
+_In Class_
 - Making charts in Tableau Public
 
-#### Wed., Mar. 10: Data Visualization: Maps 
-- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
+#### Tue., Mar. 8: Visualizing Data: Maps 
+- Annotate in Hypothesis:
   - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
   - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
-
-[comment]: # (- Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).)
+  - HIST 5260 / COMM 6710 only: Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
  
 _In Class_
-- Teresa project review
-- Discussion of spatial history and cartography, understanding spatial data, making maps in Tableau Public
+- Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
+- Making maps in Tableau Public
 
-## IV. Media
-
-*Data Exploration due 3/15-3/28*
-
-#### ~~Mon., Mar. 15: Images~~ *University-wide class cancellation due to weather*
-- Annotate in Hypothes.is or post discussion comments to `readings` channel on Slack:
-  - *Reading moved to Weds. 3/17*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+#### Thu., Mar. 10: Organizing Data
+- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/in-class/install-omeka) through your Reclaim Hosting account.
+- Annotate in Hypothesis:
+  - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
-- Discussion of computer vision and machine learning, working with image files and basic image editing
+- Understanding Metadata and creating items in Omeka
 
-#### Wed., Mar. 17: Images / Graphic Design
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
-  - *Reading moved from Mon. 3/15*: Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
-  - ~~"Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020) (reading posted as PDF to `#readings` channel)~~ 
+[comment]: # (Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization)
+
+#### Tue., Mar. 15: Accessing Data
+- Annotate in Hypothesis:
+  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
+  - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
+  - HIST 5260 / COMM 6710 only: Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
 
 _In Class_
-- Q&A with Guy McClellan, historian for the National Parks Service
-- TJ project review
+- [Working with Omeka]({{site.baseurl}}/in-class/omeka)
 
-#### Mon., Mar. 22: Video
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
-  - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020.
+#### Thu., Mar. 17: Open Class Period
+- Use this time to work on your data exploration assignment
+
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due March 20th*
+
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 27th*
+
+### Media
+
+#### Tue., Mar. 29: Images
+- Annotate in Hypothesis:
+  - Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
+  - HIST 5260 / COMM 6710 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.
+
+_In Class_
+- Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
+- Discussion of computer vision
+- Working with image files
+
+#### Thu., Mar. 31: Images 
+- Annotate in Hypothesis:
+  - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+
+_In Class_
+- Image editing
+
+[comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
+
+#### Tue., Apr. 5: Video
 - [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)
+- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
+  - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
+- Annotate in Hypothesis:
+  - HIST Students Only: ["Keeping Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
+  - COMM Students Only: Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
 
 _In Class_
 - Introduction to Shotcut
 
-[comment]: # (- Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
-
-#### Wed., Mar. 24: Video
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on: 
-  - Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
-  - Glance through MyHeritage's page for its ["Deep Nostalgia" tool](https://www.myheritage.com/deep-nostalgia) and then read Marisa Parhma's [Twitter thread](https://twitter.com/amplify285/status/1366039719499415554) on it.
-- Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #in-class Slack channel by 1PM.** We will be using these during class to learn how to edit videos in Shotcut. 
+#### Thu., Apr. 7: Video
+- Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel by 2:00PM.** We will be using these during class to learn how to edit videos. 
+- Annotate in Hypothesis:
+  - Cat Zhang, ["The Anatomy of a TikTok Hit"](https://pitchfork.com/thepitch/the-anatomy-of-a-tiktok-hit/) *Pitchfork* (November 13, 2019).
+  - Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 _In Class_
-- Bianca project review
 - [Video files and editing with Shotcut]({{site.baseurl}}/in-class/video-editing)
-
-*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due by March 28th*
  
-#### Mon., Mar. 29: Audio
-- Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following:
-  - Jennifer Miller, ["Have We Hit Peak Podcast?"](https://www.nytimes.com/2019/07/18/style/why-are-there-so-many-podcasts.html) *New York Times* (July 18, 2019)
-  - Listen to the second half (starting at 14:15 min) of Nick Quah's interview with Catherine Saint Louis: ["What Does a Podcast Editor Do?"](https://omny.fm/shows/servant-of-pod-with-nick-quah/what-does-a-podcast-editor-do), *Servant of Pod* (August 5, 2020).
-- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
+#### Tue., Apr. 12: Audio
+- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. 
+  - Install the FFmpeg Audacity library [[Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html)]
+  - Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
+- Annotate in Hypothesis:
+  - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021).
+  - Annotate ONE of the following articles from the *New York Times* series "The State of Podcasting" and be prepared to teach it to your classmates:
+    - ["Voice Lessons: When Podcast Hosts Speak, What Do We Hear?"](https://www.nytimes.com/interactive/2021/02/25/arts/podcast-voice-sound.html)
+    - ["Saidu Tejan-Thomas Jr. and the Voices of ‘Resistance’"](https://www.nytimes.com/2021/02/25/arts/saidu-tejan-thomas-jr-resistance.html)
+    - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
+    - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
 _In Class_
-- Whitney project review
 - [Recording and editing audio with Audacity]({{site.baseurl}}/in-class/audio-editing)
 
-*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due Friday April 2nd*
-
-#### Wed., Mar. 31: Audio
+#### Thu., Apr. 14: Audio
+- Post on the `#assignments` Slack channel a 2-3 sentence summary of the topic and media format you're planning to do for your [Media Project]({{site.baseurl}}/assignments/media-project).
 - Listen to [Episode 8: Eden to Ashes](https://consolationprize.rrchnm.org/2021/02/16/episode-8-eden-to-ashes/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
 
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
+
+*[Media Project]({{site.baseurl}}/assignments/media-project) due April 17th*
  
-## V. Class Choice
+### Wrapping Up
 
-YOU will be in the driver’s seat in April. The class will vote on a topic(s) or method(s) that they would like to learn more about. This can consist of revisiting a topic (ex. “we want to know more about spatial history”) or exploring a brand-new one (ex. “we want to learn about machine learning”). I will then select readings and activities for these topics. 
+#### Tue., Apr. 19: TBD - Class Choice
+- Topic selected by class
 
-#### Mon., Apr. 5: Digitization (Rescheduled)
-- Review readings from cancelled class in February:
- - [Ana Parejo Vadillo interview with Brewster Kahle, founder of the Internet Archive](https://doi.org/10.16995/ntn.760) *19: Interdisciplinary Studies in the Long Nineteenth Century* 2015 (21). Note: you only need to read the interview, not the attached article from 1996.
-  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
+#### Thu., Apr. 21: TBD - Class Choice
+- Topic selected by class
 
-_In Class_
-- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
+#### Tue., Apr. 26: Final Project Workshop
 
-#### Wed., Apr. 7: Data Analysis and Visualization
-- Read the following related to the project "Land Grab Universities" and post 2-3 discussion questions on the `#readings` channel on Slack:
-  - [Twitter thread](https://twitter.com/highcountrynews/status/1376957603893411851) describing the project and its reception over the past year.
-  - [The README file](https://github.com/HCN-Digital-Projects/landgrabu-data) for the project's Github repository of data.
-  - Spend a few minutes poking around [the project's interactive site](https://www.landgrabu.org/).
+#### Thu., Apr. 28: Final Project Workshop
+- Submit an updated resume on Canvas that includes the skills you've learned in this class.
 
-_In Class_
-- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
+#### Tue., May. 3: Final Project Presentations
+- Draft of [Final Project]({{site.baseurl}}/assignments/final-project) due by beginning of class.
 
+#### Thu., May 5: Final Project Presentations & Wrapping Up
 
-#### Mon., Apr. 12: Data Analysis and Visualization (cont'd)
-- Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
+*[Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (HIST 5260/COMM 6710 only) due May 12th*
 
-_In Class_
-- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
+*[Final Project]({{site.baseurl}}/assignments/final-project) due May 12th*
 
-## VI. Final Projects
-
-#### Wed., Apr. 14: Project Consultations
-
-#### ~~Mon., Apr. 19~~ *No Class, Spring Break*
-
-#### ~~Wed., Apr. 21~~ *No Class, Spring Break*
-
-#### Mon., Apr. 26: Final Project workshop
-
-#### Wed., Apr. 28: Final project workshop
-
-#### Mon., May. 3: Final Project presentations
-
-#### Wed., May. 5: Final Project presentations
-
-*Final Project due May 12th*
-
-*Final [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due by May 12th*
+*[Final Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due May 12th*

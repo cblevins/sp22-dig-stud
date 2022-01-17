@@ -15,4 +15,4 @@ In the first part of your post you will write a short "data biography." Read Hea
 
 You will then use Tableau Public to explore the contents of the dataset in more depth and the kinds of information it contains. Once you have a handle on the different kinds of information, choose a **specific** aspect of the data to analyze and visualize in some way (chart, map, etc.). Communicate your findings in the second part of your post, through a combination of written explanation and either exported images from your Tableau Public workbook or an [embedded Tableau Public sheet](https://perceptivedata.com.au/embed-tableau-in-website/) in your post.
 
-*Due during Weeks 9-10 (March 15-28th). Post the URL in the Slack `#assignments` channel.*
+*URL to post due on Canvas by Sunday, 3/20 at 11:59PM*

@@ -1,0 +1,25 @@
+I"�<p>For background, read the following two articles from the New York Times:</p>
+<ul>
+  <li>Farhad Manjoo and Nadieh Bremer, <a href="https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html">“I Visited 47 Sites. Hundreds of Trackers Followed Me.”</a> <em>New York Times</em> (August 23, 2019).</li>
+  <li>Stuart A. Thompson and Charlie Warzel, <a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html">“Twelve Million Phones, One Dataset, Zero Privacy”</a> <em>New York Times</em> (December 19, 2019).</li>
+</ul>
+
+<p>Complete the following checklist, taking notes on what you’ve found:</p>
+<ul>
+  <li>You’re going to try and see what someone else might see if they were to search for you on the web. This isn’t going to be perfect, since everyone’s search results are going to be customized to their search history, location, etc. but we’ll do our best. First, using a different browser from the one you normally use in your day to day life (ex. Chrome, Firefox, Safari, or Edge), turn on <a href="https://www.lifewire.com/browsing-incognito-445990">“Incognito Mode”</a> and then do a search for your full name (in quotation marks) using two search engines: Google (which probably knows more about you than any other company) and DuckDuckGo (which prioritizes privacy). Review the first two pages of search results for each search engine. What sorts of pages are you finding? Are they related to you or to other people? What are some differences between the two sets of results? Finally, choose someone who might be searching you (potential employer, coworker, first date, etc.). What are the impressions they might have from this?</li>
+  <li>Choose your favorite social media platform (TikTok, Snapchat, Instagram, Facebook, etc.). Go into the app and review your privacy settings. Who is able to see your posts, photos, etc.? Adjust them as needed.</li>
+  <li>Open your mobile phone and go through the following checklist: https://nakedsecurity.sophos.com/2020/10/22/time-for-a-mobile-privacy-reset/. Were there any apps that had more access than you had intended? What are some of the potential tradeoffs between something like location services (letting an app know where you are) and your privacy?</li>
+  <li>Choose five websites that you regularly log into using a username and password, making sure to include at least one site that contain sensitive information like a bank or credit card account. With pen and paper, write down the login information for each of them (username and password). Is there any overlap in the passwords you use? Next, check each of the passwords using the <a href="https://www.uic.edu/apps/strong-password/">Password Strength Check</a>. How secure are they? Finally, come up with a plan for how you want to handle your passwords. Consider using a password manager (https://www.nytimes.com/wirecutter/reviews/best-password-managers/), which allows you to automatically generate separate random passwords for each website you have to log into and then keep those passwords in a single, secure repository that can automatically fill them in for you so you don’t need to type or remember them. Or, if you don’t want to do that, write your passwords on a single, handwritten list and update all of your passwords so that there is: a) no overlap between sites and b) uses strong passwords.</li>
+</ul>
+
+<p>In your Wordpress sandbox installation, write a roughly 1,000 word post that summarizes the state of your own personal digital hygiene and reflects on the larger issue of personal privacy in a digital age. Some questions to consider: What did you learn from each part of the exercise? Did you end up having to make any changes? More broadly, what is the responsibility of individuals vs. regulators vs. private companies to protect privacy? The goal of this post is to write something coherent that is tailored for online reading. It should not read like a traditional 5 page college essay, nor should it be a jumbled list of observations. You want to weave together elements of your own personal experience with larger thoughts, so be selective about what examples you want to focus on and how they tie together. Think about tone, style, and formatting. As part of your post, please <strong>include at least two non-text elements (image, GIF, video, etc.)</strong> driving home your points, with proper attribution.</p>
+
+<p>Learning goals:</p>
+<ul>
+  <li>Improve your own digital hygiene practices</li>
+  <li>Wrestle with the larger issue of online privacy and security</li>
+  <li>Develop skills for writing online</li>
+</ul>
+
+<p><em>Submit URL to your post on Canvas by February 13th at 11:59PM</em></p>
+:ET
