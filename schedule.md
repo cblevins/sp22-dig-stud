@@ -66,6 +66,7 @@ _In Class_
   - Robert Lee and Tristan Ahtone, ["Land Grab Universities"](https://www.hcn.org/issues/52.4/indigenous-affairs-education-land-grab-universities) *High Country News* (March 30, 2020)
 
 _In Class_
+- Class visit from [Anjelica Oswald](https://www.linkedin.com/in/anjelicaoswald), Digital Humanities Intern at the National Parks Service of Boston
 - Discussion of how technology has shaped the discipline of history
 - Wordpress Themes
 
