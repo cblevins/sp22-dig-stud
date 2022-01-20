@@ -31,7 +31,7 @@ _In Class_
 - Practicing Zoom presentations
 
 #### Thu., Jan. 27: Zoom Presentations
-- Record a practice version of your Zoom presentation and submit it to Canvas by Weds. 1/26 at 11:59PM
+- [Record a practice version of your Zoom presentation](https://support.zoom.us/hc/en-us/articles/201362473-Starting-a-local-recording) and submit it to Canvas by Weds. 1/26 at 11:59PM
 - Zoom Presentation delivered in class on Thurs., January 27th
 
 *Revised Zoom presentation recording due Sun. 1/30*
