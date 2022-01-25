@@ -227,10 +227,10 @@ _In Class_
 
 #### Thu., Apr. 14: Audio
 - Post on the `#assignments` Slack channel a 2-3 sentence summary of the topic and media format you're planning to do for your [Media Project]({{site.baseurl}}/assignments/media-project).
-- Listen to [Episode 8: Eden to Ashes](https://consolationprize.rrchnm.org/2021/02/16/episode-8-eden-to-ashes/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, Abby Mullen, to the `#readings` Slack channel. 
+- Listen to episode [Beyond the Consul: Monterey](https://consolationprize.rrchnm.org/beyond-the-consul-monterey/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, [Abby Mullen](https://abbymullen.org/), to the `#readings` Slack channel. 
 
 _In Class_
-- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*
+- Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.
 
 *[Media Project]({{site.baseurl}}/assignments/media-project) due April 17th*
 
