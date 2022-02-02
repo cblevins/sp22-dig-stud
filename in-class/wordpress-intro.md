@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wordpress
+title: Wordpress Introduction
 ---
 
 Today you will be learning the basics of how to create a website using Wordpress, one of the most popular platforms for building websites. 
@@ -9,9 +9,9 @@ Today you will be learning the basics of how to create a website using Wordpress
 
 In your group, divide up the following personal websites. Each person take a few minutes to go through a professional website from different people who will either be speaking to our class or who are involved with the Digital Studies Certificate:
 
-1. <https://carolineklibanoff.com/>
+1. <http://bogost.com/>
 2. <http://abbymullen.org/>
-3. <http://johntinnell.com/>
+3. <https://amyhasinoff.wordpress.com/>
 
 Go through the website and think about what kind of information it includes, how it is organized, what message it is sending about the person.
 
@@ -19,7 +19,7 @@ Once you've had a chance to explore your individual website, compare notes acros
 
 - What are the similarities and differences in terms of content?
 - What are similarities and differences in terms of design and layout?
-- What one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)
+- Which one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)
 
 ## Wordpress Tutorials
 

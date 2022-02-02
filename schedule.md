@@ -59,7 +59,7 @@ _In Class_
   - HIST 5260 / COMM 6710 only: Ian Bogost, ["The Age of Privacy Nihilism is Here"](https://www.theatlantic.com/technology/archive/2018/08/the-age-of-privacy-nihilism-is-here/568198/) *The Atlantic* (August 23, 2018)
 
 _In Class_
-- [Using Wordpress]({{site.baseurl}}/in-class/wordpress)
+- [Wordpress Introduction]({{site.baseurl}}/in-class/wordpress-intro)
 
 #### Tue., Feb. 8: Digital History
 - Add a landing page / About page to your personal website with a short bio and interests (professional, academic, or otherwise).
