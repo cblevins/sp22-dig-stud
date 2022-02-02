@@ -40,8 +40,10 @@ _In Class_
 
 #### Tue., Feb. 1: Computers and Files and Servers, Oh My!
 - Register for a personal account and domain name with [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/)
-  - Cost: $30. This will be the only thing I will ask you to pay for during the semester (I hope).
-  - This URL will be your own personal domain that you will use in this class for assignments, but you can also use it moving forward as a professional website or portfolio. Think carefully about the domain name you choose - I would highly recommend using your full name and .net, .name, .info, etc.
+  - This URL will be your own personal domain that you will use in this class for assignments, but you can also use it moving forward as a professional website or portfolio. Think carefully about the domain name you choose. I would highly recommend using your name in the URL (ex. https://cameronblevins.org) You then have two options for the rest of the domain:      
+    - If you select "Register a new domain" you will pay $15 to register a new domain of your choosing that looks like: https://cameronblevins.org (.com, .info, etc.). 
+    - If you select "Use a subdomain from Reclaim Hosting" your domain will look like: https://cameronblevins.reclaim.hosting. but does not cost any additional money.
+  - Cost: `$30` for the server space with Reclaim Hosting + either: `$0` for reclaim.hosting subdomain or `$15` for your choice of domain. This will be the only thing I will ask you to pay for during the semester (I hope).
 - Annotate in Hypothesis:
   - Ingrid Burrington, ["How Railroad History Shaped Internet History"](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414/) *The Atlantic* (November 24, 2015).
   - Aditya Mukerjee, ["I Can Text You A Pile of Poo, But I Can’t Write My Name"](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)
