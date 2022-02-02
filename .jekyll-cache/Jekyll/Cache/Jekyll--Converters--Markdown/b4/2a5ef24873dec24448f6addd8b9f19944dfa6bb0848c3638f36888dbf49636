@@ -1,0 +1,19 @@
+I"E<p>I’m going to have you go through three mini-tutorials:</p>
+
+<ul>
+  <li><a href="https://www.hostinger.com/tutorials/wordpress/#Step_5__Installing_WordPress_Themes_199">Installing Wordpress Themes</a></li>
+</ul>
+
+<h2 id="experimenting-in-wordpress">Experimenting in Wordpress</h2>
+
+<p>Once you’ve gone through the above tutorials, you are going to try and do as much of the following as you can in order to start to familiarize yourself with the interface. The best way to learn is to try different things and see what happens! Remember, this is the point of having this installed in a sandbox!</p>
+
+<ol>
+  <li>Change the Theme of your Wordpress site to the <code class="language-plaintext highlighter-rouge">Library Books</code> theme.</li>
+  <li>Change the title of your site to the name of your favorite restaurant in Denver</li>
+  <li>Add a Background Image of the Denver Skyline (<a href="/sp22-dig-stud/hands-on/denver-skyline.jpg">here’s one you can use</a>)</li>
+  <li>Create a new page titled “Privacy Reading” and copy and paste some text from the reading you had for today and include a hyperlink to the original article in your page. Preview how the page looks and when you are ready to do so, Publish it.</li>
+  <li>See how the new page looks on your site, then change the font to make it a little more readable</li>
+</ol>
+
+:ET

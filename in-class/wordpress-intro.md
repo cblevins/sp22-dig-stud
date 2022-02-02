@@ -21,21 +21,34 @@ Once you've had a chance to explore your individual website, compare notes acros
 - What are similarities and differences in terms of design and layout?
 - Which one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)
 
-## Wordpress Tutorials
+## Familiarizing Yourself with Wordpress
 
-I'm going to have you go through three mini-tutorials:
+I'm going to have you go through a few tutorials and then apply what you learned to your own site. The best way to learn is to try different things and see what happens! Remember, this is the point of having this installed in a sandbox!
 
-- [Navigating in Wordpress Dashboard](https://www.hostinger.com/tutorials/wordpress/#Step_2__Navigating_in_WordPress_Dashboard_112)
-- [Publishing Content](https://www.hostinger.com/tutorials/wordpress/#Step_3__Publishing_Content_143)
-- [Installing Wordpress Themes](https://www.hostinger.com/tutorials/wordpress/#Step_5__Installing_WordPress_Themes_199)
+### The Wordpress Dashboard
 
-## Experimenting in Wordpress
+- Look through the instructions for: [Navigating in Wordpress Dashboard](https://www.hostinger.com/tutorials/wordpress/#Step_2__Navigating_in_WordPress_Dashboard_112)
+-  Change the Title and tagline of your site under Settings -> General Settings to something more appropriate (ex. "Cameron Blevins" and "A Personal Website") 
+-  Change the Timezone under General Settings to Denver time zone
 
-Once you've gone through the above tutorials, you are going to try and do as much of the following as you can in order to start to familiarize yourself with the interface. The best way to learn is to try different things and see what happens! Remember, this is the point of having this installed in a sandbox!
+### Creating Your First Page
 
-1. Change the Theme of your Wordpress site to the `Library Books` theme.
-2. Change the title of your site to the name of your favorite restaurant in Denver
-3. Add a Background Image of the Denver Skyline ([here's one you can use]({{site.baseurl}}/hands-on/denver-skyline.jpg))
-4. Create a new page titled "Privacy Reading" and copy and paste some text from the reading you had for today and include a hyperlink to the original article in your page. Preview how the page looks and when you are ready to do so, Publish it.
-5. See how the new page looks on your site, then change the font to make it a little more readable
+- Look through instructions: [Publishing Content](https://www.hostinger.com/tutorials/wordpress/#Step_3__Publishing_Content_143)
+-  Create a new Page titled "Test Page". 
+  -  Write 1-2 sentences in your page describing the topic of your Zoom presentation. 
+  -  Make some of the words in your block **bold** and *italic*.
+  -  Use the "Preview page" option to see how it looks by navigating to the published page.
+  -  Go back to the page and add a new block then insert the image of Professor Blevins's ferocious cat from your computer.
+  -  Change the Image Dimensions to make the image smaller (use Preview page to adjust it to your liking)
+  -  When you're done, click Publish button and then click View Page to see the new page.
+  -  Copy the URL of the page (it should look something like: `https://yourdomainname/sandbox/website/test-page`) and send it over #in-class Slack channel
+
+### Installing a New Theme
+
+- Instructions: [Installing Wordpress Themes](https://www.hostinger.com/tutorials/wordpress/#Step_5__Installing_WordPress_Themes_199)
+-  Change the Theme of your Wordpress site to the `OceanWP` theme (install then activate the theme).
+
+### Bonus
+
+If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is [this image of the Denver skyline](https://cblevins.github.io/sp22-dig-stud/in-class/denver-skyline.jpg). Try googling to find instructions or tips!
 

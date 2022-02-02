@@ -1,0 +1,15 @@
+I"}<p>You’re going to be installing Wordpress into your sandbox on Reclaim Hosting to give you a chance to noodle around with building a website using this software. Rather than jumping right in to create your own professional website at the root directory for whatever domain name you chose, we’re going to make a Wordpress website within your <code class="language-plaintext highlighter-rouge">sandbox</code> sub-directory on your Reclaim Hosting server, specifically <strong>within a specific sub-folder (sub-directory)</strong> of your <code class="language-plaintext highlighter-rouge">sandbox</code> folder.</p>
+
+<p>Two things to note before you click on the below link for installation instructions:</p>
+
+<ul>
+  <li>The name of this sub-directory is going to be <code class="language-plaintext highlighter-rouge">website</code>. So when you’re asked for Directory (Optional), type in: <code class="language-plaintext highlighter-rouge">sandbox/website</code>. When you do, make sure that the full URL beneath that text box looks something like: <code class="language-plaintext highlighter-rouge">http://cameronblevins.org/sandbox/website/</code></li>
+  <li>When you install Wordpress through Reclaim Hosting it will ask you to choose an Administrator username and password. This is not the same as your username and password for Reclaim Hosting! <strong>Remember to write down this separate username and password so you can log into your sandbox Wordpress installation moving forward.</strong></li>
+</ul>
+
+<p>Now go to these instructions to install: <a href="https://community.reclaimhosting.com/t/installing-wordpress/265">https://community.reclaimhosting.com/t/installing-wordpress/265</a>.</p>
+
+<p>Once you’ve finished, go back to Reclaim Hosting’s <code class="language-plaintext highlighter-rouge">File Manager</code> and go to <code class="language-plaintext highlighter-rouge">sandbox</code> folder, you should now see a new folder called <code class="language-plaintext highlighter-rouge">website</code>. If you look inside here, you will see a bunch of new folders and files that were automatically generated to “build” your Wordpress site. This means you should have a Wordpress website installed under <code class="language-plaintext highlighter-rouge">http://yourdomainname/sandbox/website</code>. Try going to this URL in a new web browser and make sure it works.</p>
+
+<p>To actually start modifying your website, you need to log in to the Wordpress dashboard (separate from Reclaim Hosting). The login page will be: <code class="language-plaintext highlighter-rouge">http://yourdomainname/sandbox/website/wp-admin</code>, and you will use the Administrator username and password you specified when you installed Wordpress. Visit this URL and make sure that you are able to log in to the Wordpress dashboard before the start of class. You don’t need to do anything, but make sure you are able to log in.</p>
+:ET

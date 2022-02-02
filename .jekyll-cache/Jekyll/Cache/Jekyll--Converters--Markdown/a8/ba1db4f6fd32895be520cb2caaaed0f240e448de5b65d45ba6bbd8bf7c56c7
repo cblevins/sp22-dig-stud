@@ -1,0 +1,23 @@
+I"u<p>The goal of this activity is to get more comfortable with using the File Mangager in Reclaim Hosting (accessed through the cPanel). If you had trouble creating a sandbox directory, please review <a href="/sp22-dig-stud/in-class/reclaim-hosting-sandbox">Creating a “Sandbox” on Reclaim Hosting</a> and make sure you have a folder called <code class="language-plaintext highlighter-rouge">sandbox</code> inside your <code class="language-plaintext highlighter-rouge">public_html</code> folder in File Manager.</p>
+
+<p>Although you are going to be using your Reclaim Hosting server space to host a personal website, you can also host individual files. To demonstrate, we’re going to work with an image of Professor Blevins’s ferocious cat.</p>
+
+<h3 id="uploading-an-image-to-file-manager">Uploading an image to File Manager</h3>
+<ul>
+  <li>Download the photo of Professor Blevins’s cat from the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel and save or move it into the <code class="language-plaintext highlighter-rouge">sp22-dig-stud</code> folder on your computer (leave the name as <code class="language-plaintext highlighter-rouge">prof-blevins-cat.jpeg</code>).</li>
+  <li>Log into reclaim hosting, go to cPanel -&gt; File Manager and then navigate to your <code class="language-plaintext highlighter-rouge">sandbox</code> folder</li>
+  <li>Add the photo you just downloaded from Slack into your <code class="language-plaintext highlighter-rouge">sandbox</code> folder using the Upload button at the top of File Manager.</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">https://yourdomainname/sandbox/prof-blevins-cat.jpeg</code> and see if the photo shows up.</li>
+</ul>
+
+<h3 id="embedding-an-image-in-an-html-file">Embedding an image in an HTML file</h3>
+<ul>
+  <li>Make sure you are inside the <code class="language-plaintext highlighter-rouge">sandbox</code> folder in File Manager</li>
+  <li>Create a new HTML file by clicking +File and naming 
+it <code class="language-plaintext highlighter-rouge">cat.html</code></li>
+  <li>Open the new file using the HTML Editor button (ignore the warnings)</li>
+  <li>Inside the HTML Editor, write “This is Professor Blevins’s beautiful cat:”</li>
+  <li>Click the <code class="language-plaintext highlighter-rouge">&lt;&gt;Source</code> button, and then copy and paste this line of code directly <em>before</em> the line in your file that says <code class="language-plaintext highlighter-rouge">&lt;/body&gt;</code>: <code class="language-plaintext highlighter-rouge">&lt;p&gt;&lt;img alt="" src="https://cameronblevins.org/teaching/sp22-dig-stud/sandbox/prof-blevins-cat.jpeg" style="height: 267px; width: 200px;" /&gt;&lt;/p&gt;</code></li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">https://yourdomainname/sandbox/cat.html</code> and see if the page is showing an embedded photo.</li>
+</ul>
+:ET

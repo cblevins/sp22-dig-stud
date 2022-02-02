@@ -1,4 +1,4 @@
-I"Fb<h3 id="going-remote">Going Remote</h3>
+I"�b<h3 id="going-remote">Going Remote</h3>
 
 <p><em>The first two weeks of the semester will be conducted remotely  -  part of a larger sea change in both higher education and some areas of the private sector. I thought we could use this as an opportunity to discuss some of the larger implications of learning and working remotely and some of the concrete skills in how to do so effectively.</em></p>
 
@@ -55,11 +55,11 @@
     <ul>
       <li>This URL will be your own personal domain that you will use in this class for assignments, but you can also use it moving forward as a professional website or portfolio. Think carefully about the domain name you choose. I would highly recommend using your name in the URL (ex. https://cameronblevins.org) You then have two options for the rest of the domain:
         <ul>
-          <li>If you choose “Register a new domain” you will pay $15 to register a new domain of your choosing looks like https://cameronblevins.org (.com, .info, etc.).</li>
-          <li>If you choose “Use a subdomain from Reclaim Hosting” your domain will look like: https://cameronblevins.reclaim.hosting. but does not cost any additional money.</li>
+          <li>If you select “Register a new domain” you will pay $15 to register a new domain of your choosing that looks like: https://cameronblevins.org (.com, .info, etc.).</li>
+          <li>If you select “Use a subdomain from Reclaim Hosting” your domain will look like: https://cameronblevins.reclaim.hosting. but does not cost any additional money.</li>
         </ul>
       </li>
-      <li>Cost: <code class="language-plaintext highlighter-rouge">$30</code> for the server space with Reclaim Hosting and either: <code class="language-plaintext highlighter-rouge">$0</code> for reclaim.hosting subdomain or <code class="language-plaintext highlighter-rouge">$15</code> for your choice of domain. Note: if  This will be the only thing I will ask you to pay for during the semester (I hope).</li>
+      <li>Cost: <code class="language-plaintext highlighter-rouge">$30</code> for the server space with Reclaim Hosting + either: <code class="language-plaintext highlighter-rouge">$0</code> for reclaim.hosting subdomain or <code class="language-plaintext highlighter-rouge">$15</code> for your choice of domain. This will be the only thing I will ask you to pay for during the semester (I hope).</li>
     </ul>
   </li>
   <li>Annotate in Hypothesis:
@@ -89,7 +89,8 @@
 
 <p><em>In Class</em></p>
 <ul>
-  <li><a href="/sp22-dig-stud/in-class/wordpress">Using Wordpress</a></li>
+  <li><a href="/sp22-dig-stud/in-class/file-manager">File Manager in Reclaim Hosting</a></li>
+  <li><a href="/sp22-dig-stud/in-class/wordpress-intro">Wordpress Introduction</a></li>
 </ul>
 
 <h4 id="tue-feb-8-digital-history">Tue., Feb. 8: Digital History</h4>

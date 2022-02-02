@@ -13,12 +13,12 @@
 <meta name="author" content="Intro to Digital Studies" />
 
 
-<meta property="og:title" content="Install Wordpress" />
-<meta property="twitter:title" content="Install Wordpress" />
+<meta property="og:title" content="Wordpress Introduction" />
+<meta property="twitter:title" content="Wordpress Introduction" />
 
 
 
-    <title>Install Wordpress – Intro to Digital Studies – CU Denver Denver, Spring 2022</title>
+    <title>Wordpress Introduction – Intro to Digital Studies – CU Denver Denver, Spring 2022</title>
 
     <link rel="stylesheet" type="text/css" href="/sp22-dig-stud/style.css"/>
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/ress/dist/ress.min.css"/>
@@ -77,23 +77,68 @@
     <div id="main" role="main" class="container">
       <article class="page">
 
-  <h1>Install Wordpress</h1>
+  <h1>Wordpress Introduction</h1>
 
   <div class="entry">
-    <p>You’re going to be installing Wordpress into your sandbox on Reclaim Hosting to give you a chance to noodle around with building a website using this software. Rather than jumping right in to create your own professional website at the root directory for whatever domain name you chose, we’re going to make a Wordpress website within your <code class="language-plaintext highlighter-rouge">sandbox</code> sub-directory on your Reclaim Hosting server, specifically <strong>within a specific sub-folder (sub-directory)</strong> of your <code class="language-plaintext highlighter-rouge">sandbox</code> folder.</p>
+    <p>Today you will be learning the basics of how to create a website using Wordpress, one of the most popular platforms for building websites.</p>
 
-<p>Two things to note before you click on the below link for installation instructions:</p>
+<h2 id="personal-website-warm-up">Personal Website Warm-Up</h2>
+
+<p>In your group, divide up the following personal websites. Each person take a few minutes to go through a professional website from different people who will either be speaking to our class or who are involved with the Digital Studies Certificate:</p>
+
+<ol>
+  <li><a href="http://bogost.com/">http://bogost.com/</a></li>
+  <li><a href="http://abbymullen.org/">http://abbymullen.org/</a></li>
+  <li><a href="https://amyhasinoff.wordpress.com/">https://amyhasinoff.wordpress.com/</a></li>
+</ol>
+
+<p>Go through the website and think about what kind of information it includes, how it is organized, what message it is sending about the person.</p>
+
+<p>Once you’ve had a chance to explore your individual website, compare notes across the different websites (pull each of them up on your own machine):</p>
 
 <ul>
-  <li>The name of this sub-directory is going to be <code class="language-plaintext highlighter-rouge">website</code>. So when you’re asked for Directory (Optional), type in: <code class="language-plaintext highlighter-rouge">sandbox/website</code>. When you do, make sure that the full URL beneath that text box looks something like: <code class="language-plaintext highlighter-rouge">http://cameronblevins.org/sandbox/website/</code></li>
-  <li>When you install Wordpress through Reclaim Hosting it will ask you to choose an Administrator username and password. This is not the same as your username and password for Reclaim Hosting! <strong>Remember to write down this separate username and password so you can log into your sandbox Wordpress installation moving forward.</strong></li>
+  <li>What are the similarities and differences in terms of content?</li>
+  <li>What are similarities and differences in terms of design and layout?</li>
+  <li>Which one is more appealing or informative to you as a viewer - let’s say you’re thinking about taking a class with one of them or want to do some kind of project with them - what is helpful and what isn’t? It’s okay to be honest. :)</li>
 </ul>
 
-<p>Now go to these instructions to install: <a href="https://community.reclaimhosting.com/t/installing-wordpress/265">https://community.reclaimhosting.com/t/installing-wordpress/265</a>.</p>
+<h2 id="familiarizing-yourself-with-wordpress">Familiarizing Yourself with Wordpress</h2>
 
-<p>Once you’ve finished, go back to Reclaim Hosting’s <code class="language-plaintext highlighter-rouge">File Manager</code> and go to <code class="language-plaintext highlighter-rouge">sandbox</code> folder, you should now see a new folder called <code class="language-plaintext highlighter-rouge">website</code>. If you look inside here, you will see a bunch of new folders and files that were automatically generated to “build” your Wordpress site. This means you should have a Wordpress website installed under <code class="language-plaintext highlighter-rouge">http://yourdomainname/sandbox/website</code>. Try going to this URL in a new web browser and make sure it works.</p>
+<p>I’m going to have you go through a few tutorials and then apply what you learned to your own site. The best way to learn is to try different things and see what happens! Remember, this is the point of having this installed in a sandbox!</p>
 
-<p>To actually start modifying your website, you need to log in to the Wordpress dashboard (separate from Reclaim Hosting). The login page will be: <code class="language-plaintext highlighter-rouge">http://yourdomainname/sandbox/website/wp-admin</code>, and you will use the Administrator username and password you specified when you installed Wordpress. Visit this URL and make sure that you are able to log in to the Wordpress dashboard before the start of class. You don’t need to do anything, but make sure you are able to log in.</p>
+<h3 id="the-wordpress-dashboard">The Wordpress Dashboard</h3>
+
+<ul>
+  <li>Look through the instructions for: <a href="https://www.hostinger.com/tutorials/wordpress/#Step_2__Navigating_in_WordPress_Dashboard_112">Navigating in Wordpress Dashboard</a></li>
+  <li>Change the Title and tagline of your site under Settings -&gt; General Settings to something more appropriate (ex. “Cameron Blevins” and “A Personal Website”)</li>
+  <li>Change the Timezone under General Settings to Denver time zone</li>
+</ul>
+
+<h3 id="creating-your-first-page">Creating Your First Page</h3>
+
+<ul>
+  <li>Look through instructions: <a href="https://www.hostinger.com/tutorials/wordpress/#Step_3__Publishing_Content_143">Publishing Content</a></li>
+  <li>Create a new Page titled “Test Page”.</li>
+  <li>Write 1-2 sentences in your page describing the topic of your Zoom presentation.</li>
+  <li>Make some of the words in your block <strong>bold</strong> and <em>italic</em>.</li>
+  <li>Use the “Preview page” option to see how it looks by navigating to the published page.</li>
+  <li>Go back to the page and add a new block then insert the image of Professor Blevins’s ferocious cat from your computer.</li>
+  <li>Change the Image Dimensions to make the image smaller (use Preview page to adjust it to your liking)</li>
+  <li>When you’re done, click Publish button and then click View Page to see the new page.</li>
+  <li>Copy the URL of the page (it should look something like: <code class="language-plaintext highlighter-rouge">https://yourdomainname/sandbox/website/test-page</code>) and send it over #in-class Slack channel</li>
+</ul>
+
+<h3 id="installing-a-new-theme">Installing a New Theme</h3>
+
+<ul>
+  <li>Instructions: <a href="https://www.hostinger.com/tutorials/wordpress/#Step_5__Installing_WordPress_Themes_199">Installing Wordpress Themes</a></li>
+  <li>Change the Theme of your Wordpress site to the <code class="language-plaintext highlighter-rouge">OceanWP</code> theme (install then activate the theme).</li>
+</ul>
+
+<h3 id="bonus">Bonus</h3>
+
+<p>If you finish earlier than your classmates, see if you can figure out how to add a header image of your website that is <a href="https://cblevins.github.io/sp22-dig-stud/in-class/denver-skyline.jpg">this image of the Denver skyline</a>. Try googling to find instructions or tips!</p>
+
 
   </div>
 </article>
