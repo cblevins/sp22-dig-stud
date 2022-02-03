@@ -94,6 +94,7 @@ _In Class_
 - Q&A with [Alexis Baird](https://www.linkedin.com/in/alexisbaird/), Director of Product Management at Thumbtack
 
 #### Thu., Feb. 17: The Changing Digital Economy
+- Post a 2-3 sentence reaction to the #readings channel on Slack to the interview ["Microsoft and the Metaverse"](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?) *The Daily* podcast (January 20, 2022). (25 min.) [[Link to full transcript](https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1)].
 - Annotate in Hypothesis:
   - Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021)
   - HIST 5260 / COMM 6710 only: Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020)
