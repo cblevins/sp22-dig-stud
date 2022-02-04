@@ -7,7 +7,7 @@ Today you will be learning the basics of how to create a website using Wordpress
 
 ## Personal Website Warm-Up
 
-In your group, divide up the following personal websites. Each person take a few minutes to go through a professional website from different people who will either be speaking to our class or who are involved with the Digital Studies Certificate:
+In your group, divide up the following personal websites. Each person take a few minutes to go through a professional website from different people who are somehow related to the class (author of a reading, speaking to our class, or involved with the Digital Studies Certificate):
 
 1. <http://bogost.com/>
 2. <http://abbymullen.org/>
