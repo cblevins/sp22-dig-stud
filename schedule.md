@@ -99,6 +99,9 @@ _In Class_
   - Anil Dash, ["NFTs Weren’t Supposed to End Like This"](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/) *The Atlantic* (April 2, 2021)
   - HIST 5260 / COMM 6710 only: Jerome de Groot, ["Ancestry.com and the Evolving Nature of Historical Information Companies"](https://doi.org/10.1525/tph.2020.42.1.8) *The Public Historian* (2020)
 
+_In Class_
+- Faith presentation
+
 *First [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due February 20th*
 
 ### Data
@@ -153,6 +156,7 @@ _In Class_
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
+- Jake presentation
 - Understanding Metadata and creating items in Omeka
 
 [comment]: # (Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization)
@@ -164,6 +168,7 @@ _In Class_
   - HIST 5260 / COMM 6710 only: Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
 
 _In Class_
+- Natalie presentation
 - [Working with Omeka]({{site.baseurl}}/in-class/omeka)
 
 #### Thu., Mar. 17: Open Class Period
@@ -190,6 +195,7 @@ _In Class_
   - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
 
 _In Class_
+- Leslie presentation
 - Image editing
 
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
@@ -203,6 +209,7 @@ _In Class_
   - COMM Students Only: Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
 
 _In Class_
+- Ryomi presentation
 - Introduction to Shotcut
 
 #### Thu., Apr. 7: Video
@@ -212,6 +219,7 @@ _In Class_
   - Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 _In Class_
+- Range presentation
 - [Video files and editing with Shotcut]({{site.baseurl}}/in-class/video-editing)
  
 #### Tue., Apr. 12: Audio
@@ -227,6 +235,7 @@ _In Class_
     - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
 _In Class_
+- Daniel presentation
 - [Recording and editing audio with Audacity]({{site.baseurl}}/in-class/audio-editing)
 
 #### Thu., Apr. 14: Audio
