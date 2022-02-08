@@ -71,10 +71,10 @@ _In Class_
 _In Class_
 - Class visit from [Anjelica Oswald](https://www.linkedin.com/in/anjelicaoswald), Digital Humanities Intern at the National Parks Service of Boston
 - Discussion of how technology has shaped the discipline of history
-- Wordpress Themes
+- Wordpress Vocab & Themes
 
 #### Thu., Feb. 10: Digital Communications
-- Finalize a Wordpress theme the layout for your personal website.  Post the URL of your site to the `#assignments` channel in Slack.  
+- Follow the instructions to [customize your wordpress site]({{site.baseurl}}/in-class/customize-wordpress). Post the URL of your site to the `#assignments` channel in Slack.  
 - Journalism designer and developer [Yan Wu](https://www.linkedin.com/in/yan-wu-81806512b/) helped design and build the layout of the following article and will be joining our class to discuss it . Read the article and then post 2-3 comments or questions about it in the `#readings` Slack channel, focusing on any questions you might have for Ms. Wu (this can be on the article itself or general questions about her work and career):
   - ["How Politics Has Pulled the Country in Different Directions"](https://www.wsj.com/graphics/polarized-presidential-elections/), *Wall Street Journal* (November 10, 2020).
 
