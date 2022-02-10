@@ -128,6 +128,7 @@ _In Class_
 - [Install Tableau Public](https://public.tableau.com/en-us/s/download/) on your computer
 - Annotate in Hypothesis:
   - ["Chapter 6: The Numbers Don’t Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
+  - HIST 5260 / COMM 6710 only: Hannah Fry, ["When Graphs Are a Matter of Life and Death"](https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death) *The New Yorker* (June 21, 2021)
 
 _In Class_
 - Visit from from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
