@@ -134,9 +134,9 @@ _In Class_
 - [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
 
 #### Thu., Mar. 3: Visualizing Data: Charts
-- Watch first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015).
 - Annotate in Hypothesis:
   - "Ch. 5: Visualizing with Clarity" from Nathan Yau, *Data Points: Visualization That Means Something*, pp. 201-240.
+- Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
 
 _In Class_
 - Making charts in Tableau Public
