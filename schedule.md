@@ -111,7 +111,7 @@ _In Class_
 - Annotate in Hypothesis: 
   - ["Chapter 4: What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) in Catherine D'Ignazio and Lauren Klein, *Data Feminism* (MIT Press, 2020)
   - Sandhya Kambhampati, ["Cleaner, Smarter Spreadsheets Start with Structure"](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), *Source* (March 23, 2017)
-- Please also read the following (you do not need to annotate in Hypothesis), which provides background for a historical source that we are going to be working with over the next several classes: Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).)
+- Please also read the following (you do not need to annotate in Hypothesis), which provides background for a historical source that we are going to be working with over the next several classes: Joe D. Horse Capture, ["The Alcatraz Logbook: Signs of Red Power"](https://theautry.org/research/blog/alcatraz-logbook-signs-red-power) *The Autry Museum of the American West Blog* (October 12, 2020).
 
 _In Class_
 - [Data structures and recording information in spreadsheets]({{site.baseurl}}/in-class/making-data) 
