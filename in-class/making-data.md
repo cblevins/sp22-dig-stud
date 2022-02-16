@@ -9,7 +9,7 @@ Over the next several classes you will be learning how to work with data through
 
 ## Getting to know your data
 
-The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for **10 minutes**, during which you are going to explore the Alcatraz Logbook, which has been digitized and is available here: <https://user-x7tacjj.cld.bz/Alcatraz-Log-Book/>. Try to get a sense for the source:
+The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for **10 minutes**, during which you are going to explore the Alcatraz Logbook individually, which has been digitized and is available here: <https://theautry.cld.bz/Alcatraz-Log-Book>. Try to get a sense for the source:
 
 - Don't try to read every word! The goal of this exercise is skim and understand the layout of the document and get a taste for its content.
 - Primary sources and manuscripts often contain important contextual information in a few places: the front cover, inside front cover, first several pages, last several pages, inside back cover, and back cover. Look at these first.
@@ -21,11 +21,17 @@ The most important step when approaching a potential source of data is to famili
 
 ## Structure your spreadsheet
 
-DRawing on some of the lessons from [today's reading](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), come up with a plan in your group for how to structure a spreadsheet in order to record information from this source: [Group 1 spreadsheet](https://docs.google.com/spreadsheets/d/1OAQsceKbOM7rbHDKNhJl812-rKxIBTTmsUv0ezmini4/edit?usp=sharing) and [Group 2 spreadsheet](https://docs.google.com/spreadsheets/d/1aB5-AGBgt4s192PdqFXcSeHiFBWe5svbkcF_bDMs7mY/edit?usp=sharing). Aim to have the following completed within 15 minutes:
+Drawing on some of the lessons from [today's reading](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), come up with a plan in your group for how to structure a spreadsheet in order to record information from this source: 
+
+- [Group 1 spreadsheet](https://docs.google.com/spreadsheets/d/1T5HdvfDc1A8ts3tGtLEsLPe5gmqD8CPJPfXsPdcP47A/edit?usp=sharing)
+- [Group 2 spreadsheet](https://docs.google.com/spreadsheets/d/1aB5-AGBgt4s192PdqFXcSeHiFBWe5svbkcF_bDMs7mY/edit?usp=sharing). 
+- [Group 3 spreadsheet](https://docs.google.com/spreadsheets/d/14wMUxRwMhRDdH-w128CnxbjerduYCD6no3PFAfDt7kw/edit?usp=sharing).
+
+Aim to have the following completed within 15 minutes:
 
 - What kind of information do you want to capture? What are you NOT going to capture?
 - As a group, use Row 1 to type in preliminary column headers (labels) for the different kinds of information you are going to record.
-- Each person in the group choose a random page from the logbook that has information in it (not the first page). Look at the information written on that page and then try to input **one row** in your spreadsheet based on that page (you are not trying to transcribe the entire page, just one "observation" of data).
+- Each person in the group choose a random page from the logbook that has information in it (not the first page). Look at the information written on that page and then try to input **two rows** in your spreadsheet based on that page (you are not trying to transcribe the entire page, just one "observation" of data).
 - Were you able to effectively capture that information on that page in your group's spreadsheet with your current column headers? Do you see any problems with your headers? Revise or adjust your column headers and then each of your individual rows as needed.
 
 Notify Professor Blevins when you have completed this section and then we will look at the spreadsheets together as a full class.
