@@ -24,10 +24,10 @@ The most important step when approaching a potential source of data is to famili
 Drawing on some of the lessons from [today's reading](https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/), come up with a plan in your group for how to structure a spreadsheet in order to record information from this source: 
 
 - [Group 1 spreadsheet](https://docs.google.com/spreadsheets/d/1T5HdvfDc1A8ts3tGtLEsLPe5gmqD8CPJPfXsPdcP47A/edit?usp=sharing)
-- [Group 2 spreadsheet](https://docs.google.com/spreadsheets/d/1aB5-AGBgt4s192PdqFXcSeHiFBWe5svbkcF_bDMs7mY/edit?usp=sharing). 
-- [Group 3 spreadsheet](https://docs.google.com/spreadsheets/d/14wMUxRwMhRDdH-w128CnxbjerduYCD6no3PFAfDt7kw/edit?usp=sharing).
+- [Group 2 spreadsheet](https://docs.google.com/spreadsheets/d/1ciApINdqIV13ycoUfcelmRVYOFRZkizgnofkGTbZAPA/edit?usp=sharing) 
+- [Group 3 spreadsheet](https://docs.google.com/spreadsheets/d/14wMUxRwMhRDdH-w128CnxbjerduYCD6no3PFAfDt7kw/edit?usp=sharing)
 
-Aim to have the following completed within 15 minutes:
+Aim to have the following completed within 15-20 minutes:
 
 - What kind of information do you want to capture? What are you NOT going to capture?
 - As a group, use Row 1 to type in preliminary column headers (labels) for the different kinds of information you are going to record.
