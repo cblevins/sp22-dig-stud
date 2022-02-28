@@ -131,7 +131,7 @@ _In Class_
 
 _In Class_
 - Visit from from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
-- [Using Tableau]({{site.baseurl}}/in-class/tableau-public)
+- Spreadsheet functions, continued
 
 #### Thu., Mar. 3: Visualizing Data: Charts
 - Annotate in Hypothesis:
@@ -139,7 +139,7 @@ _In Class_
 - Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
 
 _In Class_
-- Making charts in Tableau Public
+- [Using Tableau Public]({{site.baseurl}}/in-class/tableau-public)
 
 #### Tue., Mar. 8: Visualizing Data: Maps 
 - Annotate in Hypothesis:
