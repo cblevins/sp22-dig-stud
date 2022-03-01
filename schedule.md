@@ -131,7 +131,7 @@ _In Class_
 
 _In Class_
 - Visit from from [Colin Schoppert](https://www.linkedin.com/in/colinschoppert/), Head of Dispatch and Supply & Product Lead at DoorDash
-- Spreadsheet functions, continued
+- Working with spreadsheets, continued
 
 #### Thu., Mar. 3: Visualizing Data: Charts
 - Annotate in Hypothesis:
@@ -143,9 +143,11 @@ _In Class_
 
 #### Tue., Mar. 8: Visualizing Data: Maps 
 - Annotate in Hypothesis:
+  - Eric Deluca and Sara Nelson, ["Lying with Maps"](https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/), in Steven Manson, ed. *Mapping, Society, and Technology* (University of Minnesota Libraries Publishing, 2017).
   - Sarah Bond, ["How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?"](https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/) *Forbes*, October 20, 2017.
-  - Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. 
   - HIST 5260 / COMM 6710 only: Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
+
+[comment]: # (Andrew Wiseman, ["When Maps Lie"](https://www.citylab.com/design/2015/06/when-maps-lie/396761/) *CityLab*, June 25, 2015. )
  
 _In Class_
 - Class visit from [Diane Fritz](https://library.auraria.edu/about/staff-directory/diane-fritz), Geospatial Data Scientist at Auraria Library
@@ -164,9 +166,10 @@ _In Class_
 
 #### Tue., Mar. 15: Accessing Data
 - Annotate in Hypothesis:
-  - Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
   - Jennifer Hijazi, ["Is Instagram killing our museum culture or reinventing it?"](https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?) *PBS*, November 17, 2017.
-  - HIST 5260 / COMM 6710 only: Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.
+  - HIST 5260 / COMM 6710 only: Kim Christen, ["Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness"](https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf), *International Journal of Communications* (2012)
+
+[comment]: # (Julia Falkowski, ["Custom collections content and generous interfaces"](https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/) *Museums and the Web 2016*.)
 
 _In Class_
 - Natalie presentation

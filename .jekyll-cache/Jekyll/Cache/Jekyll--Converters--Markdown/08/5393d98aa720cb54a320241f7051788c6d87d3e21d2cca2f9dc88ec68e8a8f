@@ -1,10 +1,10 @@
-I"}<h2 id="introduction">Introduction</h2>
+I";<h2 id="introduction">Introduction</h2>
 
 <p>Over the next several classes you will be learning how to work with data through a specific historical source: a visitor logbook from the occupation of Alcatraz Island by Native American activists from 1969-1971. I’ve assigned some background reading for you to understand the historical context for this important source here: Joe D. Horse Capture, <a href="https://theautry.org/research/blog/alcatraz-logbook-signs-red-power">“The Alcatraz Logbook: Signs of Red Power”</a> <em>The Autry Museum of the American West Blog</em> (October 12, 2020). Our goal as a class over the next two weeks is to study this historical source as <em>data</em>: understanding its context and creators, constructing a dataset from its pages, analyzing that derived data, and visualizing some of these results to look for patterns.</p>
 
 <h2 id="getting-to-know-your-data">Getting to know your data</h2>
 
-<p>The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for <strong>10 minutes</strong>, during which you are going to explore the Alcatraz Logbook, which has been digitized and is available here: <a href="https://user-x7tacjj.cld.bz/Alcatraz-Log-Book/">https://user-x7tacjj.cld.bz/Alcatraz-Log-Book/</a>. Try to get a sense for the source:</p>
+<p>The most important step when approaching a potential source of data is to familiarize with the source itself. I am going to set a timer for <strong>10 minutes</strong>, during which you are going to explore the Alcatraz Logbook individually, which has been digitized and is available here: <a href="https://theautry.cld.bz/Alcatraz-Log-Book">https://theautry.cld.bz/Alcatraz-Log-Book</a>. Try to get a sense for the source:</p>
 
 <ul>
   <li>Don’t try to read every word! The goal of this exercise is skim and understand the layout of the document and get a taste for its content.</li>
@@ -18,12 +18,20 @@
 
 <h2 id="structure-your-spreadsheet">Structure your spreadsheet</h2>
 
-<p>DRawing on some of the lessons from <a href="https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/">today’s reading</a>, come up with a plan in your group for how to structure a spreadsheet in order to record information from this source: <a href="https://docs.google.com/spreadsheets/d/1OAQsceKbOM7rbHDKNhJl812-rKxIBTTmsUv0ezmini4/edit?usp=sharing">Group 1 spreadsheet</a> and <a href="https://docs.google.com/spreadsheets/d/1aB5-AGBgt4s192PdqFXcSeHiFBWe5svbkcF_bDMs7mY/edit?usp=sharing">Group 2 spreadsheet</a>. Aim to have the following completed within 15 minutes:</p>
+<p>Drawing on some of the lessons from <a href="https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/">today’s reading</a>, come up with a plan in your group for how to structure a spreadsheet in order to record information from this source:</p>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1T5HdvfDc1A8ts3tGtLEsLPe5gmqD8CPJPfXsPdcP47A/edit?usp=sharing">Group 1 spreadsheet</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1ciApINdqIV13ycoUfcelmRVYOFRZkizgnofkGTbZAPA/edit?usp=sharing">Group 2 spreadsheet</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/14wMUxRwMhRDdH-w128CnxbjerduYCD6no3PFAfDt7kw/edit?usp=sharing">Group 3 spreadsheet</a></li>
+</ul>
+
+<p>Aim to have the following completed within 15-20 minutes:</p>
 
 <ul>
   <li>What kind of information do you want to capture? What are you NOT going to capture?</li>
   <li>As a group, use Row 1 to type in preliminary column headers (labels) for the different kinds of information you are going to record.</li>
-  <li>Each person in the group choose a random page from the logbook that has information in it (not the first page). Look at the information written on that page and then try to input <strong>one row</strong> in your spreadsheet based on that page (you are not trying to transcribe the entire page, just one “observation” of data).</li>
+  <li>Each person in the group choose a random page from the logbook that has information in it (not the first page). Look at the information written on that page and then try to input <strong>two rows</strong> in your spreadsheet based on that page (you are not trying to transcribe the entire page, just one “observation” of data).</li>
   <li>Were you able to effectively capture that information on that page in your group’s spreadsheet with your current column headers? Do you see any problems with your headers? Revise or adjust your column headers and then each of your individual rows as needed.</li>
 </ul>
 

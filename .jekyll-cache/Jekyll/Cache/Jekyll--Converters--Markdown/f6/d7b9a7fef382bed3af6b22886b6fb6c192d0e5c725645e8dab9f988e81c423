@@ -1,4 +1,4 @@
-I"fd<h3 id="going-remote">Going Remote</h3>
+I"�l<h3 id="going-remote">Going Remote</h3>
 
 <p><em>The first two weeks of the semester will be conducted remotely  -  part of a larger sea change in both higher education and some areas of the private sector. I thought we could use this as an opportunity to discuss some of the larger implications of learning and working remotely and some of the concrete skills in how to do so effectively.</em></p>
 
@@ -108,15 +108,16 @@
 <ul>
   <li>Class visit from <a href="https://www.linkedin.com/in/anjelicaoswald">Anjelica Oswald</a>, Digital Humanities Intern at the National Parks Service of Boston</li>
   <li>Discussion of how technology has shaped the discipline of history</li>
-  <li>Wordpress Themes</li>
+  <li>Wordpress Vocab &amp; Themes</li>
 </ul>
 
 <h4 id="thu-feb-10-digital-communications">Thu., Feb. 10: Digital Communications</h4>
 <ul>
-  <li>Finalize a Wordpress theme the layout for your personal website.  Post the URL of your site to the <code class="language-plaintext highlighter-rouge">#assignments</code> channel in Slack.</li>
+  <li>Follow the instructions to <a href="/sp22-dig-stud/in-class/customize-wordpress">customize your wordpress site</a>. Post the URL of your site to the <code class="language-plaintext highlighter-rouge">#assignments</code> channel in Slack.</li>
   <li>Journalism designer and developer <a href="https://www.linkedin.com/in/yan-wu-81806512b/">Yan Wu</a> helped design and build the layout of the following article and will be joining our class to discuss it . Read the article and then post 2-3 comments or questions about it in the <code class="language-plaintext highlighter-rouge">#readings</code> Slack channel, focusing on any questions you might have for Ms. Wu (this can be on the article itself or general questions about her work and career):
     <ul>
       <li><a href="https://www.wsj.com/graphics/polarized-presidential-elections/">“How Politics Has Pulled the Country in Different Directions”</a>, <em>Wall Street Journal</em> (November 10, 2020).</li>
+      <li>Note: if you are having trouble accessing the website because of the paywall, please read the PDF of screenshots from the article posted to the <code class="language-plaintext highlighter-rouge">#readings</code> Slack channel.</li>
     </ul>
   </li>
 </ul>
@@ -147,12 +148,18 @@
 
 <h4 id="thu-feb-17-the-changing-digital-economy">Thu., Feb. 17: The Changing Digital Economy</h4>
 <ul>
+  <li>Post a 2-3 sentence reaction to the #readings channel on Slack to the interview <a href="https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?">“Microsoft and the Metaverse”</a> <em>The Daily</em> podcast (January 20, 2022). (25 min.) [<a href="https://www.nytimes.com/2022/01/20/podcasts/the-daily/metaverse-microsoft-activision-blizzard.html?showTranscript=1">Link to full transcript</a>].</li>
   <li>Annotate in Hypothesis:
     <ul>
       <li>Anil Dash, <a href="https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/">“NFTs Weren’t Supposed to End Like This”</a> <em>The Atlantic</em> (April 2, 2021)</li>
       <li>HIST 5260 / COMM 6710 only: Jerome de Groot, <a href="https://doi.org/10.1525/tph.2020.42.1.8">“Ancestry.com and the Evolving Nature of Historical Information Companies”</a> <em>The Public Historian</em> (2020)</li>
     </ul>
   </li>
+</ul>
+
+<p><em>In Class</em></p>
+<ul>
+  <li>Faith presentation</li>
 </ul>
 
 <p><em>First <a href="/sp22-dig-stud/assignments/self-assessments">Self-Assessment</a> due February 20th</em></p>
@@ -167,6 +174,7 @@
       <li>Sandhya Kambhampati, <a href="https://source.opennews.org/articles/building-cleaner-smarter-spreadsheets/">“Cleaner, Smarter Spreadsheets Start with Structure”</a>, <em>Source</em> (March 23, 2017)</li>
     </ul>
   </li>
+  <li>Please also read the following (you do not need to annotate in Hypothesis), which provides background for a historical source that we are going to be working with over the next several classes: Joe D. Horse Capture, <a href="https://theautry.org/research/blog/alcatraz-logbook-signs-red-power">“The Alcatraz Logbook: Signs of Red Power”</a> <em>The Autry Museum of the American West Blog</em> (October 12, 2020).</li>
 </ul>
 
 <p><em>In Class</em></p>
@@ -194,6 +202,7 @@
   <li>Annotate in Hypothesis:
     <ul>
       <li><a href="https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3">“Chapter 6: The Numbers Don’t Speak for Themselves”</a> in Catherine D’Ignazio and Lauren Klein, <em>Data Feminism</em> (MIT Press, 2020)</li>
+      <li>HIST 5260 / COMM 6710 only: Hannah Fry, <a href="https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death">“When Graphs Are a Matter of Life and Death”</a> <em>The New Yorker</em> (June 21, 2021)</li>
     </ul>
   </li>
 </ul>
@@ -201,30 +210,30 @@
 <p><em>In Class</em></p>
 <ul>
   <li>Visit from from <a href="https://www.linkedin.com/in/colinschoppert/">Colin Schoppert</a>, Head of Dispatch and Supply &amp; Product Lead at DoorDash</li>
-  <li><a href="/sp22-dig-stud/in-class/tableau-public">Using Tableau</a></li>
+  <li>Working with spreadsheets, continued</li>
 </ul>
 
 <h4 id="thu-mar-3-visualizing-data-charts">Thu., Mar. 3: Visualizing Data: Charts</h4>
 <ul>
-  <li>Watch first 13:20 of Neil Halloran, <a href="http://www.fallen.io/ww2/"><em>The Fallen of World War II</em></a> (2015).</li>
   <li>Annotate in Hypothesis:
     <ul>
       <li>“Ch. 5: Visualizing with Clarity” from Nathan Yau, <em>Data Points: Visualization That Means Something</em>, pp. 201-240.</li>
     </ul>
   </li>
+  <li>Watch the first 13:20 of Neil Halloran, <a href="http://www.fallen.io/ww2/"><em>The Fallen of World War II</em></a> (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter?</li>
 </ul>
 
 <p><em>In Class</em></p>
 <ul>
-  <li>Making charts in Tableau Public</li>
+  <li><a href="/sp22-dig-stud/in-class/tableau-public">Using Tableau Public</a></li>
 </ul>
 
 <h4 id="tue-mar-8-visualizing-data-maps">Tue., Mar. 8: Visualizing Data: Maps</h4>
 <ul>
   <li>Annotate in Hypothesis:
     <ul>
+      <li>Eric Deluca and Sara Nelson, <a href="https://open.lib.umn.edu/mapping/chapter/7-lying-with-maps/">“Lying with Maps”</a>, in Steven Manson, ed. <em>Mapping, Society, and Technology</em> (University of Minnesota Libraries Publishing, 2017).</li>
       <li>Sarah Bond, <a href="https://www.forbes.com/sites/drsarahbond/2017/10/20/how-is-digital-mapping-changing-the-way-we-visualize-racism-and-segregation/">“How Is Digital Mapping Changing The Way We Visualize Racism and Segregation?”</a> <em>Forbes</em>, October 20, 2017.</li>
-      <li>Andrew Wiseman, <a href="https://www.citylab.com/design/2015/06/when-maps-lie/396761/">“When Maps Lie”</a> <em>CityLab</em>, June 25, 2015.</li>
       <li>HIST 5260 / COMM 6710 only: Brian Page and Eric Ross, <a href="https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full">“Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District”</a>, <em>Frontiers in Digital Humanities</em> (11 August 2015).</li>
     </ul>
   </li>
@@ -248,6 +257,8 @@
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Class visit from <a href="https://library.auraria.edu/about/staff-directory/matthew-c-mariner">Matthew Mariner</a>, Digital Collections Manager at Auraria Library to discuss digitization</li>
+  <li>Jake presentation</li>
   <li>Understanding Metadata and creating items in Omeka</li>
 </ul>
 
@@ -255,15 +266,15 @@
 <ul>
   <li>Annotate in Hypothesis:
     <ul>
-      <li>Kim Christen, <a href="https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf">“Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness”</a>, <em>International Journal of Communications</em> (2012)</li>
       <li>Jennifer Hijazi, <a href="https://www.pbs.org/newshour/arts/is-instagram-killing-our-museum-culture-or-reinventing-it?">“Is Instagram killing our museum culture or reinventing it?”</a> <em>PBS</em>, November 17, 2017.</li>
-      <li>HIST 5260 / COMM 6710 only: Julia Falkowski, <a href="https://mw2016.museumsandtheweb.com/paper/custom-collections-content-and-generous-interfaces/">“Custom collections content and generous interfaces”</a> <em>Museums and the Web 2016</em>.</li>
+      <li>HIST 5260 / COMM 6710 only: Kim Christen, <a href="https://www.kimchristen.com/wp-content/uploads/2015/07/christen6.2012.pdf">“Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness”</a>, <em>International Journal of Communications</em> (2012)</li>
     </ul>
   </li>
 </ul>
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Natalie presentation</li>
   <li><a href="/sp22-dig-stud/in-class/omeka">Working with Omeka</a></li>
 </ul>
 
@@ -306,6 +317,7 @@
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Leslie presentation</li>
   <li>Image editing</li>
 </ul>
 
@@ -327,6 +339,7 @@
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Ryomi presentation</li>
   <li>Introduction to Shotcut</li>
 </ul>
 
@@ -343,6 +356,7 @@
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Range presentation</li>
   <li><a href="/sp22-dig-stud/in-class/video-editing">Video files and editing with Shotcut</a></li>
 </ul>
 
@@ -371,6 +385,7 @@
 
 <p><em>In Class</em></p>
 <ul>
+  <li>Daniel presentation</li>
   <li><a href="/sp22-dig-stud/in-class/audio-editing">Recording and editing audio with Audacity</a></li>
 </ul>
 

@@ -1,0 +1,23 @@
+I"*<h3 id="wordpress-themes">Wordpress Themes</h3>
+
+<p>Choose a Wordpress theme for your personal website:</p>
+
+<ul>
+  <li>Read through this list of thigns to keep in mind while choosing a theme: <a href="https://athemes.com/guides/how-to-choose-a-wordpress-theme/">https://athemes.com/guides/how-to-choose-a-wordpress-theme/</a>.</li>
+  <li>I recommend using Wordpress.org theme directory to find one that you like: <a href="https://wordpress.org/themes/">https://wordpress.org/themes/</a>.</li>
+  <li>Once you find a theme you like, search for it within the Wordpress dashboard under Appearance-&gt;Themes-&gt;Add New. You can preview what it will look like on your particular site to make sure before you install and then activate it.</li>
+  <li>In your Wordpress Dashboard go to Appearance -&gt; Customize and play around with different option to change things like the Header image for your site, landing page, font colors, etc. These options will depend on what theme you choose</li>
+</ul>
+
+<h3 id="clean-up-your-site">Clean up Your Site</h3>
+
+<ul>
+  <li>Make sure you have an About page describing yourself</li>
+  <li>Set the About page to be your home page (what the user sees when they go to your main webpage URL): <a href="https://wordpress.org/support/article/creating-a-static-front-page/">https://wordpress.org/support/article/creating-a-static-front-page/</a></li>
+  <li>Delete any pages that came with your site or Theme that you did not create - ex. “Sample Page” etc.</li>
+  <li>Make sure you’ve changed the Site Title and Tagline under Settings -&gt; General.</li>
+  <li>Change the Widgets to only include those features you want on your site (Settings-&gt;Widgets)</li>
+  <li>Add navigation menus so that your website has a link at the top to your About page. (Go to Appearance -&gt; Menus)</li>
+  <li>Change your “permalinks” options so that the URL for your individual pages only includes the post name: <a href="https://wordpress.org/support/article/settings-permalinks-screen/">https://wordpress.org/support/article/settings-permalinks-screen/</a></li>
+</ul>
+:ET
