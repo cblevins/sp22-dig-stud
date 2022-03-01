@@ -5,11 +5,7 @@ title: Tableau Public
 
 ## Introduction
 
-The goal of today is continue to develop your comfort with working with, analyzing, and visualizing data using Tableau Public. For the purposes of today, you're going to be using a dataset recently published by some lame professor at CU Denver: [US Post Offices](https://cblevins.github.io/us-post-offices/).
-
-By the end of class, your aim is to produce a visualization that:
-
-
+The goal of today is continue to develop your comfort with working with, analyzing, and visualizing data using Tableau Public. For the purposes of today, you're going to be using a dataset published by some lame professor at CU Denver: [US Post Offices](https://cblevins.github.io/us-post-offices/).
 
 ## Get to know the data 
 
@@ -22,7 +18,6 @@ By the end of class, your aim is to produce a visualization that:
 - Connect to the data source on your computer, which should be downloaded as `us-post-offices-random-coords.csv`.
 - Spend a few minutes dragging and dropping different Dimension and Measures onto a worksheet so you can start to get a feel for the data.
 - Try to use Tableau to answer the following question: in what year did the state of Colorado experience the largest number of post office closures? How many post offices closed that year?
-
 
 ## Visualize the data
 
