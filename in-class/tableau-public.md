@@ -55,4 +55,3 @@ Try to create a chart/map that answers the following questions:
 - What are some of the most common names for post offices in the dataset?
 - Which states had the most post offices operating within them during the 1900s? Make a map with each state shaded according to how many post offices operated in that state during the 1900s.
 - In what year did the first post office open in Alaska? What was its name?
-

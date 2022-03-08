@@ -139,7 +139,7 @@ _In Class_
 - Watch the first 13:20 of Neil Halloran, [*The Fallen of World War II*](http://www.fallen.io/ww2/) (2015). Post a 2-3 sentence reaction to the #readings Slack channel focusing on any of the following: How does it employ different strategies detailed by Nathan Yau? Do you find it effective and why/why not? How could it be improved? What are some of the larger issues involved with trying to visualize this kind of subject matter? 
 
 _In Class_
-- [Using Tableau Public]({{site.baseurl}}/in-class/tableau-public)
+- Introduction to Tableau Public
 
 #### Tue., Mar. 8: Visualizing Data: Maps 
 - Annotate in Hypothesis:
@@ -154,15 +154,14 @@ _In Class_
 - Making maps in Tableau Public
 
 #### Thu., Mar. 10: Organizing Data
-- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/in-class/install-omeka) through your Reclaim Hosting account.
+[comment]: # (- Follow these instructions to [Install Omeka Classic]({{site.baseurl}}/in-class/install-omeka) through your Reclaim Hosting account.)
 - Annotate in Hypothesis:
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
 - Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
 - Jake presentation
-- Understanding Metadata and creating items in Omeka
-
+- [Tableau Public practice]({{site.baseurl}}/in-class/tableau-public)
 
 #### Tue., Mar. 15: Accessing Data
 - Annotate in Hypothesis:
@@ -173,7 +172,7 @@ _In Class_
 
 _In Class_
 - Natalie presentation
-- [Working with Omeka]({{site.baseurl}}/in-class/omeka)
+- Metadata and Omeka
 
 #### Thu., Mar. 17: Open Class Period
 - Use this time to work on your data exploration assignment
