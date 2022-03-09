@@ -159,8 +159,9 @@ _In Class_
   - Samantha Thompson, ["Why Don't Archivists Digitize Everything?"](https://peelarchivesblog.com/2017/05/31/why-dont-archivists-digitize-everything/) May 31, 2017.
 
 _In Class_
-- Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization
+- ~~Class visit from [Matthew Mariner](https://library.auraria.edu/about/staff-directory/matthew-c-mariner), Digital Collections Manager at Auraria Library to discuss digitization~~
 - Jake presentation
+- Metadata
 - [Tableau Public practice]({{site.baseurl}}/in-class/tableau-public)
 
 #### Tue., Mar. 15: Accessing Data
@@ -172,7 +173,7 @@ _In Class_
 
 _In Class_
 - Natalie presentation
-- Metadata and Omeka
+- Omeka
 
 #### Thu., Mar. 17: Open Class Period
 - Use this time to work on your data exploration assignment
