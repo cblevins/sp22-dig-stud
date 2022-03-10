@@ -9,15 +9,16 @@ The goal of today is continue to develop your comfort with working with, analyzi
 
 ## Get to know the data 
 
-- Take a few minutes to scan through [the data website](https://cblevins.github.io/us-post-offices/) and in particular look at the section of the data biography ["What's in the data?"](https://cblevins.github.io/us-post-offices/data-biography/#whats-in-the-data:~:text=What%E2%80%99s%20in%20the%20data%3F).
+- Take 5-7 minutes to scan through [the data website](https://cblevins.github.io/us-post-offices/) and in particular look at the section of the data biography ["What's in the data?"](https://cblevins.github.io/us-post-offices/data-biography/#whats-in-the-data:~:text=What%E2%80%99s%20in%20the%20data%3F).
 - Download the files: `us-post-offices-random-coords` (your main data file) and `us-post-offices-data-dictionary` (metadata about that file) from [Harvard Dataverse](https://doi.org/10.7910/DVN/NUKCNA), saving them into your class folder on your computer. Hint: you want both of these to be downloaded as CSV files, which you can do by clicking the Access File icon and then clicking Original File Format (Comma Separated Values).
 - Open `us-post-offices-data-dictionary.csv` on your computer and familiarize yourself with the different columns in the main dataset `us-post-offices-random-coords`. 
 
 ## Explore the data in Tableau Public
 
 - Connect to the data source on your computer, which should be downloaded as `us-post-offices-random-coords.csv`.
-- Spend a few minutes dragging and dropping different Dimension and Measures onto a worksheet so you can start to get a feel for the data.
-- Try to use Tableau to answer the following question: in what year did the state of Colorado experience the largest number of post office closures? How many post offices closed that year?
+- Spend a few minutes dragging and dropping different column names onto a worksheet so you can start to get a feel for the data.
+- As an entire class we will walk through the steps to answer this question:
+	- In what year did the state of Colorado experience the largest number of post office closures (hint: use the `Discontinued` field)? How many post offices closed that year?
 
 ## Visualize the data
 
@@ -30,11 +31,11 @@ Sheet 1:
 
 Sheet 2:
 
-- Make a map of post offices
-- Only show post offices from one state of your choosing on the map using the `Filters` tool.
-- Use the `Pages` feature to allow a user to "flip" through and see new post offices that were established each year (play around with the `Show history` feature)
+- Make a map of all the post offices in the dataset
+- Only show post offices on the map from one state of your choosing using the `Filters` tool.
+- Use the `Pages` feature to allow a user to "flip" through and see new post offices that were `Established` each year (play around with the `Show history` feature)
 - Add information about the post office's name, year it opened, and year it closed in the `Tooltip` so that a user can click on a point and get this information.
-- Color all the post offices that have semi-random coordinates light blue. Hint: use the RandomCoordinatesFlag field.
+- Color all the post offices that have semi-random coordinates light blue. Hint: use the `RandomCoordinatesFlag` field.
 
 
 ## Publish the data online
