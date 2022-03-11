@@ -178,7 +178,7 @@ _In Class_
 #### Thu., Mar. 17: Open Class Period
 - Use this time to work on your data exploration assignment
 
-*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due March 20th*
+*[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due March 27th*
 
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 27th*
 

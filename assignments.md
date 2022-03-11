@@ -24,7 +24,7 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 
 #### [Digital Hygiene Checklist and Reflection]({{site.baseurl}}/assignments/digital-hygiene) (2/13)
 
-#### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (3/20)
+#### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (3/27)
 
 #### [Media Project]({{site.baseurl}}/assignments/media-project) (4/17)
 
