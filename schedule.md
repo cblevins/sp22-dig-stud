@@ -180,8 +180,6 @@ _In Class_
 
 *[Data Exploration]({{site.baseurl}}/assignments/data-exploration) due March 27th*
 
-*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due March 27th*
-
 ### Media
 
 #### Tue., Mar. 29: Images
@@ -204,6 +202,8 @@ _In Class_
 - Image editing
 
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
+
+*Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due April 3rd*
 
 #### Tue., Apr. 5: Video
 - [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)

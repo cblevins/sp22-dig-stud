@@ -7,6 +7,6 @@ You will be writing three self assessments in this class. The first two self ass
 
 *Self-Assessment #1 due February 20th by 11:59PM*
 
-*Self-Assessment #2 due March 27th by 11:59PM*
+*Self-Assessment #2 due April 3rd by 11:59PM*
 
 *Self-Assessment #3 due May 12th by 11:59PM*
