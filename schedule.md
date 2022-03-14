@@ -187,7 +187,8 @@ _In Class_
 #### Tue., Mar. 29: Images
 - Annotate in Hypothesis:
   - Ana Jofre, Josh Cole, Vincent Berardi, Carl Bennett, Michael Reale, ["What’s in a Face? Gender representation of faces in Time, 1940s-1990s"](https://doi.org/10.22148/001c.12266) *Cultural Analytics* (March 19, 2020).
-  - HIST 5260 / COMM 6710 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.
+
+[comment]: # (HIST 5260 / COMM 6710 only: Taylor Arnold and Lauren Tilton, ["Distant viewing: analyzing large visual corpora"](https://academic-oup-com.aurarialibrary.idm.oclc.org/dsh/article/34/Supplement_1/i3/5694340) *Digital Scholarship in the Humanities*, Volume 34, Issue Supplement_1, December 2019.)
 
 _In Class_
 - Tour of the [CLAS Media Learning Lab](https://clas.ucdenver.edu/communication/students/clas-media-learning-lab) 
@@ -209,7 +210,7 @@ _In Class_
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
 - Annotate in Hypothesis:
-  - HIST Students Only: ["Keeping Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
+  - HIST Students Only: Abe Gibson, ["Keeping Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
   - COMM Students Only: Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
 
 _In Class_
