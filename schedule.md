@@ -173,7 +173,7 @@ _In Class_
 
 _In Class_
 - Natalie presentation
-- Omeka
+- [Omeka]({{site.baseurl}}/in-class/omeka)
 
 #### Thu., Mar. 17: Open Class Period
 - Use this time to work on your data exploration assignment
