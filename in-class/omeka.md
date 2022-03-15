@@ -11,7 +11,7 @@ For the purposes of this week, we will all be working in the same Omeka installa
 
 The building blocks of Omeka are `items`. These are individual sources, documents, photographs, or other kinds of archival material - in a museum context, something like a painting, map, diary, film, etc. The point of Omeka is add these items as digital records and document their *metadata*, or information about them. Take a minute to navigate to Item Types in your Omeka dashboard. These are the general categories of items that Omeka has supplied for you, along with customized metadata fields tailored for that kind of item. However, if you want to you can make your own item types and add your own metadata fields. Omeka also uses Dublin Core, which is a set of metadata standards for digital collections. 
 
-Today you are going to add at least *two items* into our shared site. We're using the Library of Congress's [Gladstone Collection of African American Photographs](https://www.loc.gov/pictures/search/?q=1860-1870&sp=11&co=gld). The idea is that, as a group, we will create roughly 30 random items from this collection to give us a shared body of historical material by the end of class. Go to these [search results](https://www.loc.gov/pictures/search/?q=&co=gld) then navigate to the page of results that I have assigned to each of you: 
+Today you are going to add at least *one item* into our shared site. We're using the Library of Congress's [Gladstone Collection of African American Photographs](https://www.loc.gov/pictures/search/?q=1860-1870&sp=11&co=gld). The idea is that, as a group, we will create a group of items from this collection to give us a shared body of historical material by the end of class. Go to these [search results](https://www.loc.gov/pictures/search/?q=&co=gld) then navigate to the page of results that I have assigned to each of you: 
 
 1. Nevaeh
 1. Natalie
@@ -31,9 +31,9 @@ Today you are going to add at least *two items* into our shared site. We're usin
 1. Range
 1. Jake
 
-Scroll through the images on your page and then choose two that you are going to add into our shared Omeka installation. You are then going to use these general [instructions on adding Items](https://ds-tutorials.github.io/omeka-guide/#:~:text=items%20are%20the%20building%20blocks) taken from another tutorial written by Sarah Pugachev and try to apply them to your two items. I have intentionally chosen a different LOC collection from the one Pugachev used so that you need to think more actively about how to apply their instructions. Once you've created your item, you can click on the item and then View Public Page to see what it looks like to a visitor to your site. 
+Scroll through the images on your page and then choose one that you are going to add into our shared Omeka installation. You are then going to use these general [instructions on adding Items](https://ds-tutorials.github.io/omeka-guide/#:~:text=items%20are%20the%20building%20blocks) taken from another tutorial written by Sarah Pugachev and try to apply them to your item. I have intentionally chosen a different LOC collection from the one Pugachev used so that you need to think more actively about how to apply their instructions. Once you've created your item, you can click on the item and then View Public Page to see what it looks like to a visitor to your site. 
 
-If you've finished adding your two items, help your classmates who might be having trouble or navigate to the `Items` in our Omeka site and check out what they have already added. 
+If you've finished adding one item, try adding an addition one or help your classmates who might still be working. 
 
 *Notify Professor Blevins once you have finished with this section.*
 
