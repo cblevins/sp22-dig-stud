@@ -1,11 +1,11 @@
-I"�<h2 id="introduction">Introduction</h2>
+I"�<h2 id="introduction">Introduction</h2>
 
 <p>The goal of today is continue to develop your comfort with working with, analyzing, and visualizing data using Tableau Public. For the purposes of today, you’re going to be using a dataset published by some lame professor at CU Denver: <a href="https://cblevins.github.io/us-post-offices/">US Post Offices</a>.</p>
 
 <h2 id="get-to-know-the-data">Get to know the data</h2>
 
 <ul>
-  <li>Take a few minutes to scan through <a href="https://cblevins.github.io/us-post-offices/">the data website</a> and in particular look at the section of the data biography <a href="https://cblevins.github.io/us-post-offices/data-biography/#whats-in-the-data:~:text=What%E2%80%99s%20in%20the%20data%3F">“What’s in the data?”</a>.</li>
+  <li>Take 5-7 minutes to scan through <a href="https://cblevins.github.io/us-post-offices/">the data website</a> and in particular look at the section of the data biography <a href="https://cblevins.github.io/us-post-offices/data-biography/#whats-in-the-data:~:text=What%E2%80%99s%20in%20the%20data%3F">“What’s in the data?”</a>.</li>
   <li>Download the files: <code class="language-plaintext highlighter-rouge">us-post-offices-random-coords</code> (your main data file) and <code class="language-plaintext highlighter-rouge">us-post-offices-data-dictionary</code> (metadata about that file) from <a href="https://doi.org/10.7910/DVN/NUKCNA">Harvard Dataverse</a>, saving them into your class folder on your computer. Hint: you want both of these to be downloaded as CSV files, which you can do by clicking the Access File icon and then clicking Original File Format (Comma Separated Values).</li>
   <li>Open <code class="language-plaintext highlighter-rouge">us-post-offices-data-dictionary.csv</code> on your computer and familiarize yourself with the different columns in the main dataset <code class="language-plaintext highlighter-rouge">us-post-offices-random-coords</code>.</li>
 </ul>
@@ -14,8 +14,12 @@
 
 <ul>
   <li>Connect to the data source on your computer, which should be downloaded as <code class="language-plaintext highlighter-rouge">us-post-offices-random-coords.csv</code>.</li>
-  <li>Spend a few minutes dragging and dropping different Dimension and Measures onto a worksheet so you can start to get a feel for the data.</li>
-  <li>Try to use Tableau to answer the following question: in what year did the state of Colorado experience the largest number of post office closures? How many post offices closed that year?</li>
+  <li>Spend a few minutes dragging and dropping different column names onto a worksheet so you can start to get a feel for the data.</li>
+  <li>As an entire class we will walk through the steps to answer this question:
+    <ul>
+      <li>In what year did the state of Colorado experience the largest number of post office closures (hint: use the <code class="language-plaintext highlighter-rouge">Discontinued</code> field)? How many post offices closed that year?</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="visualize-the-data">Visualize the data</h2>
@@ -32,11 +36,11 @@
 <p>Sheet 2:</p>
 
 <ul>
-  <li>Make a map of post offices</li>
-  <li>Only show post offices from one state of your choosing on the map using the <code class="language-plaintext highlighter-rouge">Filters</code> tool.</li>
-  <li>Use the <code class="language-plaintext highlighter-rouge">Pages</code> feature to allow a user to “flip” through and see new post offices that were established each year (play around with the <code class="language-plaintext highlighter-rouge">Show history</code> feature)</li>
+  <li>Make a map of all the post offices in the dataset</li>
+  <li>Only show post offices on the map from one state of your choosing using the <code class="language-plaintext highlighter-rouge">Filters</code> tool.</li>
+  <li>Use the <code class="language-plaintext highlighter-rouge">Pages</code> feature to allow a user to “flip” through and see new post offices that were <code class="language-plaintext highlighter-rouge">Established</code> each year (play around with the <code class="language-plaintext highlighter-rouge">Show history</code> feature)</li>
   <li>Add information about the post office’s name, year it opened, and year it closed in the <code class="language-plaintext highlighter-rouge">Tooltip</code> so that a user can click on a point and get this information.</li>
-  <li>Color all the post offices that have semi-random coordinates light blue. Hint: use the RandomCoordinatesFlag field.</li>
+  <li>Color all the post offices that have semi-random coordinates light blue. Hint: use the <code class="language-plaintext highlighter-rouge">RandomCoordinatesFlag</code> field.</li>
 </ul>
 
 <h2 id="publish-the-data-online">Publish the data online</h2>

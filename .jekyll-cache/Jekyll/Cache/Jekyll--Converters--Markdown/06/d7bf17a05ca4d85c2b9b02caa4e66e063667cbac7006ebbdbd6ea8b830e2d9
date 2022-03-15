@@ -1,4 +1,4 @@
-I""<h2 id="example-omeka-sites">Example Omeka Sites</h2>
+I"E!<h2 id="example-omeka-sites">Example Omeka Sites</h2>
 
 <p>Last week you began learning how to add items into Omeka, a software tool that you can use to create online exhibits and collections of images, documents, multimedia, etc. The best way to understand Omeka is to look at some finished products. Take a few minutes to explore one of the following sites:</p>
 
@@ -6,8 +6,6 @@
   <li>If your last name begins with A-F: <a href="https://www.cppdigitallibrary.org/">https://www.cppdigitallibrary.org/</a></li>
   <li>If your last name begins with G-Z: <a href="http://mallhistory.org/">http://mallhistory.org/</a></li>
 </ul>
-
-<p>I will then put you into breakout rooms. Use your screen share function to walk your partner through the site you examined. What is its thematic topic, what is its audience, what kind of “stuff” do they have, how is it organized, what are some strengths or weaknesses, etc.?</p>
 
 <p>Debrief as a class:</p>
 
@@ -17,24 +15,32 @@
 
 <h2 id="shared-omeka-installation">Shared Omeka Installation</h2>
 
-<p>For the purposes of this week, we will all be working in the same Omeka installation hosted by Professor Blevins rather than on your own individual installation through your Reclaim Hosting server. You should have received an email at your ucdenver.edu email adding you as a new user. You need to activate your user account by clicking the link in the email and then creating a new password that I sent to you over the Slack #general channel. Please copy your username - it should be the first letter of your first name followed by your last name (ex. cblevins). To access the login page for our shared site, go to: <a href="http://cameronblevins.org/teaching/sp21-dig-stud/sandbox/omeka/admin/">http://cameronblevins.org/teaching/sp21-dig-stud/sandbox/omeka/admin/</a>. This is where you type in the username and password if you get logged out.</p>
+<p>For the purposes of this week, we will all be working in the same Omeka installation hosted by Professor Blevins rather than on your own individual installation through your Reclaim Hosting server. You should have received an email at your ucdenver.edu email adding you as a new user. You need to activate your user account by clicking the link in the email and then creating a new password that I sent to you over the Slack #general channel. Please copy and paste your username - it should be the first letter of your first name followed by your last name (ex. cblevins). To access the login page for our shared site, go to: <a href="http://cameronblevins.org/teaching/sp22-dig-stud/sandbox/omeka/admin/">http://cameronblevins.org/teaching/sp22-dig-stud/sandbox/omeka/admin/</a>. This is where you type in the username and password if you get logged out.</p>
 
 <h2 id="items-and-metadata">Items and Metadata</h2>
 
-<p>If you remember back to last week, the building blocks of Omeka are <code class="language-plaintext highlighter-rouge">items</code>. These are individual sources or other kinds of material - in a museum context, something like a painting, map, diary, film, etc. The point of Omeka is add these items as digital records and document their <em>metadata</em>, or information about them. Take a minute to navigate to Item Types in your Omeka dashboard. These are the general categories of items that Omeka has supplied for you, along with customized metadata fields tailored for that kind of item. However, if you want to you can make your own item types and add your own metadata fields. Omeka also uses Dublin Core, which is a set of metadata standards for digital collections.</p>
+<p>The building blocks of Omeka are <code class="language-plaintext highlighter-rouge">items</code>. These are individual sources, documents, photographs, or other kinds of archival material - in a museum context, something like a painting, map, diary, film, etc. The point of Omeka is add these items as digital records and document their <em>metadata</em>, or information about them. Take a minute to navigate to Item Types in your Omeka dashboard. These are the general categories of items that Omeka has supplied for you, along with customized metadata fields tailored for that kind of item. However, if you want to you can make your own item types and add your own metadata fields. Omeka also uses Dublin Core, which is a set of metadata standards for digital collections.</p>
 
-<p>Today you are going to add at least <em>two items</em> into our shared site. We’re using the Library of Congress’s Gladstone Collection of African American Photographs, <a href="https://www.loc.gov/pictures/search/?q=1860-1870&amp;sp=11&amp;co=gld">focusing on the decade 1860-1870</a>. The idea is that, as a group, we will create roughly 20 random items from this collection to give us a shared body of historical material by the end of class. Go to these <a href="https://www.loc.gov/pictures/search/?q=1860-1870&amp;sp=11&amp;co=gld">search results</a> then navigate to the page of results that I have assigned to each of you:</p>
+<p>Today you are going to add at least <em>two items</em> into our shared site. We’re using the Library of Congress’s <a href="https://www.loc.gov/pictures/search/?q=1860-1870&amp;sp=11&amp;co=gld">Gladstone Collection of African American Photographs</a>. The idea is that, as a group, we will create roughly 30 random items from this collection to give us a shared body of historical material by the end of class. Go to these <a href="https://www.loc.gov/pictures/search/?q=&amp;co=gld">search results</a> then navigate to the page of results that I have assigned to each of you:</p>
 
 <ol>
-  <li>Bianca</li>
-  <li>Scott</li>
-  <li>Teresa</li>
-  <li>Jaclyn</li>
-  <li>Ryan Thomas</li>
-  <li>Keira Maxwell</li>
-  <li>Whitney</li>
-  <li>TJ</li>
-  <li>Yuning</li>
+  <li>Nevaeh</li>
+  <li>Natalie</li>
+  <li>Cullen</li>
+  <li>Jack</li>
+  <li>Faith</li>
+  <li>Yinlong</li>
+  <li>Daniel</li>
+  <li>Donald</li>
+  <li>Tia</li>
+  <li>Terrell</li>
+  <li>Josh</li>
+  <li>Ryomi</li>
+  <li>Leslie</li>
+  <li>Debra</li>
+  <li>Jess</li>
+  <li>Range</li>
+  <li>Jake</li>
 </ol>
 
 <p>Scroll through the images on your page and then choose two that you are going to add into our shared Omeka installation. You are then going to use these general <a href="https://www.sarah-pugachev.com/omeka-guide/#items:~:text=Items,-Items">instructions on adding Items</a> taken from another tutorial written by Sarah Pugachev and try to apply them to your two items. I have intentionally chosen a different LOC collection from the one Pugachev used so that you need to think more actively about how to apply their instructions. Once you’ve created your item, you can click on the item and then View Public Page to see what it looks like to a visitor to your site.</p>
