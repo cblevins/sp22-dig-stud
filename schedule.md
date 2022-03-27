@@ -195,11 +195,13 @@ _In Class_
 
 #### Thu., Mar. 31: Images II
 - Annotate in Hypothesis:
-  - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)h
+  - Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).
 
 _In Class_
 - Leslie presentation
 - Graphic Design
+
+[comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
 
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
 
