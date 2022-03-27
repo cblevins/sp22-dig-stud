@@ -193,13 +193,13 @@ _In Class_
 - Discussion of computer vision
 - Working with image files
 
-#### Thu., Mar. 31: Images 
+#### Thu., Mar. 31: Images II
 - Annotate in Hypothesis:
-  - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)
+  - Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019)h
 
 _In Class_
 - Leslie presentation
-- Image editing
+- Graphic Design
 
 [comment]: # ("Chapter 1: Visual Knowledge (or Graphesis): Is Drawing as Powerful as Computation?" in Johanna Drucker, *Visualization and Interpretation: Humanistic Approaches to Display* (MIT Press, 2020))
 
@@ -210,7 +210,7 @@ _In Class_
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
 - Annotate in Hypothesis:
-  - HIST Students Only: Abe Gibson, ["Keeping Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
+  - HIST Students Only: Abe Gibson, ["Keeping It Real: Historians in the Deepfake Era"](https://www.historians.org/publications-and-directories/perspectives-on-history/may-2021/keeping-it-real-historians-in-the-deepfake-era) *Perspectives on History* (May 17, 2021).
   - COMM Students Only: Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
 
 _In Class_
