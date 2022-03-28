@@ -208,7 +208,7 @@ _In Class_
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due April 3rd*
 
 #### Tue., Apr. 5: Video
-- [Install Shotcut on your computer](http://write.flossmanuals.net/introduction-to-video-editing-with-shotcut/installation/)
+- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in)
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
 - Annotate in Hypothesis:
@@ -235,11 +235,11 @@ _In Class_
   - Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
 - Annotate in Hypothesis:
   - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021).
-  - Annotate ONE of the following articles from the *New York Times* series "The State of Podcasting" and be prepared to teach it to your classmates:
-    - ["Voice Lessons: When Podcast Hosts Speak, What Do We Hear?"](https://www.nytimes.com/interactive/2021/02/25/arts/podcast-voice-sound.html)
-    - ["Saidu Tejan-Thomas Jr. and the Voices of ‘Resistance’"](https://www.nytimes.com/2021/02/25/arts/saidu-tejan-thomas-jr-resistance.html)
-    - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
-    - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
+- I will assign you ONE of the following articles from the *New York Times* series "The State of Podcasting" that you will be responsible for teaching to your classmates. ([Reminder on how to access NYTimes as a student](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)). You should read the article and take notes on ideas for how you will teach it: 
+  - ["Voice Lessons: When Podcast Hosts Speak, What Do We Hear?"](https://www.nytimes.com/interactive/2021/02/25/arts/podcast-voice-sound.html)
+  - ["Saidu Tejan-Thomas Jr. and the Voices of ‘Resistance’"](https://www.nytimes.com/2021/02/25/arts/saidu-tejan-thomas-jr-resistance.html)
+  - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
+  - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
 _In Class_
 - Daniel presentation
@@ -257,6 +257,9 @@ _In Class_
 #### Tue., Apr. 19: Music
 - Spencer Kornhaber, pop culture writer for *The Atlantic*, will be joining class to discuss how technology is shaping the music industry. Read the following article by Mr. Kornhaber and post 2-3 comments or questions about it (or broader questions about technology and music) on the `#readings` Slack channel.
   - Spencer Kornhaber, ["Noisy, Ugly, and Addictive: Hyperpop could become the countercultural sound of the 2020s"](https://www.theatlantic.com/magazine/archive/2021/03/hyperpop/617795/) *The Atlantic* (March 2021).
+
+_In Class_
+- Q&A with [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 
 ### Wrapping Up
 
