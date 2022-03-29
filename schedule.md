@@ -194,6 +194,7 @@ _In Class_
 - Working with image files
 
 #### Thu., Mar. 31: Images II
+- Sign up for Adobe Creative Cloud using your CU Denver student login credentials ([instructions here](https://www.ucdenver.edu/offices/office-of-information-technology/software/how-do-i-use/adobe-creative-cloud/adobe-cc-for-students)) and then install Adobe Illustrator on your computer.
 - Annotate in Hypothesis:
   - Shannon Bond, ["That smiling LinkedIn profile face might be a computer-generated fake"](https://www.npr.org/2022/03/27/1088140809/fake-linkedin-profiles) *NPR News* (March 27, 2022).
 
@@ -208,7 +209,6 @@ _In Class_
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due April 3rd*
 
 #### Tue., Apr. 5: Video
-- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in)
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
 - Annotate in Hypothesis:
@@ -218,6 +218,8 @@ _In Class_
 _In Class_
 - Ryomi presentation
 - Introduction to Shotcut
+
+[comment]: # (- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in))
 
 #### Thu., Apr. 7: Video
 - Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel by 2:00PM.** We will be using these during class to learn how to edit videos. 
