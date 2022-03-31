@@ -216,20 +216,21 @@ _In Class_
   - COMM Students Only: Renée DiResta, ["The Supply of Disinformation Will Soon Be Infinite"](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/) *The Atlantic* (September 20, 2020).
 
 _In Class_
+- Class visit from former student Scott Burgess to discuss final project
 - Ryomi presentation
 - Introduction to Shotcut
 
 [comment]: # (- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in))
 
 #### Thu., Apr. 7: Video
-- Record a **30-second elevator pitch video** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out in depth and you can be as silly as you want - just make sure it is under thirty seconds. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel by 2:00PM.** We will be using these during class to learn how to edit videos. 
+- Record a video in which you make a **30-second elevator pitch** for a future CU Denver student to convince them to take this class next year. You do not need to plan this out and you can be as silly as you want (cat and/or other pet appearances highly encouraged) - just make sure it is *under thirty seconds*. Use [Zoom to record the video](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording) and then upload it as `yourfirstname-yourlastname.mp4` (`cameron-blevins.mp4`) **to the #`in-class` Slack channel by 2:00PM.** We will be using these during class to learn how to edit videos. 
 - Annotate in Hypothesis:
   - Cat Zhang, ["The Anatomy of a TikTok Hit"](https://pitchfork.com/thepitch/the-anatomy-of-a-tiktok-hit/) *Pitchfork* (November 13, 2019).
   - Kaitlyn Tiffany, ["I’m Scared of the Person TikTok Thinks I Am"](https://www.theatlantic.com/technology/archive/2021/06/your-tiktok-feed-embarrassing/619257/) *The Atlantic* (June 21, 2021).
 
 _In Class_
 - Range presentation
-- [Video files and editing with Shotcut]({{site.baseurl}}/in-class/video-editing)
+- [Video files and editing]({{site.baseurl}}/in-class/video-editing)
  
 #### Tue., Apr. 12: Audio
 - Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. 
