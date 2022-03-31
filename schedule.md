@@ -200,7 +200,7 @@ _In Class_
 
 _In Class_
 - Leslie presentation
-- Graphic Design
+- [Graphic Design with Adobe Illustrator]({{site.baseurl}}/in-class/graphic-design)
 
 [comment]: # (Kate Crawford and Trevor Paglen, [“Excavating AI: The Politics of Training Sets for Machine Learning"](https://excavating.ai) *The AI Now Institute, NYU* (September 19, 2019))
 

@@ -1,0 +1,29 @@
+I"�<p>Today you will be learning the basics of Adobe Illustrator.</p>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<ul>
+  <li>Open Illustrator then navigate to <code class="language-plaintext highlighter-rouge">Help</code> -&gt; <code class="language-plaintext highlighter-rouge">Illustrator Help</code> (this should pull up the <code class="language-plaintext highlighter-rouge">Discover</code> window).</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">Hands-on tutorials</code> -&gt; <code class="language-plaintext highlighter-rouge">Orientation</code> and go through the following tutorials:
+    <ul>
+      <li>Take a Tour of the App</li>
+      <li>Jump into color</li>
+      <li>Getting started with Text</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="create-a-course-flyer">Create a Course Flyer</h2>
+
+<p>To put your new skills into practice, you’re going to design a basic flyer for this class. Download the following Adobe Illustrator file to get started: <a href="/sp22-dig-stud/in-class/course-flyer.ai">course-flyer.ai</a></p>
+
+<p>Open <code class="language-plaintext highlighter-rouge">course-flyer.ai</code> in Illustrator and complete the following:</p>
+
+<ul>
+  <li>Change the blue background to black</li>
+  <li>Add text for the course title, meeting place, and meeting time (get this from the course website) onto the white background and change the color and font to something other than the default.</li>
+  <li>Change the text size so the course title is the largest piece of text</li>
+  <li>Add text objects listing 2-3 skills you’ve learned in the class so far and place this text on top of the black part of the background</li>
+  <li>Move and resize the CU icon so that it is anchored to the bottom left corner</li>
+</ul>
+:ET
