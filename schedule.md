@@ -219,7 +219,7 @@ _In Class_
 _In Class_
 - Class visit from former student Scott Burgess to discuss final project
 - Ryomi presentation
-- Introduction to video editing with Adobe Premiere Pro
+- [Introduction to video editing with Adobe Premiere Pro]({{site.baseurl}}/in-class/adobe-premiere)
  
 [comment]: # (- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in))
 
