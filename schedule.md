@@ -209,6 +209,7 @@ _In Class_
 *Second [Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due April 3rd*
 
 #### Tue., Apr. 5: Video
+- Install Adobe Premiere Pro from your Adobe Creative Cloud account
 - Write 2-3 discussion questions/reactions on the Slack `#readings` channel on the following podcast: 
   - Kevin Roose, Andy Mills, Julia Longoria, and Sindhu Gnanasambandan, ["Episode 1: Wonderland"](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html) *Rabbit Hole* podcast, April 16, 2020. [Transcript](https://www.nytimes.com/2020/04/16/podcasts/rabbit-hole-internet-youtube-virus.html?showTranscript=1)
 - Annotate in Hypothesis:
@@ -218,8 +219,8 @@ _In Class_
 _In Class_
 - Class visit from former student Scott Burgess to discuss final project
 - Ryomi presentation
-- Introduction to Shotcut
-
+- Introduction to video editing with Adobe Premiere Pro
+ 
 [comment]: # (- [Install Shotcut on your computer](https://en.flossmanuals.net/shotcut/_full/#:~:text=Started%20with%20Shutcut-,Installing%20Shotcut,-As%20noted%20in))
 
 #### Thu., Apr. 7: Video
@@ -233,9 +234,7 @@ _In Class_
 - [Video files and editing]({{site.baseurl}}/in-class/video-editing)
  
 #### Tue., Apr. 12: Audio
-- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class. 
-  - Install the FFmpeg Audacity library [[Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html)]
-  - Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html) 
+- Install Adobe Audition from your Adobe Creative Cloud account
 - Annotate in Hypothesis:
   - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021).
 - I will assign you ONE of the following articles from the *New York Times* series "The State of Podcasting" that you will be responsible for teaching to your classmates. ([Reminder on how to access NYTimes as a student](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)). You should read the article and take notes on ideas for how you will teach it: 
@@ -244,12 +243,16 @@ _In Class_
   - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
   - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
 
+[comment]: # (- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class.) 
+[comment]: # (  - Install the FFmpeg Audacity library [[Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html)])
+[comment]: # ( - Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html))
+
 _In Class_
 - Daniel presentation
-- [Recording and editing audio with Audacity]({{site.baseurl}}/in-class/audio-editing)
+- [Recording and editing audio]({{site.baseurl}}/in-class/audio-editing)
 
 #### Thu., Apr. 14: Audio
-- Post on the `#assignments` Slack channel a 2-3 sentence summary of the topic and media format you're planning to do for your [Media Project]({{site.baseurl}}/assignments/media-project).
+- Post a 2-3 sentence summary of the topic and media format you're planning to do for your [Media Project]({{site.baseurl}}/assignments/media-project) on the `#assignments` Slack channel .
 - Listen to episode [Beyond the Consul: Monterey](https://consolationprize.rrchnm.org/beyond-the-consul-monterey/) from the podcast *Consolation Prize* and post at least two questions you might want to ask its creator, [Abby Mullen](https://abbymullen.org/), to the `#readings` Slack channel. 
 
 _In Class_
