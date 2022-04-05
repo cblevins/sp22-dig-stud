@@ -19,15 +19,15 @@ Today you will be learning the basics of Adobe Premiere Pro.
 
 To put your new skills into practice, you're going to make a short video that has turtles in it. 
 
-Start a new project in Premiere and and complete the following:
-
-- Download the following .zip file to your course folder on your computer then extract its contents ([Windows instructions](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.), [Mac instructions](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item)): [premiere-videos.zip]({{site.baseurl}}/in-class/premiere-videos.zip).
+- Start a new project in Premiere and save it as `intro-premiere.prproj`
+- Download the following .zip file to your course folder on your computer by right-clicking on the link and selecting Save as (or save target as): [premiere-videos.zip]({{site.baseurl}}/in-class/premiere-videos.zip). 
+- Extract the contents of the .zip file ([Windows instructions](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.), [Mac instructions](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item)).
 - The extracted .zip folder has four files:
   - duck-and-cover-intro.mp4
   - tmnj.gif
   - led-zepplin.mp3 
   - turtle-walking.mp4
-- Import all four videos into your project and make sure they are appearing in your Project Panel
+- Import all four media files into your project and make sure they are appearing in your Project Panel
 - Use the Source Monitor Panel to preview each file (three videos and one music)
 - Add the Duck and Cover video to your Timeline
 - Trim the Duck and Cover clip so that it ends on second 48 with the title screen "Duck and Cover"
