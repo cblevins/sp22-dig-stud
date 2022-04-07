@@ -26,8 +26,8 @@ Your goal is to create a short video using the above building blocks that includ
 - Add the audio file to the Timeline so that it plays during those opening 6 seconds and then stops (you'll want to trim it in the Timeline).
 - Add three text objects so that they are overlaid onto the image during the opening 6 seconds of the video:
   - Introduction to Digital Studies
-  - HIST 3260/5260 | COMM 3081/5081
-  - Professor Blevins | Spring 2023
+  - HIST 3260/5260 - COMM 3081/5081
+  - Professor Blevins - Spring 2023
 - Add three of your classmates' videos to the Timeline so that they appear after the opening six seconds
 - Trim several seconds from the beginning and/or end of at least one of your classmates' videos (ex. if there are several seconds of awkward silence at the beginning or end).
 - End your video with 6 seconds of the image + overlaid course information again.
