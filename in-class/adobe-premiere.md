@@ -7,7 +7,7 @@ Today you will be learning the basics of Adobe Premiere Pro.
 
 ## Tutorials
 
-- Open Illustrator then navigate to `Help` -> `Premiere Pro In-App Tutorial` 
+- Open Premiere Pro then navigate to `Help` -> `Premiere Pro In-App Tutorial` 
 - In the Learn window, work through the `Premiere Pro Overview` tutorial
 - In the Learn window, work through the four tutorials in Learn The Basics:
   - Importing Media

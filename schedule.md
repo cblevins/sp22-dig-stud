@@ -260,7 +260,10 @@ _In Class_
 
 *[Media Project]({{site.baseurl}}/assignments/media-project) due April 17th*
 
-#### Tue., Apr. 19: Music
+#### Tue., Apr. 19: TBD - Class Choice
+- Reading topic & in-class skill building selected by class 
+
+#### Thu., Apr. 21: Music
 - Spencer Kornhaber, pop culture writer for *The Atlantic*, will be joining class to discuss how technology is shaping the music industry. Read the following article by Mr. Kornhaber and post 2-3 comments or questions about it (or broader questions about technology and music) on the `#readings` Slack channel.
   - Spencer Kornhaber, ["Noisy, Ugly, and Addictive: Hyperpop could become the countercultural sound of the 2020s"](https://www.theatlantic.com/magazine/archive/2021/03/hyperpop/617795/) *The Atlantic* (March 2021).
 
@@ -268,9 +271,6 @@ _In Class_
 - Q&A with [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
 
 ### Wrapping Up
-
-#### Thu., Apr. 21: TBD - Class Choice
-- Topic selected by class
 
 #### Tue., Apr. 26: Final Project Workshop
 
@@ -282,8 +282,8 @@ _In Class_
 
 #### Thu., May 5: Final Project Presentations & Wrapping Up
 
-*[Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (HIST 5260/COMM 6710 only) due May 12th*
+*[Build a Tutorial]({{site.baseurl}}/assignments/tutorial) (HIST 5260/COMM 6710 only) due May 11th*
 
-*[Final Project]({{site.baseurl}}/assignments/final-project) due May 12th*
+*[Final Project]({{site.baseurl}}/assignments/final-project) due May 11th*
 
 *[Final Self-Assessment]({{site.baseurl}}/assignments/self-assessments) due May 12th*
