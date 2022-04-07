@@ -26,7 +26,7 @@ In addition to readings, hands-on homework, and in-class discussions and activit
 
 #### [Data Exploration]({{site.baseurl}}/assignments/data-exploration) (3/27)
 
-#### [Media Project]({{site.baseurl}}/assignments/media-project) (4/17)
+#### [Media Project]({{site.baseurl}}/assignments/media-project) (4/19)
 
 #### [HIST 5260 and COMM 6710: Project Review]({{site.baseurl}}/assignments/project-review) (Various dates)
 

@@ -258,10 +258,11 @@ _In Class_
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.
 
-*[Media Project]({{site.baseurl}}/assignments/media-project) due April 17th*
 
 #### Tue., Apr. 19: TBD - Class Choice
 - Reading topic & in-class skill building selected by class 
+
+*[Media Project]({{site.baseurl}}/assignments/media-project) due April 19th*
 
 #### Thu., Apr. 21: Music
 - Spencer Kornhaber, pop culture writer for *The Atlantic*, will be joining class to discuss how technology is shaping the music industry. Read the following article by Mr. Kornhaber and post 2-3 comments or questions about it (or broader questions about technology and music) on the `#readings` Slack channel.
