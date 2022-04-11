@@ -5,7 +5,7 @@ title: Audio Editing
 
 ### Introduction
 
-You will be working in pairs today to learn how to use Audacity. By the end of the class, the goal is to have a roughly 2-3 minute recording where the two of you discuss ideas for what you'd like to as a class during Weeks 12 and 13, interspersed with music and sound effects. It should incorporate the following components:
+You will be working in pairs today to learn how to use the open-source software Audacity to edit audio. By the end of the class, the goal is to have a roughly 2-3 minute recording where the two of you discuss ideas for what you'd like to do for your final project, interspersed with music and sound effects. It should incorporate the following components:
 
 - Brief musical introduction
 - Main audio of your conversation

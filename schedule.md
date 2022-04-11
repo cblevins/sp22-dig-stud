@@ -234,7 +234,8 @@ _In Class_
 - [Video files and editing]({{site.baseurl}}/in-class/video-editing)
  
 #### Tue., Apr. 12: Audio
-- Install Adobe Audition from your Adobe Creative Cloud account
+- Download and install [Audacity](https://www.audacityteam.org/download/) on your laptop and have it ready for class: [Windows](https://www.audacityteam.org/download/windows/), [Mac](https://www.audacityteam.org/download/mac/).
+  - Follow these instructions to install the FFmpeg library for Audacity: [Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html).
 - Annotate in Hypothesis:
   - Ben Sisario, ["Podcasting Is Booming. Will Hollywood Help or Hurt Its Future?"](https://www.nytimes.com/2021/02/25/arts/podcasts-hollywood-future.html) *New York Times* (February 25, 2021).
 - I will assign you ONE of the following articles from the *New York Times* series "The State of Podcasting" that you will be responsible for teaching to your classmates. ([Reminder on how to access NYTimes as a student](https://library.auraria.edu/news/2022/new-year-new-tools-access-new-york-times)). You should read the article and take notes on ideas for how you will teach it: 
@@ -242,10 +243,6 @@ _In Class_
   - ["Saidu Tejan-Thomas Jr. and the Voices of ‘Resistance’"](https://www.nytimes.com/2021/02/25/arts/saidu-tejan-thomas-jr-resistance.html)
   - ["How a TV Critic Turned to Podcasts During a Pandemic"](https://www.nytimes.com/2021/02/25/arts/television-critic-podcasts-pandemic.html)
   - ["These Young Podcasters Are Growing Up on Mic"](https://www.nytimes.com/2021/02/25/arts/podcasting-children-tai-poole.html)
-
-[comment]: # (- Download and install [Audacity](https://www.audacityteam.org/download/) on laptop and have it ready for class.) 
-[comment]: # (  - Install the FFmpeg Audacity library [[Windows](https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html), [Mac](https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html)])
-[comment]: # ( - Note: if you are using a Linux computer you might need to install the [LAME .mp3 encoder](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html))
 
 _In Class_
 - Daniel presentation
