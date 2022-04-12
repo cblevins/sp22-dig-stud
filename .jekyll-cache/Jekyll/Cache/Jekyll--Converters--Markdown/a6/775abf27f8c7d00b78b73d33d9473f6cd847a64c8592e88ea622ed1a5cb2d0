@@ -1,0 +1,53 @@
+I"p<h2 id="introduction">Introduction</h2>
+
+<p>The goal of today is continue to learn how to use the video editing software Adobe Premiere Pro. You are going to use this software to create a short (<strong>roughly 1-2 minute</strong>) video promo for this class.</p>
+
+<h2 id="your-building-blocks">Your building blocks</h2>
+
+<p>Download the .zip file posted to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel and extract it to a sub-folder in your computer’s folder for this class (<a href="https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.">Windows instructions</a>, <a href="https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item">Mac instructions</a>). In this folder you will have the “building blocks” for making your video:</p>
+
+<ul>
+  <li>Short video pitches each of you recorded (.mp4 files)</li>
+  <li>Image to use as background (.jpeg file)</li>
+  <li>Audio file with music sample (.mp3 file)</li>
+</ul>
+
+<h2 id="things-to-include">Things to include</h2>
+
+<p>Your goal is to create a short video using the above building blocks that includes the following:</p>
+
+<ul>
+  <li>Create and save a new project in Adobe Premiere Pro</li>
+  <li>Choose two video segments recorded by your classmates to include in your promo</li>
+  <li>Import the two video files, the image file, and audio file into your project.</li>
+  <li>Add the image file to your Timeline and have it play for the first 6 seconds of your video.</li>
+  <li>Add the audio file to the Timeline so that it plays during those opening 6 seconds and then stops (you’ll want to trim it in the Timeline).</li>
+  <li>Add three text objects so that they are overlaid onto the image during the opening 6 seconds of the video:
+    <ul>
+      <li>Introduction to Digital Studies</li>
+      <li>HIST 3260/5260 - COMM 3081/5081</li>
+      <li>Professor Blevins - Spring 2023</li>
+    </ul>
+  </li>
+  <li>Add three of your classmates’ videos to the Timeline so that they appear after the opening six seconds</li>
+  <li>Trim several seconds from the beginning and/or end of at least one of your classmates’ videos (ex. if there are several seconds of awkward silence at the beginning or end).</li>
+  <li>End your video with 6 seconds of the image + overlaid course information again.</li>
+  <li>Export your project content as a single new video file using the settings Format: <code class="language-plaintext highlighter-rouge">H.264</code> and Match Source: <code class="language-plaintext highlighter-rouge">Medium Bitrate</code>. Make sure to rename the Output Name to <code class="language-plaintext highlighter-rouge">yourfirstname-yourlastname-promo.mp4</code> and upload it to the #in-class Slack channel.</li>
+</ul>
+
+<p><strong>Bonus:</strong></p>
+
+<ul>
+  <li>Add transitions between the different sections of your video, such as and the opening image and in between your three videos. (<a href="https://helpx.adobe.com/premiere-pro/using/transition-overview-applying-transitions.html">Tutorial</a>)</li>
+  <li>Add an audio fade-in and fade-out at the beginning (<a href="https://helpx.adobe.com/premiere-pro/using/audio-transitions.html">Tutorial</a>)</li>
+</ul>
+
+<h2 id="relevant-tutorials">Relevant Tutorials</h2>
+
+<ul>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/create-project-import-media.html">Create a project and import media</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/create-edit-sequence.html">Adding clips and creating sequences</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/add-image-text-adjust-size.html">Adding Images and Text</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/trim-video-clips.html">Trimming clips</a></li>
+</ul>
+:ET

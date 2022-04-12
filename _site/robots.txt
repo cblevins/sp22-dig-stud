@@ -1,1 +1,1 @@
-Sitemap: https://cblevins.github.io/sp22-dig-stud/sitemap.xml
+Sitemap: http://localhost:4000/sp22-dig-stud/sitemap.xml

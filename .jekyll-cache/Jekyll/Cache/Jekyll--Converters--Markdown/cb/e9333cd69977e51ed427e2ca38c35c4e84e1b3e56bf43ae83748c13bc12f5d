@@ -1,0 +1,45 @@
+I"�<p>Today you will be learning the basics of Adobe Premiere Pro.</p>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<ul>
+  <li>Open Premiere Pro then navigate to <code class="language-plaintext highlighter-rouge">Help</code> -&gt; <code class="language-plaintext highlighter-rouge">Premiere Pro In-App Tutorial</code></li>
+  <li>In the Learn window, work through the <code class="language-plaintext highlighter-rouge">Premiere Pro Overview</code> tutorial</li>
+  <li>In the Learn window, work through the four tutorials in Learn The Basics:
+    <ul>
+      <li>Importing Media</li>
+      <li>Prepare Your Clips for Editing</li>
+      <li>Editing Your Clips</li>
+      <li>Exporting Your Project Content</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="working-with-turtle-videos">Working with Turtle Videos</h2>
+
+<p>To put your new skills into practice, you’re going to make a short video that has turtles in it.</p>
+
+<ul>
+  <li>Start a new project in Premiere and save it as <code class="language-plaintext highlighter-rouge">intro-premiere.prproj</code></li>
+  <li>Download the following .zip file to your course folder on your computer by right-clicking on the link and selecting Save as (or save target as): <a href="/sp22-dig-stud/in-class/premiere-videos.zip">premiere-videos.zip</a>.</li>
+  <li>Extract the contents of the .zip file (<a href="https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.">Windows instructions</a>, <a href="https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item">Mac instructions</a>).</li>
+  <li>The extracted .zip folder has four files:
+    <ul>
+      <li>duck-and-cover-intro.mp4</li>
+      <li>tmnj.gif</li>
+      <li>led-zepplin.mp3</li>
+      <li>turtle-walking.mp4</li>
+    </ul>
+  </li>
+  <li>Import all four media files into your project and make sure they are appearing in your Project Panel</li>
+  <li>Use the Source Monitor Panel to preview each file (three videos and one music)</li>
+  <li>Add the Duck and Cover video to your Timeline</li>
+  <li>Trim the Duck and Cover clip so that it ends on second 48 with the title screen “Duck and Cover”</li>
+  <li>Add the Teenage Mutant Ninja Turtles video clip to the Timeline</li>
+  <li>Arrange the TMNJ clip so that it appears <em>after</em> the end of your newly trimmed Duck and Cover video</li>
+  <li>Add the video of a turtle walking to your Timeline</li>
+  <li>Add the audio of a sample of Led Zepplin’s “Immigrant Song” to your Timeline (led-zepplin.mp3) so that it appears <em>under</em> the video of a turtle walking</li>
+  <li>Trim the end of the video of the turtle walking so that the video ends with the end of the audio from Led Zepplin</li>
+  <li>Export your project content as a single new video file using the settings Format: <code class="language-plaintext highlighter-rouge">H.264</code> and Match Source: <code class="language-plaintext highlighter-rouge">Medium Bitrate</code>. Make sure to rename the Output Name to <code class="language-plaintext highlighter-rouge">my-first-video.mp4</code></li>
+</ul>
+:ET
