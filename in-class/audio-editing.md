@@ -3,37 +3,46 @@ layout: page
 title: Audio Editing
 ---
 
-### Introduction
+### Overview
 
 You will be working in pairs today to learn how to use the open-source software Audacity to edit audio. By the end of the class, the goal is to have a roughly 2-3 minute recording where the two of you discuss ideas for what you'd like to do for your final project, interspersed with music and sound effects. It should incorporate the following components:
 
 - Brief musical introduction
 - Main audio of your conversation
-- A personal sign-off
+- A personal sign-off with a sound effect
 
 ### Part I: Recording 
 
-You are going to record the conversation in pairs over Zoom, which will generate a .m4a audio file in addition to the normal video file that you've worked with before. I'm going to place you in pairs and put you into a Zoom breakout room as part of our main Zoom class session. Decide which person is going to be the one to host a new Zoom meeting, then make sure you share the Zoom link with your partner over Slack DM so that the other person can access the meeting. Leave the class Zoom whenever you're ready, then the host should start the new session and your partner should join the new Zoom meeting. Have a short (2 min.) conversation about ideas for what you'd like to do as a class over the next two weeks - make sure if you're the host that you remember to hit record!
+As a group we are going to watch 1:00-4:30 of Pat Flynn's ["How to Record and Edit a Podcast in Audacity (Complete Tutorial)"](https://www.youtube.com/watch?v=xl-WDjWrTtk). Open up Audacity and follow along. Open the [written manual here](https://manual.audacityteam.org/man/record.html) for reference.
 
-The host should end the meeting, wait for the recording to generate, then find the `audio_only.m4a` file on your computer and send it to your partner over Slack DM. Rejoin the main class Zoom session.
+You are going to record your conversation in pairs using Audacity. Before you start recording, take a few minutes to plan out who is going to go first. Be sure to ask each other questions about each of your projects during the conversation and decide which of you is going to record on their laptop.
+
+Things to review before starting to record:
+
+- Start a new project 
+- Make sure to set the correct Recording Device (especially if you are using a microphone)
+- If you are using a Yeti microphone, set the dial to `bidirectional` (shaped like an 8 sign) and make sure you're sitting across from one another.
+- Click in the Recording Meter and make sure that the microphone is picking up audio.
+- Record a sample bit of audio to make sure everything is working
+
+Record your conversation (shoot for a maximum of 2-3 minutes). When you are done with your recording, whoever's laptop was used should [export the audio as a .mp3 file](https://manual.audacityteam.org/man/export.html) and the share that .mp3 file with their partner over Slack DM.
 
 ### Part II: Editing
 
 Individually watch 5:00-11:15 of Pat Flynn's ["How to Record and Edit a Podcast in Audacity (Complete Tutorial)"](https://www.youtube.com/watch?v=xl-WDjWrTtk). Then try to do all of the the following in Audacity:
 
-- Start a new project and import the .m4a audio track of your conversation. 
-- Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.htm) and delete or cut any leading or trailing dead sound or long silences in your tracks.
-- If needed, use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to adjust the volume of your tracks or specific parts of each track so they're relatively even
-<!--- Use the [Time Shift Tool](https://manual.audacityteam.org/man/time_shift_tool.html) to move each track so that they will play back-to-back-->
-- Import the the rockin' banjo music we used last week for your video editing. I will share this over Slack #in-class channel again. Note: in the future, you can use [YouTube's Audio library Free Music](https://www.youtube.com/audiolibrary/music) to find music. 
-- Use the [Time Shift Tool](https://manual.audacityteam.org/man/time_shift_tool.html) to have a roughly 10-second musical banjo intro.
-- Use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) tool to fade the song out as it leads up to the conversation.
-- [Record a new track](https://manual.audacityteam.org/man/recording.html#newtrack) individually in Audacity where you "sign off" and say goodbye to your listeners, then use the [Time Shift Tool](https://manual.audacityteam.org/man/time_shift_tool.html) to position that track at the end of your combined recording.
-- Bonus: overlay a sound effect from [YouTube Library Sound Effects](https://www.youtube.com/audiolibrary/soundeffects) somewhere in your recording.
-- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as an .mp3 file and upload it to the #in-class Slack channel. 
+- Start a new project and import the .mp3 file you generated of your conversation. 
+- Use the [Selection Tool](https://manual.audacityteam.org/man/selecting_audio_the_basics.html) and delete or cut any leading or trailing dead sound or long silences in your tracks.
+- Use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to adjust the volume of your tracks or specific parts of each track so they're relatively even
+- Import [this rockin' banjo music]({{site.baseurl}}/in-class/heftone-banjo-orchestra-whistling-rufus.mp3) and add it to your project as an audio track. Note: you might need to right-click on the link to download/save the file.
+- [Select and trim](https://manual.audacityteam.org/man/audacity_tracks_and_clips.html) the banjo music audio track so that you have a roughly 10-second musical intro.
+- Use the Selection Tool to move your conversation so that it comes in towards the end of the banjo music, then use the [Envelope Tool](https://manual.audacityteam.org/man/envelope_tool.html) to fade the song out as it leads up to the conversation.
+- [Record a new track](https://manual.audacityteam.org/man/recording.html#newtrack) individually in Audacity where you "sign off" and say goodbye to your listeners, then move that using the Selection tool to position that track at the end of your combined recording.
+- Overlay a sound effect from [Quick Sounds](https://quicksounds.com/) and overlay it onto your sign off at the end of your recording.
+- [Export your edited audio](https://manual.audacityteam.org/man/file_menu_export.html) as an .mp3 file called `yourlastname-yourfirstname.mp3` and upload it to the #in-class Slack channel. 
 
 ### General Podcast Resources
 
 - [Audacity Interface Guide](https://wit.audacityteam.org/)
-- [YouTube Library Sound Effects](https://www.youtube.com/audiolibrary/soundeffects)
+- [Quick Sounds sound effect library](https://www.youtube.com/audiolibrary/soundeffects)
 - [Free Music Archive](https://freemusicarchive.org/)
