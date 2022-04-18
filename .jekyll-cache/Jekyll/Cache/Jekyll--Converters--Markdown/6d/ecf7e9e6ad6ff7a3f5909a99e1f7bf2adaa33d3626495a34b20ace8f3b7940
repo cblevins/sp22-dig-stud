@@ -1,0 +1,36 @@
+I"�<h2 id="introduction">Introduction</h2>
+
+<p>The goal of today is continue to learn how to use the video editing software Adobe Premiere Pro. You are going to use this software to create a <strong>one-minute video</strong> montage: “Pets of Intro to Digital Studies.”</p>
+
+<h2 id="your-building-blocks">Your building blocks</h2>
+
+<p>Download the .zip file posted to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel and extract it to a sub-folder in your computer’s folder for this class (<a href="https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc#:~:text=Open%20File%20Explorer%20and%20find,folder%20to%20a%20new%20location.">Windows instructions</a>, <a href="https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac#:~:text=unzip%20(expand)%20a%20compressed%20item">Mac instructions</a>). In this folder I’ve included some files to get you started:</p>
+
+<ul>
+  <li>A collection of image files of your pets that were posted to Slack at the beginning of the semester</li>
+  <li>Audio file to use as background music (.mp3 file)</li>
+</ul>
+
+<p>In addition to these files, download a few pet videos posted by your classmates on the <code class="language-plaintext highlighter-rouge">in-class</code> Slack channel.</p>
+
+<h2 id="things-to-include">Things to include</h2>
+
+<p>Your goal is to create a short video that includes as much of the following as possible:</p>
+
+<ul>
+  <li>A mix of images, videos, audio, and text</li>
+  <li>Use the <a href="https://helpx.adobe.com/premiere-pro/using/rearranging-clips-sequence.html#:~:text=Split%20or%20cut%20one%20or%20more%20clips%20with%20the%20Razor%20tool">Razor Tool</a> to split one video in half, then place one of the images a pet in between the two split video segments.</li>
+  <li>Add a Cross Disolve transition between two different videos (<a href="https://helpx.adobe.com/premiere-pro/using/transition-overview-applying-transitions.html">Tutorial</a>)</li>
+  <li>Add an audio fade-in and fade-out (<a href="https://helpx.adobe.com/premiere-pro/using/audio-transitions.html">Tutorial</a>)</li>
+  <li>Export your project content as a single new video file using the settings Format: <code class="language-plaintext highlighter-rouge">H.264</code> and Match Source: <code class="language-plaintext highlighter-rouge">Medium Bitrate</code>. Make sure to rename the Output Name to <code class="language-plaintext highlighter-rouge">yourlastname-pets.mp4</code> and upload it to the <code class="language-plaintext highlighter-rouge">#in-class</code> Slack channel.</li>
+</ul>
+
+<h2 id="other-relevant-tutorials">Other Relevant Tutorials</h2>
+
+<ul>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/create-project-import-media.html">Create a project and import media</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/create-edit-sequence.html">Adding clips and creating sequences</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/add-image-text-adjust-size.html">Adding Images and Text</a></li>
+  <li><a href="https://helpx.adobe.com/premiere-pro/how-to/trim-video-clips.html">Trimming clips</a></li>
+</ul>
+:ET

@@ -260,6 +260,9 @@ _In Class_
 - Reading topic & in-class skill building selected by class:
 - Read Steve Novak and Saed Hindash, ["Blue to Red in 30 Miles: What 1 Pa. County Road Tells Us About the American Electorate"](https://projects.lehighvalleylive.com/route248/) *Lehigh Valley Live* (October 25, 2020). Post your reaction and reflections on the Slack #readings channel, focusing on how the journalists are using different non-textual elements (video, images, maps, data) to tell their story. What are the aspects that you find most and least effective? How does it compare to other readings or examples we've looked at in this class? 
 
+_In Class_
+- [Video Files and Editing II]({{site.baseurl}}/in-class/video-editing-ii)
+
 *[Media Project]({{site.baseurl}}/assignments/media-project) due April 19th*
 
 #### Thu., Apr. 21: Music
