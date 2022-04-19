@@ -255,7 +255,6 @@ _In Class_
 _In Class_
 - Q&A with [Abby Mullen](http://abbymullen.org/), George Mason University, creator of podcast *Consolation Prize*.
 
-
 #### Tue., Apr. 19: ~~TBD - Class Choice~~ Visual Storytelling
 - Reading topic & in-class skill building selected by class:
 - Read Steve Novak and Saed Hindash, ["Blue to Red in 30 Miles: What 1 Pa. County Road Tells Us About the American Electorate"](https://projects.lehighvalleylive.com/route248/) *Lehigh Valley Live* (October 25, 2020). Post your reaction and reflections on the Slack #readings channel, focusing on how the journalists are using different non-textual elements (video, images, maps, data) to tell their story. What are the aspects that you find most and least effective? How does it compare to other readings or examples we've looked at in this class? 
@@ -266,6 +265,7 @@ _In Class_
 *[Media Project]({{site.baseurl}}/assignments/media-project) due April 19th*
 
 #### Thu., Apr. 21: Music
+- Send a 2-3 sentence Slack DM to Professor Blevins with what you are planning to do for your final project.
 - Spencer Kornhaber, pop culture writer for *The Atlantic*, will be joining class to discuss how technology is shaping the music industry. Read the following article by Mr. Kornhaber and post 2-3 comments or questions about it (or broader questions about technology and music) on the `#readings` Slack channel.
   - Spencer Kornhaber, ["Noisy, Ugly, and Addictive: Hyperpop could become the countercultural sound of the 2020s"](https://www.theatlantic.com/magazine/archive/2021/03/hyperpop/617795/) *The Atlantic* (March 2021).
 
