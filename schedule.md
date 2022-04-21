@@ -271,7 +271,7 @@ _In Class_
 
 _In Class_
 - Q&A with [Spencer Kornhaber](https://twitter.com/skornhaber), pop culture writer for *The Atlantic*.
-- Data Visualization with Tableau Public
+- [Data Visualization practice with Tableau Public]({{site.baseurl}}/in-class/tableau-public-ii)
 
 ### Wrapping Up
 
