@@ -277,8 +277,10 @@ _In Class_
 
 #### Tue., Apr. 26: Final Project Workshop
 
-#### Thu., Apr. 28: Final Project Workshop
-- Submit an updated resume on Canvas that includes the skills you've learned in this class.
+#### Thu., Apr. 28: Final Project/Resume Workshop
+
+_In Class_
+- Resume workshop
 
 #### Tue., May. 3: Final Project Presentations
 - Draft of [Final Project]({{site.baseurl}}/assignments/final-project) due by beginning of class.
