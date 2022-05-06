@@ -11,4 +11,4 @@ You will present your final projects during the last week of class, during which
 
 *Presentation of project due in class May 3rd or May 5th*
 
-*Final Draft due on Canvas May 12th by 11:59PM*
+*Final Draft due on Canvas May 11th by 11:59PM*
