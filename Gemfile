@@ -14,3 +14,4 @@ end
 
 gem "webrick", "~> 1.7"
 gem "nokogiri", ">= 1.13.4"
+gem "rexml", ">= 3.2.8"
