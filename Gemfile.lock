@@ -121,7 +121,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    webrick (1.7.0)
+    webrick (1.8.2)
 
 PLATFORMS
   universal-darwin-21
@@ -139,7 +139,7 @@ DEPENDENCIES
   jemoji
   nokogiri (>= 1.13.4)
   rexml (>= 3.2.8)
-  webrick (~> 1.7)
+  webrick (>= 1.8.2)
 
 BUNDLED WITH
    2.2.32
