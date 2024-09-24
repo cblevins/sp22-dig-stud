@@ -12,6 +12,6 @@ group :jekyll_plugins do
   gem "jemoji"
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick", ">= 1.8.2"
 gem "nokogiri", ">= 1.13.4"
 gem "rexml", ">= 3.2.8"
